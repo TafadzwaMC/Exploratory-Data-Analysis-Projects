@@ -47,7 +47,7 @@ SELECT
 
 
 
- --Which Country Won The Most Medals In Total Since 1990
+ --Countries Having Won The Most Medals In Total Since 1990
    SELECT
    [NOC] AS 'Nation Code' -- Explained abbreviation
    ,LEFT(Games, CHARINDEX(' ', Games) - 1) AS 'Year' -- Split column to isolate Year, based on space
@@ -87,7 +87,7 @@ SELECT
 
 
  
---Which Sport Had The Most Participants Each Year
+--Sports With The Most Participants Each Year
 SELECT Sport, COUNT(Name) AS No_Of_Participants, LEFT(Games, CHARINDEX(' ', Games) - 1) AS 'Year'
 FROM [olympic_games].[dbo].[athletes_event_results]
 WHERE RIGHT(Games,CHARINDEX(' ', REVERSE(Games))-1) = 'Summer'AND LEFT([Games], 4) >= 1990
@@ -96,7 +96,7 @@ ORDER BY No_Of_Participants DESC
 
 
 
---Which Country Had The Most Participants Each Year
+--Countries With The Most Participants Each Year
 SELECT NOC AS Nation_Code
  ,COUNT(Name) AS Number_Of_Participants
  ,LEFT([Games], 4) AS Year
