@@ -15,7 +15,7 @@ You also know that there is an interest in details about the competitors, so if 
 The main task is still to show historical performance for different countries, with the possibility to select your own country."</p>
 
 
-<h1>Analysis Findigs</h1>
+<h1>Analysis Findings</h1>
 <ol>
      <li>There was a stead increase in the total number of Medals won as the years progressed with the greatest number of medals won being 2048 medals in 2008</li>
      <li>In each year, Bronze was the most won medal, followed by Gold and lastly silver</li>
