@@ -13,7 +13,7 @@ SELECT
         ,[NOC] AS 'Nation Code' -- Explained abbreviation
         ,LEFT(Games, CHARINDEX(' ', Games) - 1) AS 'Year' -- Split column to isolate Year, based on space
        ,RIGHT(Games,CHARINDEX(' ', REVERSE(Games))-1) AS 'Season' -- Split column to isolate Season, based on space
---     ,[Games]
+--       ,[Games] -- Comented out as it is not necessary for analysis
 --       ,[City] -- Commented out as it is not necessary for the analysis
         ,[Sport]
         ,[Event]
@@ -50,8 +50,8 @@ SELECT
  --Which Country Won The Most Medals In Total Since 1990
    SELECT
    [NOC] AS 'Nation Code' -- Explained abbreviation
-        ,LEFT(Games, CHARINDEX(' ', Games) - 1) AS 'Year' -- Split column to isolate Year, based on space
-		,COUNT(Medal) AS Number_Of_Medals_Won
+   ,LEFT(Games, CHARINDEX(' ', Games) - 1) AS 'Year' -- Split column to isolate Year, based on space
+   ,COUNT(Medal) AS Number_Of_Medals_Won
 	
   FROM [olympic_games].[dbo].[athletes_event_results] 
   WHERE RIGHT(Games,CHARINDEX(' ', REVERSE(Games))-1) = 'Summer' -- Where Clause to isolate Summer Season
@@ -60,11 +60,9 @@ SELECT
   GROUP BY [NOC] ,LEFT(Games, CHARINDEX(' ', Games) - 1)
   ORDER BY Number_Of_Medals_Won DESC
 
-  
 
 
-
- --What Is The Average Age Of Competitors Each Year, Grouped by Gender
+ --Average Age Of Competitors Each Year, Grouped by Gender
  SELECT ROUND(AVG(Age), 0) AS Average_Age
  ,LEFT(Games, CHARINDEX(' ', Games) - 1) AS 'Year'
  --,RIGHT([Games],6) AS Season
@@ -77,20 +75,15 @@ SELECT
 
 
 
-
-
-
-
    --Total Number Of Participants Each Year By Gender
  SELECT 
- COUNT(Sex) AS Number_Of_Participants,
-  CASE WHEN SEX = 'M' THEN 'Male' ELSE 'Female' END AS Gender -- Better name for filters and visualisations
+ COUNT(Sex) AS Number_Of_Participants
+  ,CASE WHEN SEX = 'M' THEN 'Male' ELSE 'Female' END AS Gender -- Better name for filters and visualisations
   ,LEFT(Games, CHARINDEX(' ', Games) - 1) AS 'Year'
  FROM [olympic_games].[dbo].[athletes_event_results]
  WHERE RIGHT(Games,CHARINDEX(' ', REVERSE(Games))-1) = 'Summer' AND LEFT([Games], 4) >= 1990
  GROUP By Sex, LEFT(Games, CHARINDEX(' ', Games) - 1)
  ORDER BY Year DESC
-
 
 
  
@@ -112,4 +105,3 @@ FROM [olympic_games].[dbo].[athletes_event_results]
 WHERE LEFT([Games], 4) >= 1990
 GROUP BY NOC, LEFT([Games], 4)
 ORDER BY Number_Of_Participants DESC
-
