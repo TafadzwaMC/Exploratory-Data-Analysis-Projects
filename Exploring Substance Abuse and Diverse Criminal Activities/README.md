@@ -81,20 +81,20 @@ To illustrate the nexus between substance abuse and criminal activities, conside
 
 
 <br> 
+<h1 align="left">Project Scope</h1>
+<p>
+    
+    A. Data Collection: Gather data related to substance abuse and criminal activities from various sources, Organize this data into structured Excel spreadsheets for analysis.
+    B. Data Cleaning and Validation: Conduct thorough data cleaning procedures with Excel to address issues such as missing values, duplicate entries, and formatting inconsistencies.
+    C. Exploratory Data Analysis (EDA): Utilize Excel’s built-in statistical functions and tools to perform descriptive data analysis. Calculate key summary statistics, for crime frequencies, drug types, and demographics.
+    D. Data Visualization: Develop Excel - based data visualizations, Ensure that reports are structured for easy consumption by decision-makers
+</p>
 
+
+<br>
 <h1 align="left">Tech Stack</h1>
 <p>
 Excel will be used for this project, by utilizing its built-in features for data filtering, sorting, and pivot tables to explore trends and relationships within the data. Additionally, Excel's charting capabilities can help visualize patterns and summarize key insights from the dataset.
-Project Scope
-
-    A. Data Collection: Gather data related to substance abuse and criminal activities from various sources, Organize this data into structured Excel spreadsheets for analysis.
-     
-    B. Data Cleaning and Validation: Conduct thorough data cleaning procedures with Excel to address issues such as missing values, duplicate entries, and formatting inconsistencies.
-     
-    C. Exploratory Data Analysis (EDA): Utilize Excel’s built-in statistical functions and tools to perform descriptive data analysis. Calculate key summary statistics, for crime frequencies, drug types, and demographics.
-     
-    D. Data Visualization: Develop Excel - based data visualizations, Ensure that reports are structured for easy consumption by decision-makers
-
 </p>
 
 
