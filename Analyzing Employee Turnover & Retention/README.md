@@ -62,17 +62,20 @@ NeoTech has provided a dataset containing information on all employees in employ
 </p>
 
 
+
+<br>
+<h1 align="left">Project Scope</h1>
+<p>
+  
+    ✓ Data Assessment: Data is thoroughly assessed to identify quality & tidiness issues
+    ✓ Exploratory Analysis: The data is thoroughly explored and analysed to gain insights and understand its characteristics.
+</p>
+
+
 <br>
 <h1 align="left">Tech Stack</h1>
 <p>The data would be analyzed in Python using Python libraries like Pandas, Numpy, Matplotlib, and seaborn.
-Project Scope
-
-✓ Data Assessment: Data is thoroughly assessed to identify quality & tidiness issues
-
-✓ Exploratory Analysis: The data is thoroughly explored and analysed to gain insights and understand its characteristics.
-
 </p>
-
 
 
 
