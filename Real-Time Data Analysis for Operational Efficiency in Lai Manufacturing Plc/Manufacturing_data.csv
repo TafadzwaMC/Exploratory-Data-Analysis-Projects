@@ -1,0 +1,1001 @@
+Operations_ID,Product_ID,Product_Name,Product_Category,Production_Date,Production_Quantity,Quality_Metrics,Quantity_in_Stock,Quantity_Sold,Supplier_ID,Supplier_Name,Lead_Time,Employee_ID,Employee_Name,Shift_Information,Maintenance_Type,Downtime_Duration,Energy_Consumption_Data,Production_Time,Downtime_Events,Employee_Rating,Downtime_Reason
+1,2,Washing Machine,Home Appliances,5/30/2023,497,Passed,496,1,7,Ferguson Inc,9,6,Taylor Davis,Morning Shift,Repairs,none,869.9849609,4.509768674,0,4,Material Shortage
+2,5,Air Conditioners,Home Appliances,8/28/2023,437,Failed,84,353,9,Lawson-Herrera,6,9,Natasha Thomas,Morning Shift,Repairs,1.289021255,822.3971226,8.88176803,5,3,Human Error
+3,5,Air Conditioners,Home Appliances,7/13/2023,246,Failed,59,187,10,Campbell-Wong,2,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.304791348,806.4924548,9.637728679,2,2,Technical Issues
+4,2,Washing Machine,Home Appliances,8/7/2023,591,Passed,389,202,6,"Hill, Thomas and Neal",10,4,Megan Allen,Night Shift,Routine Maintenance,none,1164.227195,5.658093242,0,1,Human Error
+5,6,Microwave Ovens,Home Appliances,8/3/2023,470,Passed,360,110,8,"Adams, Murphy and Wilson",9,10,Cheryl Nunez,Night Shift,Routine Maintenance,1.614071563,982.6411745,5.823657906,3,3,Technical Issues
+6,1,Refrigerator,Home Appliances,5/15/2023,448,In-Between,88,360,4,"Yang, Walker and George",5,10,Cheryl Nunez,Night Shift,Repairs,none,926.988456,4.485649004,0,1,Material Shortage
+7,1,Refrigerator,Home Appliances,6/25/2023,275,Passed,171,104,1,"Barnes, Butler and Russell",6,5,David Floyd,Afternoon Shift,Routine Maintenance,3.100452746,974.67356,8.113275998,3,3,Human Error
+8,4,Diesel Generator,Industrial Machinery,4/27/2023,938,Failed,381,557,1,"Barnes, Butler and Russell",4,10,Cheryl Nunez,Night Shift,Repairs,3.318857025,1262.172436,9.719340766,4,4,Material Shortage
+9,2,Washing Machine,Home Appliances,9/3/2023,488,Passed,487,1,8,"Adams, Murphy and Wilson",3,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.996365983,896.2642527,7.857555105,3,5,Human Error
+10,7,Industrial Cookers,Industrial Machinery,6/22/2023,610,Passed,298,312,1,"Barnes, Butler and Russell",10,9,Natasha Thomas,Morning Shift,Repairs,1.304617348,940.010044,5.448318538,1,3,Technical Issues
+11,7,Industrial Cookers,Industrial Machinery,7/27/2023,422,Passed,421,1,3,Hartman-Banks,10,6,Taylor Davis,Morning Shift,Routine Maintenance,3.984549578,885.3261456,5.897679829,1,2,Material Shortage
+12,7,Industrial Cookers,Industrial Machinery,5/16/2023,675,Passed,109,566,2,"Moore, Hernandez and Munoz",10,8,Sarah Lloyd,Afternoon Shift,Repairs,1.147868998,1007.105171,8.932249056,3,3,Human Error
+13,4,Diesel Generator,Industrial Machinery,6/6/2023,361,In-Between,261,100,9,Lawson-Herrera,5,7,Victor Hernandez,Night Shift,Routine Maintenance,3.828420237,1174.859568,3.740387334,4,4,Technical Issues
+14,4,Diesel Generator,Industrial Machinery,7/22/2023,695,Failed,485,210,5,Hawkins-Miller,10,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.586842599,1090.993028,9.416398799,4,4,Human Error
+15,5,Air Conditioners,Home Appliances,6/29/2023,739,Passed,437,302,10,Campbell-Wong,10,5,David Floyd,Afternoon Shift,Repairs,none,871.0408867,5.454860662,0,4,Technical Issues
+16,7,Industrial Cookers,Industrial Machinery,7/18/2023,707,Passed,489,218,9,Lawson-Herrera,1,4,Megan Allen,Night Shift,Repairs,1.525867977,863.3302721,10.17271226,5,2,Human Error
+17,7,Industrial Cookers,Industrial Machinery,8/24/2023,525,In-Between,260,265,4,"Yang, Walker and George",9,5,David Floyd,Afternoon Shift,Routine Maintenance,none,833.9853988,9.582856579,0,3,Material Shortage
+18,6,Microwave Ovens,Home Appliances,7/7/2023,902,In-Between,92,810,9,Lawson-Herrera,10,4,Megan Allen,Night Shift,Routine Maintenance,3.608479607,1180.318146,6.76834275,1,1,Human Error
+19,2,Washing Machine,Home Appliances,6/22/2023,325,Passed,64,261,4,"Yang, Walker and George",6,6,Taylor Davis,Morning Shift,Routine Maintenance,1.313398028,1329.099514,4.411099205,2,3,Human Error
+20,1,Refrigerator,Home Appliances,9/22/2023,924,Passed,121,803,8,"Adams, Murphy and Wilson",5,7,Victor Hernandez,Night Shift,Repairs,none,1038.890239,8.862263574,0,3,Material Shortage
+21,2,Washing Machine,Home Appliances,6/18/2023,826,Passed,82,744,2,"Moore, Hernandez and Munoz",5,7,Victor Hernandez,Night Shift,Routine Maintenance,2.938042112,1094.256745,11.15700937,3,2,Human Error
+22,6,Microwave Ovens,Home Appliances,4/29/2023,486,Passed,485,1,4,"Yang, Walker and George",10,7,Victor Hernandez,Night Shift,Repairs,4.181179126,856.0022737,8.645271416,2,2,Technical Issues
+23,6,Microwave Ovens,Home Appliances,7/28/2023,353,Passed,352,1,1,"Barnes, Butler and Russell",1,5,David Floyd,Afternoon Shift,Repairs,3.776333686,1310.000021,8.081796398,3,1,Technical Issues
+24,6,Microwave Ovens,Home Appliances,9/20/2023,829,Passed,213,616,10,Campbell-Wong,10,4,Megan Allen,Night Shift,Routine Maintenance,1.561361074,1202.044547,6.065690188,5,3,Material Shortage
+25,1,Refrigerator,Home Appliances,6/1/2023,339,Passed,127,212,8,"Adams, Murphy and Wilson",8,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.597553514,1235.950089,6.413255734,1,3,Material Shortage
+26,7,Industrial Cookers,Industrial Machinery,6/22/2023,479,Passed,478,1,1,"Barnes, Butler and Russell",2,1,Amber Powell,Morning Shift,Routine Maintenance,3.925158857,945.8040571,5.347567592,2,4,Technical Issues
+27,5,Air Conditioners,Home Appliances,5/9/2023,768,Passed,420,348,10,Campbell-Wong,10,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.874601222,1095.633628,11.87605649,5,4,Technical Issues
+28,1,Refrigerator,Home Appliances,6/16/2023,368,Failed,367,1,7,Ferguson Inc,9,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.282204702,996.7754283,9.354261099,5,4,Human Error
+29,7,Industrial Cookers,Industrial Machinery,7/24/2023,481,Passed,480,1,7,Ferguson Inc,5,3,Melissa Kim,Afternoon Shift,Repairs,3.72415844,1177.63202,10.47857117,5,1,Human Error
+30,2,Washing Machine,Home Appliances,4/13/2023,269,Passed,148,121,10,Campbell-Wong,2,5,David Floyd,Afternoon Shift,Repairs,4.176898783,1225.561373,10.69276851,4,3,Human Error
+31,5,Air Conditioners,Home Appliances,5/29/2023,494,Failed,91,403,5,Hawkins-Miller,10,8,Sarah Lloyd,Afternoon Shift,Repairs,2.681824499,961.8698012,5.348600851,4,3,Material Shortage
+32,2,Washing Machine,Home Appliances,5/10/2023,364,Passed,290,74,7,Ferguson Inc,6,2,Ashley Herring,Night Shift,Routine Maintenance,none,1198.807192,9.22508942,0,1,Human Error
+33,4,Diesel Generator,Industrial Machinery,9/25/2023,379,Passed,110,269,2,"Moore, Hernandez and Munoz",2,5,David Floyd,Afternoon Shift,Routine Maintenance,3.81799709,926.8419211,7.809460978,4,1,Human Error
+34,6,Microwave Ovens,Home Appliances,7/10/2023,798,Passed,88,710,8,"Adams, Murphy and Wilson",7,4,Megan Allen,Night Shift,Routine Maintenance,2.568905829,1069.567257,4.242094001,2,2,Human Error
+35,7,Industrial Cookers,Industrial Machinery,7/15/2023,699,Passed,179,520,3,Hartman-Banks,5,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.768898477,1281.267137,8.059123419,4,2,Material Shortage
+36,4,Diesel Generator,Industrial Machinery,9/7/2023,899,Passed,354,545,4,"Yang, Walker and George",7,4,Megan Allen,Night Shift,Repairs,3.953602134,1020.2887,10.54313532,2,3,Material Shortage
+37,5,Air Conditioners,Home Appliances,5/31/2023,826,Passed,430,396,10,Campbell-Wong,7,6,Taylor Davis,Morning Shift,Repairs,1.641333948,1151.906424,7.024144783,1,2,Material Shortage
+38,6,Microwave Ovens,Home Appliances,8/19/2023,216,Passed,105,111,7,Ferguson Inc,10,9,Natasha Thomas,Morning Shift,Routine Maintenance,2.231045608,1260.424425,6.595513159,1,2,Technical Issues
+39,3,Industrial Mixer,Industrial Machinery,5/25/2023,673,Passed,396,277,6,"Hill, Thomas and Neal",5,1,Amber Powell,Morning Shift,Repairs,3.91692339,847.2060716,9.391779561,2,4,Technical Issues
+40,6,Microwave Ovens,Home Appliances,8/19/2023,515,Failed,145,370,10,Campbell-Wong,6,7,Victor Hernandez,Night Shift,Repairs,2.489752888,1055.42976,7.119797611,4,2,Material Shortage
+41,3,Industrial Mixer,Industrial Machinery,9/16/2023,554,Failed,480,74,8,"Adams, Murphy and Wilson",10,5,David Floyd,Afternoon Shift,Repairs,3.535164223,996.6098843,3.820659038,3,2,Technical Issues
+42,3,Industrial Mixer,Industrial Machinery,8/22/2023,400,Passed,399,1,3,Hartman-Banks,9,9,Natasha Thomas,Morning Shift,Repairs,2.891115099,1299.411492,5.228797925,2,3,Human Error
+43,7,Industrial Cookers,Industrial Machinery,9/26/2023,417,Passed,416,1,10,Campbell-Wong,5,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.62576008,1177.93831,5.533695678,5,3,Technical Issues
+44,4,Diesel Generator,Industrial Machinery,8/30/2023,477,Passed,234,243,4,"Yang, Walker and George",2,6,Taylor Davis,Morning Shift,Routine Maintenance,2.215339692,1194.542571,11.37916419,3,5,Material Shortage
+45,5,Air Conditioners,Home Appliances,6/13/2023,332,Passed,331,1,9,Lawson-Herrera,3,1,Amber Powell,Morning Shift,Routine Maintenance,none,883.6884036,11.97542127,0,5,Material Shortage
+46,5,Air Conditioners,Home Appliances,7/23/2023,344,Passed,140,204,5,Hawkins-Miller,9,6,Taylor Davis,Morning Shift,Routine Maintenance,1.103480129,956.0488208,11.80993418,3,4,Human Error
+47,4,Diesel Generator,Industrial Machinery,4/18/2023,368,Passed,192,176,9,Lawson-Herrera,10,8,Sarah Lloyd,Afternoon Shift,Repairs,2.034186284,863.3510286,4.592179968,5,1,Human Error
+48,6,Microwave Ovens,Home Appliances,5/21/2023,379,Passed,378,1,5,Hawkins-Miller,2,2,Ashley Herring,Night Shift,Routine Maintenance,1.838082321,931.1577358,6.226072837,1,5,Technical Issues
+49,2,Washing Machine,Home Appliances,8/10/2023,588,Passed,407,181,1,"Barnes, Butler and Russell",2,1,Amber Powell,Morning Shift,Routine Maintenance,3.049937973,1064.298882,7.20203347,4,3,Material Shortage
+50,4,Diesel Generator,Industrial Machinery,7/24/2023,505,Passed,159,346,10,Campbell-Wong,1,1,Amber Powell,Morning Shift,Routine Maintenance,2.841344185,1200.198053,3.22058456,3,1,Technical Issues
+51,6,Microwave Ovens,Home Appliances,5/31/2023,908,Passed,399,509,2,"Moore, Hernandez and Munoz",6,10,Cheryl Nunez,Night Shift,Repairs,1.806851839,1270.138698,6.561717457,5,4,Technical Issues
+52,1,Refrigerator,Home Appliances,4/11/2023,412,Passed,333,79,4,"Yang, Walker and George",3,7,Victor Hernandez,Night Shift,Repairs,2.462439545,1328.724535,9.424495194,1,2,Material Shortage
+53,6,Microwave Ovens,Home Appliances,9/8/2023,349,Failed,54,295,6,"Hill, Thomas and Neal",2,4,Megan Allen,Night Shift,Repairs,2.233555089,903.1691124,6.266693168,4,3,Human Error
+54,2,Washing Machine,Home Appliances,6/6/2023,684,Failed,86,598,2,"Moore, Hernandez and Munoz",6,5,David Floyd,Afternoon Shift,Repairs,none,1308.902686,9.467064833,0,2,Technical Issues
+55,4,Diesel Generator,Industrial Machinery,9/12/2023,601,Passed,194,407,1,"Barnes, Butler and Russell",9,5,David Floyd,Afternoon Shift,Repairs,2.170278092,1147.31949,10.07174472,4,1,Human Error
+56,2,Washing Machine,Home Appliances,6/27/2023,439,Failed,438,1,4,"Yang, Walker and George",9,1,Amber Powell,Morning Shift,Routine Maintenance,1.715951294,980.9328837,8.922984267,5,4,Material Shortage
+57,5,Air Conditioners,Home Appliances,8/15/2023,171,In-Between,123,48,1,"Barnes, Butler and Russell",9,10,Cheryl Nunez,Night Shift,Routine Maintenance,none,1073.037671,8.125127749,0,4,Technical Issues
+58,1,Refrigerator,Home Appliances,5/15/2023,448,Passed,343,105,2,"Moore, Hernandez and Munoz",4,4,Megan Allen,Night Shift,Repairs,2.906743709,816.9317522,5.428536627,2,2,Human Error
+59,4,Diesel Generator,Industrial Machinery,8/28/2023,466,Failed,272,194,8,"Adams, Murphy and Wilson",10,9,Natasha Thomas,Morning Shift,Routine Maintenance,1.363573784,1080.440266,5.134025759,2,4,Technical Issues
+60,6,Microwave Ovens,Home Appliances,6/28/2023,957,Failed,332,625,3,Hartman-Banks,10,6,Taylor Davis,Morning Shift,Routine Maintenance,2.64015837,949.013593,11.85193891,4,3,Technical Issues
+61,2,Washing Machine,Home Appliances,6/25/2023,635,Passed,307,328,3,Hartman-Banks,6,8,Sarah Lloyd,Afternoon Shift,Repairs,3.660680374,1285.937846,7.685667701,1,4,Technical Issues
+62,1,Refrigerator,Home Appliances,7/1/2023,501,Passed,500,1,3,Hartman-Banks,3,9,Natasha Thomas,Morning Shift,Routine Maintenance,4.485792535,1210.285843,6.478174785,5,2,Technical Issues
+63,4,Diesel Generator,Industrial Machinery,6/20/2023,665,Passed,127,538,8,"Adams, Murphy and Wilson",8,5,David Floyd,Afternoon Shift,Routine Maintenance,none,933.2329399,9.730899379,0,1,Technical Issues
+64,2,Washing Machine,Home Appliances,6/7/2023,317,Passed,316,1,8,"Adams, Murphy and Wilson",7,3,Melissa Kim,Afternoon Shift,Repairs,1.617048176,1085.350794,8.784524544,2,4,Human Error
+65,3,Industrial Mixer,Industrial Machinery,4/24/2023,795,Passed,493,302,8,"Adams, Murphy and Wilson",2,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.560877224,1249.221326,10.86282887,4,4,Material Shortage
+66,3,Industrial Mixer,Industrial Machinery,7/3/2023,823,Failed,140,683,7,Ferguson Inc,1,1,Amber Powell,Morning Shift,Routine Maintenance,none,962.6816163,5.313745603,0,2,Human Error
+67,5,Air Conditioners,Home Appliances,6/9/2023,343,Passed,342,1,4,"Yang, Walker and George",8,5,David Floyd,Afternoon Shift,Repairs,3.185492569,1318.744613,10.84590569,4,3,Technical Issues
+68,5,Air Conditioners,Home Appliances,6/3/2023,497,Passed,350,147,3,Hartman-Banks,4,2,Ashley Herring,Night Shift,Repairs,4.422197231,1013.41855,8.432909208,5,3,Material Shortage
+69,6,Microwave Ovens,Home Appliances,4/4/2023,541,Failed,251,290,5,Hawkins-Miller,1,10,Cheryl Nunez,Night Shift,Repairs,2.448128784,1247.995874,5.148990022,2,2,Human Error
+70,3,Industrial Mixer,Industrial Machinery,9/29/2023,842,Passed,146,696,6,"Hill, Thomas and Neal",9,4,Megan Allen,Night Shift,Repairs,1.872577559,1260.894178,6.886698716,5,4,Human Error
+71,5,Air Conditioners,Home Appliances,9/15/2023,143,In-Between,79,64,10,Campbell-Wong,1,9,Natasha Thomas,Morning Shift,Repairs,none,930.09974,9.393639198,0,3,Material Shortage
+72,5,Air Conditioners,Home Appliances,6/11/2023,704,Passed,423,281,3,Hartman-Banks,4,8,Sarah Lloyd,Afternoon Shift,Repairs,4.201344436,1004.028362,6.809403744,5,5,Human Error
+73,3,Industrial Mixer,Industrial Machinery,9/2/2023,834,Passed,250,584,10,Campbell-Wong,7,2,Ashley Herring,Night Shift,Repairs,none,1328.099502,4.140793351,0,3,Technical Issues
+74,7,Industrial Cookers,Industrial Machinery,5/8/2023,493,Passed,198,295,3,Hartman-Banks,10,7,Victor Hernandez,Night Shift,Routine Maintenance,none,1181.893545,11.40844609,0,2,Human Error
+75,4,Diesel Generator,Industrial Machinery,8/16/2023,646,Passed,347,299,5,Hawkins-Miller,4,5,David Floyd,Afternoon Shift,Routine Maintenance,3.869762477,1050.308109,5.608319794,3,4,Technical Issues
+76,3,Industrial Mixer,Industrial Machinery,9/17/2023,702,Passed,205,497,10,Campbell-Wong,3,2,Ashley Herring,Night Shift,Repairs,2.660149738,1057.325475,3.96835263,4,2,Human Error
+77,7,Industrial Cookers,Industrial Machinery,4/10/2023,456,Failed,321,135,9,Lawson-Herrera,5,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,1.57202885,851.2074492,9.491115806,4,3,Technical Issues
+78,3,Industrial Mixer,Industrial Machinery,5/26/2023,782,Failed,457,325,7,Ferguson Inc,2,9,Natasha Thomas,Morning Shift,Routine Maintenance,2.258820789,839.2250925,8.373902758,4,3,Technical Issues
+79,5,Air Conditioners,Home Appliances,5/24/2023,909,Failed,150,759,9,Lawson-Herrera,10,4,Megan Allen,Night Shift,Repairs,4.539006849,1281.513463,10.65424339,5,1,Human Error
+80,4,Diesel Generator,Industrial Machinery,5/3/2023,450,Passed,111,339,3,Hartman-Banks,4,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.820844694,1240.049598,4.988050453,4,3,Material Shortage
+81,5,Air Conditioners,Home Appliances,4/10/2023,986,Passed,362,624,2,"Moore, Hernandez and Munoz",5,7,Victor Hernandez,Night Shift,Routine Maintenance,none,1254.236298,7.318353571,0,3,Human Error
+82,3,Industrial Mixer,Industrial Machinery,4/13/2023,172,Passed,171,1,4,"Yang, Walker and George",4,5,David Floyd,Afternoon Shift,Repairs,2.004456298,1296.437877,3.975765802,4,1,Technical Issues
+83,7,Industrial Cookers,Industrial Machinery,8/21/2023,313,Failed,312,1,1,"Barnes, Butler and Russell",5,5,David Floyd,Afternoon Shift,Routine Maintenance,2.086880933,926.9943877,7.951574872,4,1,Material Shortage
+84,4,Diesel Generator,Industrial Machinery,8/14/2023,789,Passed,305,484,1,"Barnes, Butler and Russell",8,6,Taylor Davis,Morning Shift,Repairs,none,1304.817455,4.392627232,0,5,Human Error
+85,2,Washing Machine,Home Appliances,4/17/2023,367,In-Between,293,74,2,"Moore, Hernandez and Munoz",3,10,Cheryl Nunez,Night Shift,Repairs,2.161094411,1182.240265,9.338430938,1,5,Human Error
+86,2,Washing Machine,Home Appliances,4/17/2023,622,Passed,342,280,1,"Barnes, Butler and Russell",5,9,Natasha Thomas,Morning Shift,Repairs,3.438798674,915.6586383,6.12272852,2,4,Technical Issues
+87,5,Air Conditioners,Home Appliances,8/11/2023,260,Passed,259,1,3,Hartman-Banks,5,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1280.193142,9.033625923,0,3,Human Error
+88,7,Industrial Cookers,Industrial Machinery,8/7/2023,468,Passed,467,1,3,Hartman-Banks,4,3,Melissa Kim,Afternoon Shift,Repairs,none,882.3520176,5.689950658,0,4,Material Shortage
+89,2,Washing Machine,Home Appliances,6/7/2023,394,Failed,389,5,9,Lawson-Herrera,2,4,Megan Allen,Night Shift,Routine Maintenance,none,855.4599743,8.616401088,0,1,Technical Issues
+90,2,Washing Machine,Home Appliances,8/24/2023,606,Failed,376,230,2,"Moore, Hernandez and Munoz",8,2,Ashley Herring,Night Shift,Routine Maintenance,none,1014.728733,5.806150407,0,5,Technical Issues
+91,3,Industrial Mixer,Industrial Machinery,6/29/2023,720,Failed,498,222,5,Hawkins-Miller,10,1,Amber Powell,Morning Shift,Repairs,2.314178748,830.9882698,7.213430364,3,3,Technical Issues
+92,1,Refrigerator,Home Appliances,8/9/2023,581,Passed,473,108,5,Hawkins-Miller,4,3,Melissa Kim,Afternoon Shift,Repairs,none,1091.279045,7.949725739,0,4,Human Error
+93,3,Industrial Mixer,Industrial Machinery,8/20/2023,509,Passed,189,320,2,"Moore, Hernandez and Munoz",3,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.584796874,1105.171373,11.82735847,2,1,Technical Issues
+94,1,Refrigerator,Home Appliances,4/7/2023,796,Passed,161,635,10,Campbell-Wong,3,10,Cheryl Nunez,Night Shift,Repairs,2.169472951,870.2517196,3.194545569,1,1,Human Error
+95,6,Microwave Ovens,Home Appliances,4/9/2023,219,In-Between,218,1,9,Lawson-Herrera,3,4,Megan Allen,Night Shift,Routine Maintenance,4.119741556,1159.690219,11.67509034,4,2,Human Error
+96,3,Industrial Mixer,Industrial Machinery,9/1/2023,445,Passed,315,130,5,Hawkins-Miller,2,7,Victor Hernandez,Night Shift,Routine Maintenance,3.055727604,819.3113587,3.64758297,1,5,Human Error
+97,4,Diesel Generator,Industrial Machinery,8/8/2023,330,In-Between,329,1,10,Campbell-Wong,8,5,David Floyd,Afternoon Shift,Routine Maintenance,none,1341.247326,8.603061963,0,2,Material Shortage
+98,5,Air Conditioners,Home Appliances,8/25/2023,490,Passed,470,20,10,Campbell-Wong,7,5,David Floyd,Afternoon Shift,Routine Maintenance,2.85127178,1279.97304,11.69813115,3,2,Human Error
+99,6,Microwave Ovens,Home Appliances,7/23/2023,805,Passed,397,408,7,Ferguson Inc,4,7,Victor Hernandez,Night Shift,Repairs,none,1109.157168,4.533120879,0,3,Human Error
+100,6,Microwave Ovens,Home Appliances,6/27/2023,357,Passed,187,170,6,"Hill, Thomas and Neal",2,2,Ashley Herring,Night Shift,Routine Maintenance,4.772787214,909.7901967,9.827893111,5,3,Human Error
+101,6,Microwave Ovens,Home Appliances,9/24/2023,625,Passed,357,268,2,"Moore, Hernandez and Munoz",3,4,Megan Allen,Night Shift,Repairs,2.88172066,1039.251201,9.392712467,3,2,Material Shortage
+102,1,Refrigerator,Home Appliances,8/30/2023,927,Failed,62,865,9,Lawson-Herrera,4,6,Taylor Davis,Morning Shift,Repairs,3.520919252,940.766965,7.428647221,5,3,Material Shortage
+103,7,Industrial Cookers,Industrial Machinery,4/23/2023,227,Passed,226,1,9,Lawson-Herrera,5,7,Victor Hernandez,Night Shift,Routine Maintenance,4.207727649,907.477863,10.695733,5,5,Technical Issues
+104,4,Diesel Generator,Industrial Machinery,5/10/2023,977,Passed,109,868,3,Hartman-Banks,10,2,Ashley Herring,Night Shift,Repairs,none,1216.190379,8.167431598,0,2,Technical Issues
+105,1,Refrigerator,Home Appliances,8/30/2023,670,In-Between,63,607,5,Hawkins-Miller,8,2,Ashley Herring,Night Shift,Routine Maintenance,none,1034.582809,6.314433295,0,4,Material Shortage
+106,4,Diesel Generator,Industrial Machinery,6/8/2023,468,Passed,418,50,2,"Moore, Hernandez and Munoz",10,5,David Floyd,Afternoon Shift,Repairs,3.895943274,980.7221916,7.195937418,4,1,Technical Issues
+107,6,Microwave Ovens,Home Appliances,6/21/2023,436,In-Between,76,360,5,Hawkins-Miller,7,4,Megan Allen,Night Shift,Repairs,4.332603974,899.3592095,10.74401868,2,1,Technical Issues
+108,1,Refrigerator,Home Appliances,5/14/2023,429,Passed,97,332,1,"Barnes, Butler and Russell",9,2,Ashley Herring,Night Shift,Repairs,1.690017594,1050.457986,10.91431006,5,4,Material Shortage
+109,3,Industrial Mixer,Industrial Machinery,6/3/2023,890,In-Between,102,788,7,Ferguson Inc,2,9,Natasha Thomas,Morning Shift,Routine Maintenance,1.953657446,1004.307671,10.45076409,2,4,Material Shortage
+110,3,Industrial Mixer,Industrial Machinery,4/21/2023,495,Failed,89,406,8,"Adams, Murphy and Wilson",6,4,Megan Allen,Night Shift,Repairs,none,834.1066409,10.55195552,0,1,Material Shortage
+111,2,Washing Machine,Home Appliances,7/20/2023,363,Passed,268,95,4,"Yang, Walker and George",8,6,Taylor Davis,Morning Shift,Repairs,none,994.9261747,5.808108623,0,2,Technical Issues
+112,2,Washing Machine,Home Appliances,8/25/2023,768,Passed,176,592,2,"Moore, Hernandez and Munoz",3,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1085.612595,8.896628198,0,1,Human Error
+113,1,Refrigerator,Home Appliances,4/25/2023,135,Passed,70,65,1,"Barnes, Butler and Russell",7,2,Ashley Herring,Night Shift,Routine Maintenance,none,944.7613818,7.133552725,0,5,Human Error
+114,4,Diesel Generator,Industrial Machinery,7/13/2023,498,Passed,60,438,4,"Yang, Walker and George",6,10,Cheryl Nunez,Night Shift,Repairs,2.500461099,1251.934296,5.582855014,3,2,Human Error
+115,1,Refrigerator,Home Appliances,6/2/2023,375,Passed,247,128,8,"Adams, Murphy and Wilson",4,8,Sarah Lloyd,Afternoon Shift,Repairs,1.0630163,1280.432288,9.848506546,1,5,Material Shortage
+116,1,Refrigerator,Home Appliances,6/18/2023,411,Failed,410,1,1,"Barnes, Butler and Russell",8,3,Melissa Kim,Afternoon Shift,Repairs,none,1056.558991,10.1983807,0,4,Technical Issues
+117,2,Washing Machine,Home Appliances,5/12/2023,153,Passed,152,1,4,"Yang, Walker and George",10,7,Victor Hernandez,Night Shift,Repairs,4.081932411,909.2464643,4.43206211,5,3,Human Error
+118,4,Diesel Generator,Industrial Machinery,5/17/2023,802,Passed,382,420,10,Campbell-Wong,10,9,Natasha Thomas,Morning Shift,Repairs,3.711849595,1041.816578,8.554845887,3,5,Technical Issues
+119,6,Microwave Ovens,Home Appliances,5/20/2023,365,Passed,250,115,2,"Moore, Hernandez and Munoz",3,2,Ashley Herring,Night Shift,Routine Maintenance,1.855322116,1278.392693,10.11904461,3,4,Technical Issues
+120,4,Diesel Generator,Industrial Machinery,4/1/2023,817,In-Between,325,492,2,"Moore, Hernandez and Munoz",6,5,David Floyd,Afternoon Shift,Routine Maintenance,2.209899676,1281.7993,4.367075518,2,1,Human Error
+121,6,Microwave Ovens,Home Appliances,8/3/2023,534,Failed,189,345,10,Campbell-Wong,4,6,Taylor Davis,Morning Shift,Routine Maintenance,1.803308352,1204.380216,7.568972664,3,2,Material Shortage
+122,2,Washing Machine,Home Appliances,6/23/2023,628,Passed,117,511,10,Campbell-Wong,10,6,Taylor Davis,Morning Shift,Repairs,2.430333705,1105.01694,11.55204297,4,1,Human Error
+123,4,Diesel Generator,Industrial Machinery,6/3/2023,611,Passed,103,508,9,Lawson-Herrera,2,9,Natasha Thomas,Morning Shift,Repairs,3.93615495,1058.284472,5.07442312,4,4,Technical Issues
+124,6,Microwave Ovens,Home Appliances,5/31/2023,254,Passed,253,1,5,Hawkins-Miller,6,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,3.769200744,821.6440569,10.19774989,1,1,Human Error
+125,7,Industrial Cookers,Industrial Machinery,8/15/2023,668,Passed,482,186,3,Hartman-Banks,1,8,Sarah Lloyd,Afternoon Shift,Repairs,2.396763829,807.1053495,6.301829345,3,1,Material Shortage
+126,1,Refrigerator,Home Appliances,9/29/2023,913,Passed,319,594,8,"Adams, Murphy and Wilson",2,9,Natasha Thomas,Morning Shift,Routine Maintenance,2.190976725,1271.346559,4.828145748,4,2,Technical Issues
+127,4,Diesel Generator,Industrial Machinery,8/11/2023,490,Passed,489,1,10,Campbell-Wong,8,8,Sarah Lloyd,Afternoon Shift,Repairs,3.218062175,1096.789285,11.08706452,1,2,Material Shortage
+128,6,Microwave Ovens,Home Appliances,5/11/2023,899,Passed,271,628,3,Hartman-Banks,5,9,Natasha Thomas,Morning Shift,Repairs,4.879965577,1109.731617,9.768287224,2,3,Material Shortage
+129,4,Diesel Generator,Industrial Machinery,7/16/2023,602,Failed,222,380,10,Campbell-Wong,9,2,Ashley Herring,Night Shift,Repairs,4.567566251,1053.954539,7.214015615,3,5,Material Shortage
+130,3,Industrial Mixer,Industrial Machinery,8/14/2023,548,Passed,168,380,5,Hawkins-Miller,8,1,Amber Powell,Morning Shift,Routine Maintenance,1.808854209,1198.752362,6.562585692,1,5,Human Error
+131,2,Washing Machine,Home Appliances,9/5/2023,711,Failed,68,643,7,Ferguson Inc,1,8,Sarah Lloyd,Afternoon Shift,Repairs,3.598812137,844.221973,7.825893615,4,3,Material Shortage
+132,1,Refrigerator,Home Appliances,9/25/2023,748,Passed,251,497,1,"Barnes, Butler and Russell",3,5,David Floyd,Afternoon Shift,Repairs,none,1171.201125,6.168478509,0,3,Technical Issues
+133,1,Refrigerator,Home Appliances,7/5/2023,326,In-Between,91,235,8,"Adams, Murphy and Wilson",2,2,Ashley Herring,Night Shift,Routine Maintenance,3.837383012,1222.134234,9.227754384,1,1,Human Error
+134,2,Washing Machine,Home Appliances,8/27/2023,838,Failed,299,539,3,Hartman-Banks,9,1,Amber Powell,Morning Shift,Routine Maintenance,3.716219125,868.5022714,3.654394817,3,3,Human Error
+135,4,Diesel Generator,Industrial Machinery,6/25/2023,369,Passed,368,1,3,Hartman-Banks,8,4,Megan Allen,Night Shift,Repairs,4.243072414,852.8747983,9.221266497,4,2,Technical Issues
+136,6,Microwave Ovens,Home Appliances,8/26/2023,820,Passed,320,500,2,"Moore, Hernandez and Munoz",4,2,Ashley Herring,Night Shift,Routine Maintenance,4.548969159,1069.541267,9.057883563,2,1,Material Shortage
+137,4,Diesel Generator,Industrial Machinery,9/1/2023,789,Passed,163,626,9,Lawson-Herrera,1,5,David Floyd,Afternoon Shift,Routine Maintenance,none,940.2938601,8.000926587,0,1,Material Shortage
+138,5,Air Conditioners,Home Appliances,5/9/2023,856,Passed,60,796,6,"Hill, Thomas and Neal",1,9,Natasha Thomas,Morning Shift,Routine Maintenance,2.19712638,1278.868366,8.539040403,3,1,Material Shortage
+139,1,Refrigerator,Home Appliances,6/11/2023,912,Passed,442,470,8,"Adams, Murphy and Wilson",1,3,Melissa Kim,Afternoon Shift,Repairs,4.055104413,1210.405506,11.56561207,5,2,Human Error
+140,1,Refrigerator,Home Appliances,6/11/2023,548,Passed,388,160,10,Campbell-Wong,7,5,David Floyd,Afternoon Shift,Routine Maintenance,none,1314.461183,11.25344793,0,4,Material Shortage
+141,6,Microwave Ovens,Home Appliances,5/22/2023,672,Failed,468,204,1,"Barnes, Butler and Russell",10,7,Victor Hernandez,Night Shift,Repairs,3.379745727,853.1866667,6.457653738,2,2,Material Shortage
+142,3,Industrial Mixer,Industrial Machinery,6/3/2023,302,Passed,296,6,3,Hartman-Banks,2,5,David Floyd,Afternoon Shift,Repairs,3.411197729,1031.24775,9.491478533,2,5,Human Error
+143,5,Air Conditioners,Home Appliances,5/19/2023,825,Passed,185,640,5,Hawkins-Miller,3,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.554665889,840.6864844,5.197542369,4,5,Material Shortage
+144,1,Refrigerator,Home Appliances,7/23/2023,496,Passed,495,1,4,"Yang, Walker and George",3,8,Sarah Lloyd,Afternoon Shift,Repairs,4.030212048,1057.517035,9.788218177,3,5,Technical Issues
+145,1,Refrigerator,Home Appliances,8/2/2023,976,Passed,115,861,6,"Hill, Thomas and Neal",2,10,Cheryl Nunez,Night Shift,Repairs,4.81581492,869.9927993,6.142979557,3,4,Technical Issues
+146,3,Industrial Mixer,Industrial Machinery,5/2/2023,862,Passed,225,637,7,Ferguson Inc,1,8,Sarah Lloyd,Afternoon Shift,Repairs,1.345195112,807.845388,3.621202672,4,1,Human Error
+147,2,Washing Machine,Home Appliances,6/27/2023,608,Passed,411,197,4,"Yang, Walker and George",3,10,Cheryl Nunez,Night Shift,Repairs,3.105801434,836.5036669,4.538847627,1,5,Human Error
+148,5,Air Conditioners,Home Appliances,8/9/2023,952,Failed,117,835,2,"Moore, Hernandez and Munoz",5,5,David Floyd,Afternoon Shift,Repairs,2.335934414,876.8463355,7.319675891,3,2,Technical Issues
+149,3,Industrial Mixer,Industrial Machinery,7/10/2023,516,Passed,247,269,6,"Hill, Thomas and Neal",3,10,Cheryl Nunez,Night Shift,Repairs,3.469655866,993.1312129,7.278398336,2,2,Human Error
+150,7,Industrial Cookers,Industrial Machinery,5/14/2023,778,Passed,176,602,6,"Hill, Thomas and Neal",8,5,David Floyd,Afternoon Shift,Repairs,none,1214.528139,8.180698894,0,3,Material Shortage
+151,3,Industrial Mixer,Industrial Machinery,7/10/2023,888,Passed,372,516,8,"Adams, Murphy and Wilson",2,6,Taylor Davis,Morning Shift,Routine Maintenance,2.490233171,903.1194312,8.379161611,1,4,Human Error
+152,7,Industrial Cookers,Industrial Machinery,9/20/2023,557,Passed,369,188,8,"Adams, Murphy and Wilson",3,6,Taylor Davis,Morning Shift,Routine Maintenance,1.218434201,1198.574419,11.32592981,5,2,Human Error
+153,3,Industrial Mixer,Industrial Machinery,8/20/2023,173,Passed,56,117,7,Ferguson Inc,10,8,Sarah Lloyd,Afternoon Shift,Repairs,3.505843667,1296.358674,7.505172647,3,4,Technical Issues
+154,6,Microwave Ovens,Home Appliances,4/1/2023,569,Passed,335,234,9,Lawson-Herrera,9,1,Amber Powell,Morning Shift,Repairs,3.267402389,971.8560556,7.932749015,2,2,Human Error
+155,3,Industrial Mixer,Industrial Machinery,8/23/2023,521,Passed,298,223,9,Lawson-Herrera,8,7,Victor Hernandez,Night Shift,Repairs,4.873613347,1058.486425,8.440558976,5,1,Human Error
+156,5,Air Conditioners,Home Appliances,9/3/2023,646,Failed,332,314,1,"Barnes, Butler and Russell",5,10,Cheryl Nunez,Night Shift,Repairs,2.137661919,818.7207265,6.974741935,5,5,Human Error
+157,2,Washing Machine,Home Appliances,5/5/2023,760,Passed,264,496,9,Lawson-Herrera,1,4,Megan Allen,Night Shift,Repairs,4.07119409,1320.193301,6.233313279,4,1,Human Error
+158,3,Industrial Mixer,Industrial Machinery,7/23/2023,773,Failed,222,551,8,"Adams, Murphy and Wilson",9,6,Taylor Davis,Morning Shift,Repairs,4.941205891,1296.247463,8.764460232,5,2,Human Error
+159,2,Washing Machine,Home Appliances,6/9/2023,492,Failed,284,208,2,"Moore, Hernandez and Munoz",10,7,Victor Hernandez,Night Shift,Repairs,2.979192921,1080.992059,7.245290881,1,3,Material Shortage
+160,6,Microwave Ovens,Home Appliances,4/16/2023,675,Passed,259,416,6,"Hill, Thomas and Neal",2,1,Amber Powell,Morning Shift,Routine Maintenance,3.894385044,832.6151296,7.059185601,2,5,Technical Issues
+161,2,Washing Machine,Home Appliances,5/2/2023,639,Passed,59,580,1,"Barnes, Butler and Russell",3,9,Natasha Thomas,Morning Shift,Routine Maintenance,2.127236078,807.1879804,6.537635186,5,5,Material Shortage
+162,4,Diesel Generator,Industrial Machinery,7/31/2023,864,Passed,202,662,4,"Yang, Walker and George",5,6,Taylor Davis,Morning Shift,Repairs,4.681354356,1238.115089,9.140340961,3,3,Human Error
+163,1,Refrigerator,Home Appliances,5/25/2023,913,In-Between,382,531,7,Ferguson Inc,7,2,Ashley Herring,Night Shift,Repairs,1.280170241,1158.986094,4.76358106,2,1,Material Shortage
+164,1,Refrigerator,Home Appliances,9/2/2023,661,Failed,198,463,7,Ferguson Inc,7,1,Amber Powell,Morning Shift,Repairs,4.78391143,1228.246584,10.09003965,1,3,Material Shortage
+165,7,Industrial Cookers,Industrial Machinery,6/17/2023,695,Passed,409,286,8,"Adams, Murphy and Wilson",2,6,Taylor Davis,Morning Shift,Routine Maintenance,4.128683554,830.0382803,7.529476936,1,1,Material Shortage
+166,2,Washing Machine,Home Appliances,7/8/2023,372,Failed,371,1,4,"Yang, Walker and George",9,2,Ashley Herring,Night Shift,Repairs,1.988201312,825.8507915,5.280874251,4,1,Technical Issues
+167,7,Industrial Cookers,Industrial Machinery,8/17/2023,207,Failed,129,78,9,Lawson-Herrera,3,2,Ashley Herring,Night Shift,Routine Maintenance,4.46566277,1081.143537,4.329009538,3,5,Technical Issues
+168,5,Air Conditioners,Home Appliances,6/11/2023,467,Failed,399,68,2,"Moore, Hernandez and Munoz",1,4,Megan Allen,Night Shift,Repairs,none,1276.698299,4.243189286,0,3,Human Error
+169,4,Diesel Generator,Industrial Machinery,9/17/2023,740,Passed,389,351,10,Campbell-Wong,10,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.890086919,850.8535883,6.989334405,5,4,Material Shortage
+170,3,Industrial Mixer,Industrial Machinery,5/19/2023,680,Failed,209,471,2,"Moore, Hernandez and Munoz",1,2,Ashley Herring,Night Shift,Routine Maintenance,4.856594383,1243.567859,5.175316624,2,3,Material Shortage
+171,3,Industrial Mixer,Industrial Machinery,4/5/2023,609,Passed,181,428,9,Lawson-Herrera,4,3,Melissa Kim,Afternoon Shift,Repairs,3.717388103,802.3387203,10.24199688,4,5,Human Error
+172,3,Industrial Mixer,Industrial Machinery,4/16/2023,464,In-Between,463,1,7,Ferguson Inc,5,7,Victor Hernandez,Night Shift,Repairs,1.646749953,1025.241122,9.896073641,3,5,Technical Issues
+173,4,Diesel Generator,Industrial Machinery,8/14/2023,384,Failed,171,213,4,"Yang, Walker and George",8,3,Melissa Kim,Afternoon Shift,Repairs,1.465847859,1024.744984,10.93176817,3,2,Material Shortage
+174,6,Microwave Ovens,Home Appliances,6/5/2023,749,Passed,429,320,2,"Moore, Hernandez and Munoz",1,1,Amber Powell,Morning Shift,Routine Maintenance,2.241590598,1183.427196,6.109204307,4,1,Technical Issues
+175,3,Industrial Mixer,Industrial Machinery,4/6/2023,452,In-Between,113,339,10,Campbell-Wong,10,8,Sarah Lloyd,Afternoon Shift,Repairs,4.39663471,1056.001738,4.214830896,1,1,Human Error
+176,4,Diesel Generator,Industrial Machinery,4/9/2023,539,In-Between,489,50,2,"Moore, Hernandez and Munoz",2,9,Natasha Thomas,Morning Shift,Routine Maintenance,4.41897179,1243.311797,4.662253783,2,5,Material Shortage
+177,7,Industrial Cookers,Industrial Machinery,8/20/2023,516,Passed,478,38,3,Hartman-Banks,7,4,Megan Allen,Night Shift,Routine Maintenance,4.678571521,1269.477058,9.501813271,3,2,Technical Issues
+178,5,Air Conditioners,Home Appliances,8/16/2023,370,Passed,369,1,10,Campbell-Wong,2,1,Amber Powell,Morning Shift,Routine Maintenance,none,1049.18206,7.369635423,0,2,Material Shortage
+179,4,Diesel Generator,Industrial Machinery,5/6/2023,402,Passed,336,66,2,"Moore, Hernandez and Munoz",2,5,David Floyd,Afternoon Shift,Routine Maintenance,2.629145749,1095.030762,8.064804787,4,5,Human Error
+180,3,Industrial Mixer,Industrial Machinery,7/19/2023,383,Failed,315,68,2,"Moore, Hernandez and Munoz",7,8,Sarah Lloyd,Afternoon Shift,Repairs,4.758026114,914.2111648,6.946888474,1,1,Human Error
+181,7,Industrial Cookers,Industrial Machinery,9/19/2023,622,Failed,472,150,1,"Barnes, Butler and Russell",3,2,Ashley Herring,Night Shift,Routine Maintenance,1.171668907,964.0183903,9.396667341,3,3,Human Error
+182,2,Washing Machine,Home Appliances,4/17/2023,444,Passed,213,231,7,Ferguson Inc,6,5,David Floyd,Afternoon Shift,Routine Maintenance,3.765991894,965.544394,6.815710636,4,1,Material Shortage
+183,7,Industrial Cookers,Industrial Machinery,6/6/2023,680,Failed,218,462,7,Ferguson Inc,8,7,Victor Hernandez,Night Shift,Routine Maintenance,4.910355703,1003.260971,9.157058891,4,5,Technical Issues
+184,6,Microwave Ovens,Home Appliances,9/12/2023,877,Failed,124,753,6,"Hill, Thomas and Neal",4,3,Melissa Kim,Afternoon Shift,Repairs,1.5138318,857.174814,5.943742155,4,2,Technical Issues
+185,3,Industrial Mixer,Industrial Machinery,9/15/2023,245,Passed,244,1,3,Hartman-Banks,8,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.722813531,920.6494124,9.488541536,4,1,Material Shortage
+186,5,Air Conditioners,Home Appliances,9/12/2023,383,In-Between,382,1,9,Lawson-Herrera,3,5,David Floyd,Afternoon Shift,Repairs,4.679476092,1067.759853,4.762439436,4,3,Human Error
+187,2,Washing Machine,Home Appliances,8/3/2023,697,In-Between,341,356,1,"Barnes, Butler and Russell",1,4,Megan Allen,Night Shift,Routine Maintenance,3.636685743,1075.302935,6.024620674,4,2,Technical Issues
+188,5,Air Conditioners,Home Appliances,7/22/2023,770,Passed,431,339,5,Hawkins-Miller,9,7,Victor Hernandez,Night Shift,Repairs,none,1205.241328,3.320889943,0,1,Material Shortage
+189,1,Refrigerator,Home Appliances,6/24/2023,772,Passed,481,291,7,Ferguson Inc,3,5,David Floyd,Afternoon Shift,Repairs,2.004682461,1036.042065,4.076142022,2,5,Material Shortage
+190,6,Microwave Ovens,Home Appliances,7/20/2023,474,Passed,130,344,5,Hawkins-Miller,2,9,Natasha Thomas,Morning Shift,Routine Maintenance,none,980.465627,6.87025691,0,4,Technical Issues
+191,1,Refrigerator,Home Appliances,4/17/2023,419,Passed,332,87,2,"Moore, Hernandez and Munoz",3,3,Melissa Kim,Afternoon Shift,Repairs,3.609941791,996.6741196,9.774017873,4,2,Human Error
+192,5,Air Conditioners,Home Appliances,7/13/2023,715,In-Between,250,465,7,Ferguson Inc,8,4,Megan Allen,Night Shift,Repairs,1.195539639,1030.060384,6.941369886,3,5,Technical Issues
+193,1,Refrigerator,Home Appliances,4/12/2023,700,Passed,227,473,5,Hawkins-Miller,7,7,Victor Hernandez,Night Shift,Routine Maintenance,3.881101533,956.9842084,9.646840316,2,2,Human Error
+194,6,Microwave Ovens,Home Appliances,4/28/2023,314,Passed,313,1,6,"Hill, Thomas and Neal",10,2,Ashley Herring,Night Shift,Routine Maintenance,none,927.234566,10.35930425,0,3,Human Error
+195,5,Air Conditioners,Home Appliances,5/1/2023,673,Passed,333,340,1,"Barnes, Butler and Russell",6,7,Victor Hernandez,Night Shift,Repairs,4.837635507,829.9625117,5.80749372,4,3,Technical Issues
+196,7,Industrial Cookers,Industrial Machinery,5/20/2023,429,Failed,428,1,10,Campbell-Wong,10,2,Ashley Herring,Night Shift,Routine Maintenance,3.833619649,1316.382031,4.83659769,3,4,Material Shortage
+197,1,Refrigerator,Home Appliances,5/26/2023,830,Passed,260,570,1,"Barnes, Butler and Russell",5,7,Victor Hernandez,Night Shift,Repairs,4.874916564,873.1346123,10.43533779,4,2,Human Error
+198,1,Refrigerator,Home Appliances,9/1/2023,784,Passed,340,444,3,Hartman-Banks,9,3,Melissa Kim,Afternoon Shift,Repairs,2.410415261,986.7739424,4.799903889,5,2,Human Error
+199,7,Industrial Cookers,Industrial Machinery,7/20/2023,712,Passed,363,349,9,Lawson-Herrera,1,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.700093562,1346.107843,9.825839965,5,5,Technical Issues
+200,3,Industrial Mixer,Industrial Machinery,4/4/2023,456,Passed,455,1,7,Ferguson Inc,1,8,Sarah Lloyd,Afternoon Shift,Repairs,2.341048468,977.370528,6.542206094,1,3,Human Error
+201,6,Microwave Ovens,Home Appliances,9/3/2023,146,Passed,57,89,5,Hawkins-Miller,9,6,Taylor Davis,Morning Shift,Repairs,1.503563104,806.9911211,5.780254162,2,1,Technical Issues
+202,7,Industrial Cookers,Industrial Machinery,6/7/2023,892,Passed,311,581,9,Lawson-Herrera,8,8,Sarah Lloyd,Afternoon Shift,Repairs,2.093660891,1015.886407,9.717345169,2,4,Human Error
+203,1,Refrigerator,Home Appliances,4/28/2023,928,Passed,425,503,10,Campbell-Wong,2,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,1124.322916,8.457588904,0,4,Material Shortage
+204,5,Air Conditioners,Home Appliances,5/27/2023,287,In-Between,142,145,2,"Moore, Hernandez and Munoz",6,5,David Floyd,Afternoon Shift,Repairs,4.358758335,1194.70341,11.11641029,4,2,Material Shortage
+205,1,Refrigerator,Home Appliances,5/14/2023,406,Passed,405,1,9,Lawson-Herrera,6,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.498222352,1027.926702,7.283823802,3,3,Technical Issues
+206,1,Refrigerator,Home Appliances,7/27/2023,718,In-Between,193,525,8,"Adams, Murphy and Wilson",3,3,Melissa Kim,Afternoon Shift,Repairs,3.90042215,1285.320084,7.465912542,5,1,Technical Issues
+207,1,Refrigerator,Home Appliances,6/26/2023,482,Passed,248,234,5,Hawkins-Miller,6,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.505064896,823.1115134,10.29128104,3,4,Human Error
+208,3,Industrial Mixer,Industrial Machinery,7/18/2023,215,Passed,68,147,3,Hartman-Banks,10,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.16206219,1010.60339,10.42139575,3,1,Human Error
+209,4,Diesel Generator,Industrial Machinery,7/12/2023,764,Passed,179,585,10,Campbell-Wong,4,6,Taylor Davis,Morning Shift,Repairs,4.035075892,1056.724929,4.620618687,1,3,Material Shortage
+210,7,Industrial Cookers,Industrial Machinery,9/11/2023,777,Passed,450,327,9,Lawson-Herrera,9,8,Sarah Lloyd,Afternoon Shift,Repairs,none,884.5645357,7.255939833,0,5,Human Error
+211,3,Industrial Mixer,Industrial Machinery,7/4/2023,269,Passed,162,107,9,Lawson-Herrera,6,7,Victor Hernandez,Night Shift,Routine Maintenance,1.920927491,1248.382178,4.3335451,5,1,Material Shortage
+212,6,Microwave Ovens,Home Appliances,7/25/2023,936,Failed,58,878,3,Hartman-Banks,8,1,Amber Powell,Morning Shift,Repairs,2.605407438,847.2252282,5.528453238,4,5,Material Shortage
+213,1,Refrigerator,Home Appliances,7/20/2023,375,Failed,177,198,4,"Yang, Walker and George",2,6,Taylor Davis,Morning Shift,Repairs,2.232075957,855.8897857,7.765848349,1,1,Technical Issues
+214,1,Refrigerator,Home Appliances,8/6/2023,410,Passed,409,1,5,Hawkins-Miller,4,4,Megan Allen,Night Shift,Routine Maintenance,1.794023441,1173.338602,5.283496159,2,4,Technical Issues
+215,5,Air Conditioners,Home Appliances,9/9/2023,999,Passed,64,935,1,"Barnes, Butler and Russell",2,4,Megan Allen,Night Shift,Repairs,4.453482785,1244.339596,5.597301195,4,2,Material Shortage
+216,2,Washing Machine,Home Appliances,7/31/2023,802,Passed,286,516,7,Ferguson Inc,2,3,Melissa Kim,Afternoon Shift,Repairs,none,1053.222048,5.850251413,0,5,Material Shortage
+217,4,Diesel Generator,Industrial Machinery,7/17/2023,384,Failed,195,189,5,Hawkins-Miller,5,6,Taylor Davis,Morning Shift,Routine Maintenance,3.582734299,934.6446923,10.03926252,1,1,Material Shortage
+218,4,Diesel Generator,Industrial Machinery,6/11/2023,213,Failed,116,97,4,"Yang, Walker and George",4,1,Amber Powell,Morning Shift,Routine Maintenance,2.478651536,1207.128544,10.44316995,4,2,Technical Issues
+219,7,Industrial Cookers,Industrial Machinery,8/8/2023,901,Passed,175,726,2,"Moore, Hernandez and Munoz",8,9,Natasha Thomas,Morning Shift,Repairs,4.960626511,1147.417991,9.783367517,5,3,Human Error
+220,5,Air Conditioners,Home Appliances,7/5/2023,312,Failed,246,66,1,"Barnes, Butler and Russell",5,1,Amber Powell,Morning Shift,Routine Maintenance,4.416644136,1226.210295,7.899765746,5,4,Material Shortage
+221,4,Diesel Generator,Industrial Machinery,8/26/2023,719,Passed,71,648,10,Campbell-Wong,3,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.305936299,1250.864829,4.015042139,5,2,Human Error
+222,7,Industrial Cookers,Industrial Machinery,5/24/2023,464,Failed,463,1,5,Hawkins-Miller,10,2,Ashley Herring,Night Shift,Routine Maintenance,4.37445206,1228.702306,9.291856627,5,5,Technical Issues
+223,2,Washing Machine,Home Appliances,7/8/2023,503,Passed,344,159,4,"Yang, Walker and George",3,1,Amber Powell,Morning Shift,Repairs,none,1076.694407,6.325783078,0,3,Material Shortage
+224,6,Microwave Ovens,Home Appliances,9/11/2023,379,Passed,239,140,7,Ferguson Inc,4,7,Victor Hernandez,Night Shift,Routine Maintenance,2.649511813,1305.506486,7.773624128,3,2,Technical Issues
+225,6,Microwave Ovens,Home Appliances,4/14/2023,601,Passed,242,359,10,Campbell-Wong,5,8,Sarah Lloyd,Afternoon Shift,Repairs,none,944.6241475,7.380420842,0,5,Material Shortage
+226,1,Refrigerator,Home Appliances,5/2/2023,170,Passed,169,1,4,"Yang, Walker and George",1,6,Taylor Davis,Morning Shift,Routine Maintenance,3.030401702,1035.409372,11.98455689,4,5,Material Shortage
+227,4,Diesel Generator,Industrial Machinery,4/30/2023,428,Failed,427,1,9,Lawson-Herrera,2,1,Amber Powell,Morning Shift,Repairs,3.594219376,1240.582736,9.520304772,4,5,Material Shortage
+228,2,Washing Machine,Home Appliances,8/31/2023,697,Passed,81,616,7,Ferguson Inc,8,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.250221261,1148.167924,10.325806,2,4,Technical Issues
+229,5,Air Conditioners,Home Appliances,7/2/2023,945,In-Between,277,668,3,Hartman-Banks,10,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.407658127,889.9314096,4.112831659,2,5,Human Error
+230,1,Refrigerator,Home Appliances,9/21/2023,618,Failed,54,564,7,Ferguson Inc,4,4,Megan Allen,Night Shift,Repairs,1.07436979,816.8540489,5.997356225,5,4,Technical Issues
+231,1,Refrigerator,Home Appliances,5/9/2023,525,Passed,261,264,4,"Yang, Walker and George",7,6,Taylor Davis,Morning Shift,Repairs,2.528542077,1314.080929,8.912085526,2,4,Human Error
+232,1,Refrigerator,Home Appliances,7/15/2023,527,Passed,63,464,9,Lawson-Herrera,3,7,Victor Hernandez,Night Shift,Routine Maintenance,4.226078993,932.1079193,10.5414073,2,4,Material Shortage
+233,1,Refrigerator,Home Appliances,7/18/2023,684,Passed,86,598,10,Campbell-Wong,7,4,Megan Allen,Night Shift,Repairs,3.370067367,1342.439133,10.06021332,4,5,Human Error
+234,1,Refrigerator,Home Appliances,7/15/2023,932,Passed,214,718,2,"Moore, Hernandez and Munoz",3,9,Natasha Thomas,Morning Shift,Repairs,4.189434284,1010.179408,11.54008755,4,5,Material Shortage
+235,5,Air Conditioners,Home Appliances,6/19/2023,948,Passed,247,701,10,Campbell-Wong,3,2,Ashley Herring,Night Shift,Repairs,4.105604592,833.0012307,7.949055421,1,5,Technical Issues
+236,7,Industrial Cookers,Industrial Machinery,5/22/2023,1000,Passed,359,641,5,Hawkins-Miller,5,4,Megan Allen,Night Shift,Repairs,none,1119.685712,7.277287294,0,2,Material Shortage
+237,3,Industrial Mixer,Industrial Machinery,6/13/2023,252,Failed,94,158,6,"Hill, Thomas and Neal",7,6,Taylor Davis,Morning Shift,Routine Maintenance,4.615233279,816.2380639,4.397062476,5,2,Material Shortage
+238,1,Refrigerator,Home Appliances,4/27/2023,999,In-Between,231,768,8,"Adams, Murphy and Wilson",5,8,Sarah Lloyd,Afternoon Shift,Repairs,1.519503152,984.4575439,4.926578132,4,4,Human Error
+239,2,Washing Machine,Home Appliances,5/24/2023,762,Failed,123,639,3,Hartman-Banks,3,2,Ashley Herring,Night Shift,Routine Maintenance,none,952.1907444,10.06040939,0,4,Human Error
+240,3,Industrial Mixer,Industrial Machinery,4/23/2023,710,Passed,74,636,2,"Moore, Hernandez and Munoz",8,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1292.767497,11.15764774,0,3,Human Error
+241,1,Refrigerator,Home Appliances,5/15/2023,889,Passed,119,770,3,Hartman-Banks,7,1,Amber Powell,Morning Shift,Repairs,1.962195224,862.0288624,4.132998952,1,5,Technical Issues
+242,4,Diesel Generator,Industrial Machinery,6/26/2023,207,Failed,206,1,6,"Hill, Thomas and Neal",2,3,Melissa Kim,Afternoon Shift,Repairs,3.911962041,1092.575303,3.303119254,1,1,Technical Issues
+243,4,Diesel Generator,Industrial Machinery,4/26/2023,626,Passed,417,209,6,"Hill, Thomas and Neal",3,7,Victor Hernandez,Night Shift,Routine Maintenance,1.557242611,813.1247826,7.415594669,3,1,Human Error
+244,6,Microwave Ovens,Home Appliances,8/13/2023,894,Passed,439,455,7,Ferguson Inc,3,2,Ashley Herring,Night Shift,Routine Maintenance,none,1076.39358,4.325268381,0,4,Human Error
+245,4,Diesel Generator,Industrial Machinery,7/13/2023,499,Passed,498,1,5,Hawkins-Miller,8,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.430267777,898.3219318,4.184516186,1,4,Technical Issues
+246,7,Industrial Cookers,Industrial Machinery,7/27/2023,336,Passed,335,1,7,Ferguson Inc,4,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.642234355,1048.253119,3.853166937,2,3,Human Error
+247,4,Diesel Generator,Industrial Machinery,7/26/2023,291,In-Between,142,149,5,Hawkins-Miller,4,7,Victor Hernandez,Night Shift,Repairs,3.51208292,1324.871693,5.204514669,1,4,Material Shortage
+248,6,Microwave Ovens,Home Appliances,8/9/2023,858,Passed,443,415,9,Lawson-Herrera,9,4,Megan Allen,Night Shift,Routine Maintenance,4.739862954,1185.947316,4.030309635,1,3,Human Error
+249,3,Industrial Mixer,Industrial Machinery,8/26/2023,823,Passed,388,435,6,"Hill, Thomas and Neal",1,4,Megan Allen,Night Shift,Repairs,none,1258.489972,7.925225824,0,1,Human Error
+250,5,Air Conditioners,Home Appliances,5/11/2023,691,Passed,480,211,8,"Adams, Murphy and Wilson",4,6,Taylor Davis,Morning Shift,Repairs,1.3900213,838.2271692,10.80036649,4,1,Material Shortage
+251,4,Diesel Generator,Industrial Machinery,9/20/2023,340,Passed,339,1,1,"Barnes, Butler and Russell",8,6,Taylor Davis,Morning Shift,Repairs,2.34541605,817.1420863,10.3447958,4,2,Human Error
+252,1,Refrigerator,Home Appliances,9/26/2023,966,Passed,373,593,4,"Yang, Walker and George",3,7,Victor Hernandez,Night Shift,Repairs,1.785039319,802.2803132,7.838892366,3,3,Material Shortage
+253,6,Microwave Ovens,Home Appliances,4/4/2023,423,In-Between,218,205,6,"Hill, Thomas and Neal",6,7,Victor Hernandez,Night Shift,Repairs,4.038381456,1239.339252,10.98141365,4,5,Human Error
+254,1,Refrigerator,Home Appliances,9/27/2023,488,In-Between,93,395,4,"Yang, Walker and George",5,9,Natasha Thomas,Morning Shift,Repairs,1.654667904,1194.8978,4.196190778,2,4,Material Shortage
+255,5,Air Conditioners,Home Appliances,8/28/2023,375,Passed,374,1,5,Hawkins-Miller,6,9,Natasha Thomas,Morning Shift,Repairs,1.916176434,852.8385115,5.879295232,5,3,Material Shortage
+256,5,Air Conditioners,Home Appliances,5/26/2023,277,In-Between,141,136,2,"Moore, Hernandez and Munoz",9,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.639061628,1224.748865,3.352629755,2,1,Human Error
+257,7,Industrial Cookers,Industrial Machinery,5/20/2023,506,Passed,87,419,7,Ferguson Inc,1,6,Taylor Davis,Morning Shift,Routine Maintenance,2.820250707,1225.693425,8.338901192,3,1,Human Error
+258,7,Industrial Cookers,Industrial Machinery,8/23/2023,262,Failed,68,194,1,"Barnes, Butler and Russell",2,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,1.334875953,1092.70839,9.891096182,4,3,Human Error
+259,2,Washing Machine,Home Appliances,5/27/2023,899,Failed,304,595,4,"Yang, Walker and George",8,7,Victor Hernandez,Night Shift,Routine Maintenance,2.857840662,1210.748092,4.576669764,3,1,Human Error
+260,3,Industrial Mixer,Industrial Machinery,7/6/2023,379,Failed,378,1,6,"Hill, Thomas and Neal",2,2,Ashley Herring,Night Shift,Repairs,1.413066547,1165.818692,8.465428684,5,3,Material Shortage
+261,4,Diesel Generator,Industrial Machinery,6/28/2023,732,Passed,276,456,4,"Yang, Walker and George",8,2,Ashley Herring,Night Shift,Routine Maintenance,3.451496836,937.7411285,11.82200854,3,2,Human Error
+262,6,Microwave Ovens,Home Appliances,5/26/2023,651,Passed,344,307,7,Ferguson Inc,7,4,Megan Allen,Night Shift,Routine Maintenance,4.463982202,1074.135114,8.896218145,3,5,Material Shortage
+263,5,Air Conditioners,Home Appliances,7/3/2023,817,In-Between,157,660,9,Lawson-Herrera,5,1,Amber Powell,Morning Shift,Routine Maintenance,none,1188.785012,10.15708118,0,4,Technical Issues
+264,6,Microwave Ovens,Home Appliances,7/4/2023,654,Passed,186,468,9,Lawson-Herrera,3,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.043400111,860.4246443,8.696226213,4,2,Human Error
+265,5,Air Conditioners,Home Appliances,9/9/2023,719,Failed,471,248,7,Ferguson Inc,10,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.362441967,1245.37622,7.339987796,5,1,Material Shortage
+266,4,Diesel Generator,Industrial Machinery,6/27/2023,927,Failed,362,565,5,Hawkins-Miller,2,6,Taylor Davis,Morning Shift,Routine Maintenance,3.649187131,976.6289393,4.732093223,2,3,Material Shortage
+267,7,Industrial Cookers,Industrial Machinery,6/22/2023,792,Passed,189,603,1,"Barnes, Butler and Russell",4,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,1198.669706,5.167188579,0,5,Human Error
+268,6,Microwave Ovens,Home Appliances,6/10/2023,568,Passed,397,171,4,"Yang, Walker and George",5,1,Amber Powell,Morning Shift,Routine Maintenance,4.405305572,870.8159069,3.835034782,1,4,Material Shortage
+269,4,Diesel Generator,Industrial Machinery,9/11/2023,662,Passed,334,328,6,"Hill, Thomas and Neal",1,10,Cheryl Nunez,Night Shift,Repairs,1.266197142,1175.290072,8.211747748,5,5,Material Shortage
+270,4,Diesel Generator,Industrial Machinery,5/1/2023,400,Passed,199,201,3,Hartman-Banks,3,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.70715915,1024.588343,3.392674418,2,5,Material Shortage
+271,7,Industrial Cookers,Industrial Machinery,8/4/2023,224,Passed,217,7,3,Hartman-Banks,5,9,Natasha Thomas,Morning Shift,Repairs,none,906.5517552,9.932270375,0,2,Technical Issues
+272,5,Air Conditioners,Home Appliances,7/30/2023,356,In-Between,355,1,2,"Moore, Hernandez and Munoz",7,1,Amber Powell,Morning Shift,Repairs,2.927661793,899.2670193,11.6278628,3,5,Technical Issues
+273,3,Industrial Mixer,Industrial Machinery,8/26/2023,934,Passed,457,477,7,Ferguson Inc,2,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.447850511,1303.14949,7.305763352,5,4,Human Error
+274,5,Air Conditioners,Home Appliances,5/23/2023,495,In-Between,386,109,2,"Moore, Hernandez and Munoz",7,1,Amber Powell,Morning Shift,Routine Maintenance,none,1034.366857,10.44454818,0,5,Material Shortage
+275,7,Industrial Cookers,Industrial Machinery,8/17/2023,977,In-Between,165,812,6,"Hill, Thomas and Neal",5,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.49194186,1166.95479,5.900682806,3,2,Material Shortage
+276,3,Industrial Mixer,Industrial Machinery,9/24/2023,772,Passed,262,510,9,Lawson-Herrera,3,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1136.52729,10.22285254,0,3,Material Shortage
+277,6,Microwave Ovens,Home Appliances,8/31/2023,612,In-Between,360,252,4,"Yang, Walker and George",10,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,2.300423721,1051.718584,6.049085921,3,4,Material Shortage
+278,3,Industrial Mixer,Industrial Machinery,9/18/2023,433,Passed,432,1,1,"Barnes, Butler and Russell",9,4,Megan Allen,Night Shift,Routine Maintenance,1.337134862,997.0558086,7.668580625,5,5,Human Error
+279,5,Air Conditioners,Home Appliances,9/9/2023,351,Passed,350,1,1,"Barnes, Butler and Russell",5,1,Amber Powell,Morning Shift,Routine Maintenance,4.299231723,984.4907549,5.844000549,5,5,Material Shortage
+280,4,Diesel Generator,Industrial Machinery,6/5/2023,420,Passed,66,354,4,"Yang, Walker and George",7,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.375431239,953.4724965,5.79178409,2,1,Material Shortage
+281,3,Industrial Mixer,Industrial Machinery,8/12/2023,733,Passed,468,265,5,Hawkins-Miller,3,1,Amber Powell,Morning Shift,Repairs,3.013897341,1175.154054,11.40420539,2,4,Human Error
+282,6,Microwave Ovens,Home Appliances,8/26/2023,406,Failed,329,77,7,Ferguson Inc,8,8,Sarah Lloyd,Afternoon Shift,Repairs,2.852348474,1229.33984,9.680932361,3,4,Human Error
+283,2,Washing Machine,Home Appliances,5/3/2023,330,Passed,329,1,6,"Hill, Thomas and Neal",10,7,Victor Hernandez,Night Shift,Repairs,2.439855238,1047.235794,3.618931098,3,5,Material Shortage
+284,6,Microwave Ovens,Home Appliances,8/4/2023,630,Passed,210,420,7,Ferguson Inc,2,1,Amber Powell,Morning Shift,Routine Maintenance,3.535559163,1302.866079,11.79941485,3,1,Human Error
+285,3,Industrial Mixer,Industrial Machinery,9/5/2023,805,Passed,334,471,3,Hartman-Banks,3,2,Ashley Herring,Night Shift,Repairs,4.443335594,1151.941272,7.218268199,2,5,Material Shortage
+286,2,Washing Machine,Home Appliances,7/23/2023,999,Failed,285,714,7,Ferguson Inc,9,6,Taylor Davis,Morning Shift,Routine Maintenance,none,1273.510008,10.916898,0,3,Material Shortage
+287,4,Diesel Generator,Industrial Machinery,8/28/2023,523,Passed,461,62,1,"Barnes, Butler and Russell",4,7,Victor Hernandez,Night Shift,Repairs,3.375146976,925.2331164,5.649641231,2,5,Technical Issues
+288,7,Industrial Cookers,Industrial Machinery,7/14/2023,370,Passed,369,1,4,"Yang, Walker and George",3,9,Natasha Thomas,Morning Shift,Routine Maintenance,4.959008568,802.351572,7.54600606,1,2,Human Error
+289,2,Washing Machine,Home Appliances,4/6/2023,428,Failed,427,1,4,"Yang, Walker and George",1,2,Ashley Herring,Night Shift,Repairs,2.51425397,1150.139068,10.43766129,3,1,Material Shortage
+290,5,Air Conditioners,Home Appliances,7/21/2023,718,Passed,129,589,8,"Adams, Murphy and Wilson",10,3,Melissa Kim,Afternoon Shift,Repairs,3.88313218,805.3246304,6.90152828,5,5,Material Shortage
+291,6,Microwave Ovens,Home Appliances,7/17/2023,448,Failed,447,1,6,"Hill, Thomas and Neal",3,6,Taylor Davis,Morning Shift,Repairs,1.803466829,895.8191477,11.25720552,4,5,Technical Issues
+292,7,Industrial Cookers,Industrial Machinery,9/18/2023,954,Failed,411,543,9,Lawson-Herrera,5,9,Natasha Thomas,Morning Shift,Repairs,1.693893079,1283.822129,5.755047707,2,5,Technical Issues
+293,2,Washing Machine,Home Appliances,9/26/2023,646,Passed,51,595,3,Hartman-Banks,9,6,Taylor Davis,Morning Shift,Routine Maintenance,1.897427687,1330.238095,7.284498192,3,3,Material Shortage
+294,7,Industrial Cookers,Industrial Machinery,8/5/2023,464,Passed,394,70,10,Campbell-Wong,5,6,Taylor Davis,Morning Shift,Routine Maintenance,3.184998636,1132.234497,3.76197958,5,1,Material Shortage
+295,7,Industrial Cookers,Industrial Machinery,7/10/2023,594,Passed,403,191,9,Lawson-Herrera,10,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.275278678,925.0449228,8.111460421,3,1,Human Error
+296,1,Refrigerator,Home Appliances,5/12/2023,159,Passed,125,34,1,"Barnes, Butler and Russell",1,1,Amber Powell,Morning Shift,Routine Maintenance,4.307139373,1133.341803,11.56528579,1,3,Human Error
+297,4,Diesel Generator,Industrial Machinery,5/9/2023,362,Failed,361,1,8,"Adams, Murphy and Wilson",5,7,Victor Hernandez,Night Shift,Routine Maintenance,4.238868752,1334.485167,8.48354456,3,3,Human Error
+298,6,Microwave Ovens,Home Appliances,7/28/2023,864,In-Between,102,762,8,"Adams, Murphy and Wilson",1,10,Cheryl Nunez,Night Shift,Routine Maintenance,1.395975388,1085.762785,4.111620362,4,2,Human Error
+299,7,Industrial Cookers,Industrial Machinery,8/12/2023,458,In-Between,457,1,8,"Adams, Murphy and Wilson",7,5,David Floyd,Afternoon Shift,Repairs,none,1233.284792,6.939257415,0,1,Technical Issues
+300,6,Microwave Ovens,Home Appliances,5/31/2023,832,In-Between,203,629,10,Campbell-Wong,9,7,Victor Hernandez,Night Shift,Routine Maintenance,1.164533747,812.5832696,6.416097493,5,5,Human Error
+301,1,Refrigerator,Home Appliances,7/5/2023,439,Passed,438,1,10,Campbell-Wong,1,2,Ashley Herring,Night Shift,Routine Maintenance,3.809920871,913.5657372,6.627084117,3,1,Technical Issues
+302,7,Industrial Cookers,Industrial Machinery,6/5/2023,671,Passed,310,361,4,"Yang, Walker and George",10,6,Taylor Davis,Morning Shift,Repairs,1.944920426,811.5208744,6.225890514,5,5,Material Shortage
+303,5,Air Conditioners,Home Appliances,6/9/2023,591,Passed,92,499,5,Hawkins-Miller,8,3,Melissa Kim,Afternoon Shift,Repairs,3.26039654,1166.529399,6.542772516,2,5,Material Shortage
+304,2,Washing Machine,Home Appliances,5/28/2023,379,Passed,121,258,5,Hawkins-Miller,8,2,Ashley Herring,Night Shift,Routine Maintenance,2.664946647,1086.80935,10.6037074,3,4,Human Error
+305,2,Washing Machine,Home Appliances,6/25/2023,756,Passed,99,657,8,"Adams, Murphy and Wilson",3,4,Megan Allen,Night Shift,Repairs,2.805538121,1294.073472,6.763720901,3,4,Material Shortage
+306,5,Air Conditioners,Home Appliances,5/29/2023,739,Passed,172,567,4,"Yang, Walker and George",7,4,Megan Allen,Night Shift,Repairs,3.195407488,1010.175061,5.629580235,4,2,Technical Issues
+307,6,Microwave Ovens,Home Appliances,8/27/2023,252,Passed,251,1,6,"Hill, Thomas and Neal",4,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1081.132809,7.977480846,0,4,Technical Issues
+308,6,Microwave Ovens,Home Appliances,7/23/2023,253,Passed,88,165,7,Ferguson Inc,8,8,Sarah Lloyd,Afternoon Shift,Repairs,3.406601623,828.425602,8.216345856,5,2,Human Error
+309,4,Diesel Generator,Industrial Machinery,8/21/2023,404,Passed,403,1,2,"Moore, Hernandez and Munoz",5,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.980143627,1089.4959,7.2223186,2,1,Human Error
+310,3,Industrial Mixer,Industrial Machinery,6/29/2023,924,In-Between,280,644,3,Hartman-Banks,8,1,Amber Powell,Morning Shift,Routine Maintenance,3.514683105,1019.527094,5.188026248,2,2,Human Error
+311,7,Industrial Cookers,Industrial Machinery,8/29/2023,439,Passed,198,241,4,"Yang, Walker and George",6,2,Ashley Herring,Night Shift,Routine Maintenance,4.586361407,1124.297327,7.235533431,2,4,Human Error
+312,5,Air Conditioners,Home Appliances,6/7/2023,743,Passed,148,595,1,"Barnes, Butler and Russell",8,3,Melissa Kim,Afternoon Shift,Repairs,1.779162611,1118.631955,5.830778165,3,3,Material Shortage
+313,3,Industrial Mixer,Industrial Machinery,9/4/2023,997,Passed,96,901,8,"Adams, Murphy and Wilson",8,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.979717793,1090.240329,9.318614446,1,4,Material Shortage
+314,6,Microwave Ovens,Home Appliances,9/18/2023,787,Passed,200,587,10,Campbell-Wong,8,9,Natasha Thomas,Morning Shift,Routine Maintenance,2.37602095,1237.126523,9.30255048,1,2,Human Error
+315,7,Industrial Cookers,Industrial Machinery,6/2/2023,575,Passed,266,309,8,"Adams, Murphy and Wilson",6,4,Megan Allen,Night Shift,Routine Maintenance,2.502985335,1217.993833,7.955429892,2,2,Technical Issues
+316,6,Microwave Ovens,Home Appliances,5/7/2023,833,Failed,331,502,7,Ferguson Inc,10,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,3.036544939,1271.939761,11.72095952,5,1,Technical Issues
+317,5,Air Conditioners,Home Appliances,8/29/2023,189,Passed,81,108,9,Lawson-Herrera,7,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.515298373,908.5470772,7.149940241,2,1,Material Shortage
+318,2,Washing Machine,Home Appliances,5/30/2023,715,Failed,319,396,9,Lawson-Herrera,5,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.266701965,1091.10368,8.498685433,2,3,Material Shortage
+319,7,Industrial Cookers,Industrial Machinery,6/24/2023,378,Passed,377,1,3,Hartman-Banks,4,8,Sarah Lloyd,Afternoon Shift,Repairs,4.428745832,1205.915615,10.6667097,5,3,Technical Issues
+320,5,Air Conditioners,Home Appliances,4/24/2023,840,Failed,321,519,1,"Barnes, Butler and Russell",9,4,Megan Allen,Night Shift,Routine Maintenance,3.577927778,912.8119955,10.97676684,3,2,Material Shortage
+321,5,Air Conditioners,Home Appliances,6/10/2023,138,Passed,102,36,3,Hartman-Banks,3,7,Victor Hernandez,Night Shift,Routine Maintenance,3.175039248,918.193425,6.919443579,1,4,Material Shortage
+322,5,Air Conditioners,Home Appliances,9/29/2023,943,Passed,228,715,1,"Barnes, Butler and Russell",3,6,Taylor Davis,Morning Shift,Repairs,none,1261.954813,9.105678992,0,1,Technical Issues
+323,1,Refrigerator,Home Appliances,5/22/2023,802,Passed,153,649,5,Hawkins-Miller,9,4,Megan Allen,Night Shift,Routine Maintenance,3.445083276,1031.289789,7.864654361,2,5,Technical Issues
+324,7,Industrial Cookers,Industrial Machinery,6/27/2023,357,Failed,356,1,9,Lawson-Herrera,6,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,3.143288116,1338.500199,9.852239254,4,3,Technical Issues
+325,4,Diesel Generator,Industrial Machinery,7/24/2023,360,Passed,359,1,7,Ferguson Inc,8,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1265.752113,3.541193603,0,1,Human Error
+326,4,Diesel Generator,Industrial Machinery,9/11/2023,492,Passed,491,1,10,Campbell-Wong,5,7,Victor Hernandez,Night Shift,Routine Maintenance,3.60664808,987.1403973,11.62251334,3,1,Technical Issues
+327,3,Industrial Mixer,Industrial Machinery,4/8/2023,781,Failed,495,286,10,Campbell-Wong,5,6,Taylor Davis,Morning Shift,Repairs,2.623068938,1046.242994,6.24982043,3,1,Material Shortage
+328,1,Refrigerator,Home Appliances,8/3/2023,126,Passed,52,74,10,Campbell-Wong,6,5,David Floyd,Afternoon Shift,Routine Maintenance,3.346948085,851.7559106,10.60996839,5,4,Human Error
+329,6,Microwave Ovens,Home Appliances,4/13/2023,675,Passed,436,239,3,Hartman-Banks,5,4,Megan Allen,Night Shift,Repairs,4.398252976,1235.347445,11.97033021,1,2,Material Shortage
+330,3,Industrial Mixer,Industrial Machinery,7/4/2023,935,In-Between,486,449,10,Campbell-Wong,9,10,Cheryl Nunez,Night Shift,Repairs,4.370711071,1022.627134,5.030305357,3,1,Human Error
+331,2,Washing Machine,Home Appliances,5/14/2023,902,Passed,383,519,9,Lawson-Herrera,9,2,Ashley Herring,Night Shift,Routine Maintenance,none,812.9530001,7.491453897,0,4,Material Shortage
+332,1,Refrigerator,Home Appliances,4/18/2023,834,Failed,214,620,5,Hawkins-Miller,9,6,Taylor Davis,Morning Shift,Routine Maintenance,1.431073944,1304.034372,3.122616911,2,4,Human Error
+333,3,Industrial Mixer,Industrial Machinery,4/3/2023,226,Failed,160,66,8,"Adams, Murphy and Wilson",2,7,Victor Hernandez,Night Shift,Repairs,2.13255487,1034.300109,9.597209334,4,5,Material Shortage
+334,3,Industrial Mixer,Industrial Machinery,9/28/2023,573,Passed,474,99,10,Campbell-Wong,7,1,Amber Powell,Morning Shift,Routine Maintenance,3.358536612,1090.661776,7.669275541,5,3,Technical Issues
+335,2,Washing Machine,Home Appliances,6/30/2023,525,Passed,499,26,1,"Barnes, Butler and Russell",3,1,Amber Powell,Morning Shift,Routine Maintenance,3.089323226,800.7316372,6.147523652,4,4,Technical Issues
+336,6,Microwave Ovens,Home Appliances,6/5/2023,939,Passed,179,760,4,"Yang, Walker and George",8,4,Megan Allen,Night Shift,Repairs,2.137304755,1329.691945,8.392087898,4,2,Material Shortage
+337,2,Washing Machine,Home Appliances,7/26/2023,477,Failed,476,1,7,Ferguson Inc,10,5,David Floyd,Afternoon Shift,Routine Maintenance,4.571148537,883.4063392,3.743140301,4,4,Human Error
+338,6,Microwave Ovens,Home Appliances,4/21/2023,240,Passed,163,77,9,Lawson-Herrera,5,3,Melissa Kim,Afternoon Shift,Repairs,none,1101.249375,6.631168295,0,2,Technical Issues
+339,5,Air Conditioners,Home Appliances,7/11/2023,474,Passed,429,45,1,"Barnes, Butler and Russell",3,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.612482249,1144.327405,9.292131068,4,4,Technical Issues
+340,2,Washing Machine,Home Appliances,4/2/2023,659,Failed,459,200,9,Lawson-Herrera,8,2,Ashley Herring,Night Shift,Routine Maintenance,2.46251494,848.4475667,3.561845616,3,2,Material Shortage
+341,2,Washing Machine,Home Appliances,5/5/2023,653,Passed,428,225,9,Lawson-Herrera,8,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.295516859,1277.432787,9.913676483,3,3,Human Error
+342,1,Refrigerator,Home Appliances,7/24/2023,486,Passed,485,1,1,"Barnes, Butler and Russell",9,2,Ashley Herring,Night Shift,Routine Maintenance,3.694276095,939.5986026,3.985957731,2,5,Material Shortage
+343,2,Washing Machine,Home Appliances,5/13/2023,634,Failed,134,500,2,"Moore, Hernandez and Munoz",4,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.345114716,859.9860242,11.02396648,1,4,Human Error
+344,4,Diesel Generator,Industrial Machinery,8/31/2023,596,In-Between,435,161,10,Campbell-Wong,8,5,David Floyd,Afternoon Shift,Repairs,none,1114.649449,10.91135811,0,1,Human Error
+345,6,Microwave Ovens,Home Appliances,9/16/2023,436,In-Between,350,86,1,"Barnes, Butler and Russell",6,6,Taylor Davis,Morning Shift,Routine Maintenance,4.560611476,843.8820932,5.833301819,2,1,Technical Issues
+346,4,Diesel Generator,Industrial Machinery,5/20/2023,486,In-Between,399,87,4,"Yang, Walker and George",4,8,Sarah Lloyd,Afternoon Shift,Repairs,1.754051396,1025.340501,7.043014991,3,4,Material Shortage
+347,6,Microwave Ovens,Home Appliances,6/14/2023,455,Passed,454,1,10,Campbell-Wong,8,4,Megan Allen,Night Shift,Routine Maintenance,1.502534339,935.1388272,9.840164931,3,4,Material Shortage
+348,7,Industrial Cookers,Industrial Machinery,5/16/2023,639,Passed,262,377,2,"Moore, Hernandez and Munoz",6,3,Melissa Kim,Afternoon Shift,Routine Maintenance,none,1289.443101,10.08316756,0,2,Human Error
+349,1,Refrigerator,Home Appliances,6/5/2023,223,In-Between,83,140,5,Hawkins-Miller,7,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,2.513871978,1001.669265,10.02148856,1,5,Material Shortage
+350,5,Air Conditioners,Home Appliances,4/6/2023,494,Passed,493,1,10,Campbell-Wong,8,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.155329712,1078.383083,8.160777798,5,2,Human Error
+351,3,Industrial Mixer,Industrial Machinery,9/25/2023,202,Passed,193,9,2,"Moore, Hernandez and Munoz",6,10,Cheryl Nunez,Night Shift,Repairs,4.38376564,988.6346268,4.792622774,3,2,Human Error
+352,4,Diesel Generator,Industrial Machinery,9/8/2023,505,Passed,410,95,6,"Hill, Thomas and Neal",9,5,David Floyd,Afternoon Shift,Routine Maintenance,3.52208958,1252.816097,10.08193766,5,5,Human Error
+353,6,Microwave Ovens,Home Appliances,6/17/2023,571,Failed,428,143,2,"Moore, Hernandez and Munoz",2,1,Amber Powell,Morning Shift,Routine Maintenance,3.899830773,1317.724011,4.389326992,3,5,Technical Issues
+354,3,Industrial Mixer,Industrial Machinery,6/13/2023,395,In-Between,252,143,8,"Adams, Murphy and Wilson",7,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1167.020364,8.021913518,0,1,Technical Issues
+355,2,Washing Machine,Home Appliances,5/29/2023,863,Failed,445,418,7,Ferguson Inc,8,3,Melissa Kim,Afternoon Shift,Repairs,4.051604844,845.3873343,11.41998213,2,3,Material Shortage
+356,1,Refrigerator,Home Appliances,7/4/2023,904,Passed,477,427,2,"Moore, Hernandez and Munoz",8,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.912547334,1320.625747,11.01306003,1,3,Human Error
+357,3,Industrial Mixer,Industrial Machinery,5/21/2023,465,Passed,464,1,9,Lawson-Herrera,8,6,Taylor Davis,Morning Shift,Routine Maintenance,3.344979987,867.0429837,11.02609914,1,3,Human Error
+358,7,Industrial Cookers,Industrial Machinery,4/2/2023,498,Passed,346,152,4,"Yang, Walker and George",9,7,Victor Hernandez,Night Shift,Routine Maintenance,2.698134083,1036.606449,9.991052875,3,1,Human Error
+359,5,Air Conditioners,Home Appliances,5/3/2023,163,Failed,162,1,10,Campbell-Wong,6,9,Natasha Thomas,Morning Shift,Routine Maintenance,none,1092.765511,11.56667969,0,2,Technical Issues
+360,2,Washing Machine,Home Appliances,5/10/2023,573,Passed,273,300,3,Hartman-Banks,3,1,Amber Powell,Morning Shift,Routine Maintenance,3.352148362,1142.501927,3.344630509,1,3,Human Error
+361,7,Industrial Cookers,Industrial Machinery,6/7/2023,585,Passed,465,120,9,Lawson-Herrera,1,10,Cheryl Nunez,Night Shift,Routine Maintenance,none,1003.543741,5.760238374,0,5,Material Shortage
+362,1,Refrigerator,Home Appliances,5/7/2023,783,Passed,314,469,4,"Yang, Walker and George",3,3,Melissa Kim,Afternoon Shift,Repairs,1.39007391,1080.574886,10.66222842,4,1,Technical Issues
+363,4,Diesel Generator,Industrial Machinery,8/7/2023,135,Passed,72,63,1,"Barnes, Butler and Russell",10,8,Sarah Lloyd,Afternoon Shift,Repairs,4.947770023,1075.840393,3.93273049,1,1,Material Shortage
+364,7,Industrial Cookers,Industrial Machinery,4/4/2023,629,Passed,477,152,8,"Adams, Murphy and Wilson",4,7,Victor Hernandez,Night Shift,Repairs,1.75663116,1292.897477,8.683664954,3,5,Human Error
+365,4,Diesel Generator,Industrial Machinery,8/10/2023,321,Failed,320,1,10,Campbell-Wong,2,9,Natasha Thomas,Morning Shift,Routine Maintenance,none,809.5971147,8.131236754,0,1,Technical Issues
+366,6,Microwave Ovens,Home Appliances,6/23/2023,484,In-Between,175,309,5,Hawkins-Miller,2,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.364588087,1318.731181,4.434152077,1,5,Human Error
+367,2,Washing Machine,Home Appliances,8/23/2023,212,Passed,211,1,9,Lawson-Herrera,4,6,Taylor Davis,Morning Shift,Routine Maintenance,4.196432599,918.7240073,4.365627903,5,5,Technical Issues
+368,3,Industrial Mixer,Industrial Machinery,9/26/2023,271,Passed,270,1,1,"Barnes, Butler and Russell",8,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.445923212,1143.591751,11.55023452,5,1,Material Shortage
+369,5,Air Conditioners,Home Appliances,5/29/2023,477,Passed,200,277,2,"Moore, Hernandez and Munoz",7,2,Ashley Herring,Night Shift,Routine Maintenance,none,841.8486208,10.97637476,0,1,Human Error
+370,5,Air Conditioners,Home Appliances,4/30/2023,856,Passed,219,637,1,"Barnes, Butler and Russell",6,2,Ashley Herring,Night Shift,Routine Maintenance,4.071854365,1154.09295,6.305542473,5,3,Technical Issues
+371,7,Industrial Cookers,Industrial Machinery,8/8/2023,408,Passed,407,1,9,Lawson-Herrera,1,5,David Floyd,Afternoon Shift,Repairs,none,1095.113647,8.83508117,0,5,Technical Issues
+372,6,Microwave Ovens,Home Appliances,6/5/2023,754,In-Between,220,534,4,"Yang, Walker and George",7,10,Cheryl Nunez,Night Shift,Routine Maintenance,1.971899403,1291.400876,11.57424789,5,1,Technical Issues
+373,2,Washing Machine,Home Appliances,5/28/2023,452,Passed,419,33,8,"Adams, Murphy and Wilson",7,5,David Floyd,Afternoon Shift,Repairs,4.449589739,1158.010248,11.12469076,5,1,Human Error
+374,5,Air Conditioners,Home Appliances,8/14/2023,248,Passed,247,1,4,"Yang, Walker and George",2,9,Natasha Thomas,Morning Shift,Routine Maintenance,1.380277241,938.1222368,5.84325008,3,3,Material Shortage
+375,6,Microwave Ovens,Home Appliances,6/11/2023,959,Passed,86,873,6,"Hill, Thomas and Neal",6,4,Megan Allen,Night Shift,Routine Maintenance,none,930.4691237,5.2524743,0,1,Material Shortage
+376,1,Refrigerator,Home Appliances,5/5/2023,760,Failed,483,277,2,"Moore, Hernandez and Munoz",7,5,David Floyd,Afternoon Shift,Repairs,1.772974346,1216.43682,9.363877894,5,3,Human Error
+377,3,Industrial Mixer,Industrial Machinery,7/7/2023,674,Failed,309,365,7,Ferguson Inc,5,10,Cheryl Nunez,Night Shift,Repairs,none,982.0314169,8.983637979,0,1,Human Error
+378,6,Microwave Ovens,Home Appliances,6/6/2023,204,Passed,203,1,4,"Yang, Walker and George",2,7,Victor Hernandez,Night Shift,Routine Maintenance,2.049701994,1333.791588,3.302988205,5,5,Technical Issues
+379,3,Industrial Mixer,Industrial Machinery,4/22/2023,360,Passed,359,1,8,"Adams, Murphy and Wilson",1,4,Megan Allen,Night Shift,Routine Maintenance,4.59973098,1041.884191,7.77331965,1,4,Human Error
+380,7,Industrial Cookers,Industrial Machinery,7/6/2023,539,Passed,229,310,10,Campbell-Wong,2,1,Amber Powell,Morning Shift,Repairs,1.913768855,860.9153358,3.459150654,1,4,Technical Issues
+381,5,Air Conditioners,Home Appliances,5/24/2023,300,Passed,299,1,10,Campbell-Wong,8,6,Taylor Davis,Morning Shift,Repairs,4.740893164,1028.224933,10.57468211,3,3,Material Shortage
+382,3,Industrial Mixer,Industrial Machinery,9/7/2023,930,Passed,484,446,3,Hartman-Banks,7,6,Taylor Davis,Morning Shift,Repairs,none,1304.593919,6.13427371,0,2,Material Shortage
+383,3,Industrial Mixer,Industrial Machinery,4/27/2023,750,Failed,412,338,4,"Yang, Walker and George",3,5,David Floyd,Afternoon Shift,Repairs,1.25202218,1328.641631,6.806099356,4,4,Human Error
+384,4,Diesel Generator,Industrial Machinery,7/4/2023,853,Passed,101,752,6,"Hill, Thomas and Neal",4,6,Taylor Davis,Morning Shift,Routine Maintenance,2.928105991,1192.388079,3.408187755,5,5,Technical Issues
+385,4,Diesel Generator,Industrial Machinery,6/11/2023,469,In-Between,336,133,2,"Moore, Hernandez and Munoz",1,3,Melissa Kim,Afternoon Shift,Repairs,2.132918106,819.4507567,4.285849873,5,3,Technical Issues
+386,3,Industrial Mixer,Industrial Machinery,6/12/2023,494,In-Between,493,1,10,Campbell-Wong,6,5,David Floyd,Afternoon Shift,Routine Maintenance,4.865427267,1257.706477,7.601491687,3,3,Human Error
+387,5,Air Conditioners,Home Appliances,5/13/2023,135,Failed,83,52,3,Hartman-Banks,3,4,Megan Allen,Night Shift,Routine Maintenance,4.076971438,1280.742634,10.71906372,1,1,Human Error
+388,2,Washing Machine,Home Appliances,7/13/2023,894,Failed,286,608,8,"Adams, Murphy and Wilson",6,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.18891552,1234.378634,4.971501411,4,3,Human Error
+389,2,Washing Machine,Home Appliances,5/29/2023,801,Failed,416,385,6,"Hill, Thomas and Neal",3,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,3.174876162,1259.464264,4.135992204,5,5,Human Error
+390,4,Diesel Generator,Industrial Machinery,8/10/2023,345,Passed,316,29,8,"Adams, Murphy and Wilson",10,9,Natasha Thomas,Morning Shift,Repairs,1.58682289,1076.69737,8.306569156,3,2,Material Shortage
+391,5,Air Conditioners,Home Appliances,8/1/2023,839,Failed,329,510,2,"Moore, Hernandez and Munoz",10,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.691009451,845.4136413,6.976334322,5,5,Technical Issues
+392,2,Washing Machine,Home Appliances,4/9/2023,519,Passed,409,110,5,Hawkins-Miller,5,3,Melissa Kim,Afternoon Shift,Repairs,3.378356001,892.9955035,8.596165466,3,4,Material Shortage
+393,5,Air Conditioners,Home Appliances,7/14/2023,250,In-Between,249,1,6,"Hill, Thomas and Neal",8,5,David Floyd,Afternoon Shift,Repairs,1.036997637,1150.906657,7.894729341,1,2,Human Error
+394,3,Industrial Mixer,Industrial Machinery,7/26/2023,492,Passed,482,10,5,Hawkins-Miller,10,5,David Floyd,Afternoon Shift,Routine Maintenance,1.033604257,915.8570731,7.508006061,5,2,Human Error
+395,5,Air Conditioners,Home Appliances,8/22/2023,603,Passed,116,487,5,Hawkins-Miller,6,4,Megan Allen,Night Shift,Routine Maintenance,1.309107827,1075.680466,10.30027434,2,4,Material Shortage
+396,6,Microwave Ovens,Home Appliances,5/8/2023,227,Passed,226,1,6,"Hill, Thomas and Neal",3,6,Taylor Davis,Morning Shift,Routine Maintenance,4.886788532,834.2604797,6.293244402,3,3,Human Error
+397,4,Diesel Generator,Industrial Machinery,6/29/2023,1000,Failed,356,644,4,"Yang, Walker and George",8,1,Amber Powell,Morning Shift,Routine Maintenance,2.722510117,1193.888245,6.046076113,1,5,Material Shortage
+398,1,Refrigerator,Home Appliances,6/23/2023,627,Failed,241,386,6,"Hill, Thomas and Neal",6,1,Amber Powell,Morning Shift,Routine Maintenance,2.963214586,1003.875009,8.463469353,2,5,Technical Issues
+399,6,Microwave Ovens,Home Appliances,7/6/2023,326,Passed,65,261,5,Hawkins-Miller,7,5,David Floyd,Afternoon Shift,Repairs,1.066632037,1074.92415,5.957289792,5,1,Human Error
+400,6,Microwave Ovens,Home Appliances,7/19/2023,698,Passed,446,252,5,Hawkins-Miller,10,4,Megan Allen,Night Shift,Routine Maintenance,4.019012705,1040.574092,10.98626263,5,1,Material Shortage
+401,4,Diesel Generator,Industrial Machinery,6/27/2023,362,Passed,287,75,5,Hawkins-Miller,2,7,Victor Hernandez,Night Shift,Repairs,4.738535849,814.5719473,3.254520132,5,4,Material Shortage
+402,6,Microwave Ovens,Home Appliances,9/9/2023,192,Failed,86,106,4,"Yang, Walker and George",5,10,Cheryl Nunez,Night Shift,Repairs,1.76846787,1265.098872,8.589945755,1,5,Technical Issues
+403,1,Refrigerator,Home Appliances,4/13/2023,228,Failed,58,170,5,Hawkins-Miller,10,10,Cheryl Nunez,Night Shift,Repairs,4.399192328,1188.81165,11.12937499,5,3,Human Error
+404,2,Washing Machine,Home Appliances,7/16/2023,145,Passed,144,1,9,Lawson-Herrera,8,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.522088073,1031.99106,3.510752747,3,1,Human Error
+405,6,Microwave Ovens,Home Appliances,7/22/2023,501,Passed,100,401,5,Hawkins-Miller,7,7,Victor Hernandez,Night Shift,Repairs,2.105818847,1263.797172,4.333259975,2,2,Technical Issues
+406,4,Diesel Generator,Industrial Machinery,4/5/2023,252,In-Between,114,138,7,Ferguson Inc,4,8,Sarah Lloyd,Afternoon Shift,Repairs,1.995970434,1081.434971,11.85201653,4,3,Material Shortage
+407,3,Industrial Mixer,Industrial Machinery,7/27/2023,404,Failed,403,1,7,Ferguson Inc,3,1,Amber Powell,Morning Shift,Repairs,2.870505473,1297.288254,7.359286814,3,3,Human Error
+408,1,Refrigerator,Home Appliances,8/12/2023,477,Passed,476,1,5,Hawkins-Miller,4,4,Megan Allen,Night Shift,Routine Maintenance,4.642493393,834.4267546,11.23295212,4,3,Human Error
+409,3,Industrial Mixer,Industrial Machinery,5/19/2023,358,Passed,110,248,6,"Hill, Thomas and Neal",9,4,Megan Allen,Night Shift,Routine Maintenance,2.748343029,817.8179548,11.62961973,3,2,Technical Issues
+410,5,Air Conditioners,Home Appliances,9/2/2023,490,Passed,489,1,9,Lawson-Herrera,10,5,David Floyd,Afternoon Shift,Repairs,1.542806737,1226.130605,8.27157163,1,3,Material Shortage
+411,7,Industrial Cookers,Industrial Machinery,8/18/2023,468,Passed,165,303,5,Hawkins-Miller,10,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.391442232,1046.815019,4.348237159,5,4,Human Error
+412,7,Industrial Cookers,Industrial Machinery,7/7/2023,992,Passed,391,601,7,Ferguson Inc,10,4,Megan Allen,Night Shift,Routine Maintenance,2.634840317,975.7699802,9.725058887,5,1,Technical Issues
+413,7,Industrial Cookers,Industrial Machinery,4/15/2023,374,In-Between,373,1,8,"Adams, Murphy and Wilson",3,4,Megan Allen,Night Shift,Repairs,2.161468215,869.4691561,7.525004385,2,5,Human Error
+414,1,Refrigerator,Home Appliances,8/8/2023,463,Passed,412,51,10,Campbell-Wong,5,5,David Floyd,Afternoon Shift,Routine Maintenance,none,1259.724188,10.74884987,0,1,Human Error
+415,5,Air Conditioners,Home Appliances,4/21/2023,216,Failed,215,1,1,"Barnes, Butler and Russell",1,7,Victor Hernandez,Night Shift,Repairs,4.792357899,1194.613483,9.783278049,3,2,Material Shortage
+416,1,Refrigerator,Home Appliances,9/24/2023,395,Passed,251,144,7,Ferguson Inc,3,10,Cheryl Nunez,Night Shift,Repairs,3.369413511,1313.716179,7.892958889,2,1,Material Shortage
+417,5,Air Conditioners,Home Appliances,6/26/2023,575,Passed,357,218,5,Hawkins-Miller,9,9,Natasha Thomas,Morning Shift,Routine Maintenance,none,1123.240727,7.785425332,0,4,Technical Issues
+418,1,Refrigerator,Home Appliances,4/10/2023,524,Passed,142,382,7,Ferguson Inc,2,2,Ashley Herring,Night Shift,Routine Maintenance,2.052190677,1004.401413,5.610695862,2,1,Material Shortage
+419,4,Diesel Generator,Industrial Machinery,4/20/2023,980,Passed,486,494,5,Hawkins-Miller,2,7,Victor Hernandez,Night Shift,Repairs,4.800828624,852.1914302,5.969760733,5,3,Human Error
+420,1,Refrigerator,Home Appliances,8/2/2023,737,In-Between,308,429,5,Hawkins-Miller,9,9,Natasha Thomas,Morning Shift,Repairs,2.668075854,990.1951844,9.708181061,3,1,Material Shortage
+421,5,Air Conditioners,Home Appliances,6/23/2023,848,In-Between,473,375,1,"Barnes, Butler and Russell",1,3,Melissa Kim,Afternoon Shift,Repairs,none,912.237345,8.873721695,0,1,Technical Issues
+422,4,Diesel Generator,Industrial Machinery,6/27/2023,421,Failed,210,211,2,"Moore, Hernandez and Munoz",6,6,Taylor Davis,Morning Shift,Repairs,none,1001.156316,6.890131824,0,1,Technical Issues
+423,4,Diesel Generator,Industrial Machinery,5/21/2023,766,Failed,378,388,7,Ferguson Inc,3,2,Ashley Herring,Night Shift,Repairs,3.260723662,1303.137564,5.31128904,2,1,Material Shortage
+424,1,Refrigerator,Home Appliances,8/23/2023,446,Passed,286,160,3,Hartman-Banks,2,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,3.114501521,1287.347255,7.502910782,3,3,Human Error
+425,5,Air Conditioners,Home Appliances,8/23/2023,471,Failed,408,63,7,Ferguson Inc,8,6,Taylor Davis,Morning Shift,Routine Maintenance,none,981.2597478,11.21019059,0,1,Human Error
+426,5,Air Conditioners,Home Appliances,7/22/2023,341,In-Between,340,1,10,Campbell-Wong,2,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,2.915396693,845.0397911,4.612387753,2,1,Human Error
+427,6,Microwave Ovens,Home Appliances,9/7/2023,701,Passed,251,450,9,Lawson-Herrera,4,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.321350501,1194.77586,10.5126491,3,5,Technical Issues
+428,5,Air Conditioners,Home Appliances,8/23/2023,199,In-Between,198,1,8,"Adams, Murphy and Wilson",2,5,David Floyd,Afternoon Shift,Repairs,3.524211332,1241.139501,11.33430525,3,5,Material Shortage
+429,1,Refrigerator,Home Appliances,8/3/2023,292,Passed,291,1,6,"Hill, Thomas and Neal",8,9,Natasha Thomas,Morning Shift,Repairs,3.210103618,1212.480437,4.270563673,5,4,Material Shortage
+430,3,Industrial Mixer,Industrial Machinery,7/5/2023,772,In-Between,238,534,7,Ferguson Inc,6,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.616931903,1008.387775,4.412016944,1,2,Technical Issues
+431,7,Industrial Cookers,Industrial Machinery,6/14/2023,942,Passed,335,607,1,"Barnes, Butler and Russell",3,4,Megan Allen,Night Shift,Routine Maintenance,none,857.6211573,9.201656412,0,3,Technical Issues
+432,2,Washing Machine,Home Appliances,6/21/2023,598,Passed,256,342,5,Hawkins-Miller,2,10,Cheryl Nunez,Night Shift,Repairs,1.270512643,1051.245195,5.730997258,1,1,Technical Issues
+433,5,Air Conditioners,Home Appliances,7/18/2023,335,Passed,334,1,8,"Adams, Murphy and Wilson",2,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.014768001,1114.127504,5.269269555,4,2,Material Shortage
+434,5,Air Conditioners,Home Appliances,7/7/2023,816,In-Between,160,656,3,Hartman-Banks,3,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,3.663188763,1320.769858,11.32698692,4,2,Human Error
+435,4,Diesel Generator,Industrial Machinery,9/20/2023,974,Passed,370,604,8,"Adams, Murphy and Wilson",7,2,Ashley Herring,Night Shift,Routine Maintenance,3.618349254,1066.644076,9.441720025,3,5,Human Error
+436,1,Refrigerator,Home Appliances,9/12/2023,497,Passed,103,394,7,Ferguson Inc,7,6,Taylor Davis,Morning Shift,Routine Maintenance,3.866995706,1103.615552,8.510653618,2,2,Human Error
+437,2,Washing Machine,Home Appliances,9/19/2023,385,Passed,384,1,7,Ferguson Inc,2,6,Taylor Davis,Morning Shift,Repairs,none,877.1494507,3.651974576,0,5,Material Shortage
+438,5,Air Conditioners,Home Appliances,7/16/2023,696,Failed,139,557,6,"Hill, Thomas and Neal",5,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.869408569,1243.859949,8.775513848,3,1,Human Error
+439,2,Washing Machine,Home Appliances,8/25/2023,475,Passed,201,274,5,Hawkins-Miller,8,5,David Floyd,Afternoon Shift,Repairs,4.339117428,1276.458055,4.276614978,1,4,Technical Issues
+440,4,Diesel Generator,Industrial Machinery,5/25/2023,445,Failed,444,1,2,"Moore, Hernandez and Munoz",4,9,Natasha Thomas,Morning Shift,Repairs,2.694985313,1097.401074,9.24706749,3,3,Human Error
+441,6,Microwave Ovens,Home Appliances,4/13/2023,253,Passed,243,10,10,Campbell-Wong,4,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.2173561,988.3295471,8.458948089,1,3,Human Error
+442,2,Washing Machine,Home Appliances,5/24/2023,130,Passed,129,1,5,Hawkins-Miller,5,1,Amber Powell,Morning Shift,Repairs,3.04213041,1034.188273,3.780471314,2,5,Material Shortage
+443,7,Industrial Cookers,Industrial Machinery,9/18/2023,706,Passed,219,487,10,Campbell-Wong,8,3,Melissa Kim,Afternoon Shift,Repairs,1.824521956,1301.126308,5.232209962,1,5,Human Error
+444,2,Washing Machine,Home Appliances,8/5/2023,365,Passed,364,1,9,Lawson-Herrera,10,3,Melissa Kim,Afternoon Shift,Repairs,3.245913778,1295.477052,3.981387764,2,2,Human Error
+445,1,Refrigerator,Home Appliances,5/30/2023,492,Passed,491,1,7,Ferguson Inc,6,9,Natasha Thomas,Morning Shift,Routine Maintenance,4.98475018,864.0413265,11.1720667,3,1,Technical Issues
+446,6,Microwave Ovens,Home Appliances,8/1/2023,450,Passed,443,7,6,"Hill, Thomas and Neal",4,7,Victor Hernandez,Night Shift,Repairs,3.903429679,888.0428749,7.140168068,1,5,Human Error
+447,5,Air Conditioners,Home Appliances,9/4/2023,192,Passed,191,1,7,Ferguson Inc,1,7,Victor Hernandez,Night Shift,Routine Maintenance,none,1262.365453,7.537903811,0,3,Material Shortage
+448,1,Refrigerator,Home Appliances,5/22/2023,858,Passed,180,678,10,Campbell-Wong,10,8,Sarah Lloyd,Afternoon Shift,Repairs,4.745609758,968.402006,9.224240921,5,5,Human Error
+449,1,Refrigerator,Home Appliances,7/14/2023,285,Passed,57,228,3,Hartman-Banks,6,5,David Floyd,Afternoon Shift,Repairs,1.588623555,920.3498849,10.16175827,5,4,Human Error
+450,2,Washing Machine,Home Appliances,6/1/2023,814,Passed,489,325,3,Hartman-Banks,9,6,Taylor Davis,Morning Shift,Routine Maintenance,1.250721989,1255.622673,7.77415704,5,4,Human Error
+451,1,Refrigerator,Home Appliances,7/24/2023,374,Passed,373,1,1,"Barnes, Butler and Russell",9,10,Cheryl Nunez,Night Shift,Repairs,1.405755074,963.6214925,3.731245131,4,4,Technical Issues
+452,4,Diesel Generator,Industrial Machinery,4/19/2023,549,Passed,335,214,9,Lawson-Herrera,1,5,David Floyd,Afternoon Shift,Repairs,2.254322054,993.1454958,8.089113722,5,5,Technical Issues
+453,3,Industrial Mixer,Industrial Machinery,9/5/2023,977,Passed,215,762,7,Ferguson Inc,2,6,Taylor Davis,Morning Shift,Routine Maintenance,1.885470973,1014.378847,10.80454218,5,1,Material Shortage
+454,6,Microwave Ovens,Home Appliances,9/19/2023,664,Failed,491,173,4,"Yang, Walker and George",9,1,Amber Powell,Morning Shift,Routine Maintenance,2.584464485,1265.741185,10.92151609,4,5,Human Error
+455,7,Industrial Cookers,Industrial Machinery,6/1/2023,236,Passed,217,19,5,Hawkins-Miller,9,7,Victor Hernandez,Night Shift,Repairs,4.164377196,1344.662681,3.861798499,5,2,Material Shortage
+456,6,Microwave Ovens,Home Appliances,4/17/2023,592,Failed,280,312,9,Lawson-Herrera,7,4,Megan Allen,Night Shift,Repairs,3.173535784,1034.822108,7.115992596,3,3,Human Error
+457,5,Air Conditioners,Home Appliances,8/15/2023,256,Passed,197,59,5,Hawkins-Miller,5,5,David Floyd,Afternoon Shift,Routine Maintenance,4.408294315,1205.604003,7.419862109,1,3,Human Error
+458,7,Industrial Cookers,Industrial Machinery,4/30/2023,581,Passed,287,294,5,Hawkins-Miller,5,1,Amber Powell,Morning Shift,Repairs,3.31425599,1068.560981,5.872786668,1,1,Material Shortage
+459,6,Microwave Ovens,Home Appliances,8/23/2023,622,Failed,400,222,10,Campbell-Wong,8,1,Amber Powell,Morning Shift,Routine Maintenance,2.341484739,1224.751927,11.35132756,1,2,Technical Issues
+460,7,Industrial Cookers,Industrial Machinery,4/20/2023,241,Passed,155,86,1,"Barnes, Butler and Russell",9,6,Taylor Davis,Morning Shift,Routine Maintenance,1.140823642,1172.853239,10.33707976,5,4,Human Error
+461,6,Microwave Ovens,Home Appliances,4/6/2023,945,Passed,58,887,4,"Yang, Walker and George",4,2,Ashley Herring,Night Shift,Routine Maintenance,none,1078.099997,9.510036235,0,3,Material Shortage
+462,3,Industrial Mixer,Industrial Machinery,6/25/2023,317,Passed,316,1,10,Campbell-Wong,5,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,2.896687747,940.9904592,5.834767783,4,2,Material Shortage
+463,3,Industrial Mixer,Industrial Machinery,8/19/2023,626,Failed,360,266,2,"Moore, Hernandez and Munoz",7,6,Taylor Davis,Morning Shift,Repairs,none,1291.948986,5.202047761,0,3,Technical Issues
+464,7,Industrial Cookers,Industrial Machinery,8/27/2023,453,Failed,452,1,10,Campbell-Wong,10,1,Amber Powell,Morning Shift,Repairs,4.978010152,1348.337116,7.32888456,5,5,Technical Issues
+465,3,Industrial Mixer,Industrial Machinery,5/24/2023,312,Passed,51,261,2,"Moore, Hernandez and Munoz",10,2,Ashley Herring,Night Shift,Routine Maintenance,1.791811668,823.6918378,10.80510955,2,5,Human Error
+466,2,Washing Machine,Home Appliances,6/13/2023,899,Passed,301,598,4,"Yang, Walker and George",7,1,Amber Powell,Morning Shift,Repairs,1.35379211,1119.058944,10.39470807,3,3,Human Error
+467,1,Refrigerator,Home Appliances,7/16/2023,970,Passed,143,827,10,Campbell-Wong,2,5,David Floyd,Afternoon Shift,Routine Maintenance,4.088836784,906.5989889,11.39450811,3,2,Material Shortage
+468,5,Air Conditioners,Home Appliances,8/25/2023,785,Failed,474,311,6,"Hill, Thomas and Neal",7,5,David Floyd,Afternoon Shift,Routine Maintenance,2.069573475,931.9613744,5.136283721,5,4,Material Shortage
+469,7,Industrial Cookers,Industrial Machinery,4/27/2023,274,Passed,273,1,5,Hawkins-Miller,4,8,Sarah Lloyd,Afternoon Shift,Repairs,3.780738968,1332.21525,6.788468625,2,2,Technical Issues
+470,2,Washing Machine,Home Appliances,7/11/2023,417,In-Between,390,27,8,"Adams, Murphy and Wilson",1,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.846556809,1125.556929,7.091308609,1,5,Material Shortage
+471,2,Washing Machine,Home Appliances,9/13/2023,871,Passed,72,799,2,"Moore, Hernandez and Munoz",4,5,David Floyd,Afternoon Shift,Repairs,none,927.1870521,9.657118255,0,4,Technical Issues
+472,4,Diesel Generator,Industrial Machinery,7/26/2023,471,In-Between,470,1,4,"Yang, Walker and George",7,7,Victor Hernandez,Night Shift,Routine Maintenance,1.358245262,905.1767422,4.528801818,2,4,Material Shortage
+473,7,Industrial Cookers,Industrial Machinery,6/1/2023,299,Passed,88,211,7,Ferguson Inc,1,7,Victor Hernandez,Night Shift,Routine Maintenance,none,1263.544062,6.941114582,0,3,Technical Issues
+474,2,Washing Machine,Home Appliances,6/25/2023,221,Passed,196,25,4,"Yang, Walker and George",2,7,Victor Hernandez,Night Shift,Routine Maintenance,4.646530181,880.9098389,8.930727261,2,4,Technical Issues
+475,6,Microwave Ovens,Home Appliances,8/19/2023,646,In-Between,237,409,6,"Hill, Thomas and Neal",2,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,1184.081767,10.26599402,0,5,Human Error
+476,6,Microwave Ovens,Home Appliances,9/12/2023,483,Passed,67,416,4,"Yang, Walker and George",3,1,Amber Powell,Morning Shift,Repairs,1.61867926,1221.413625,5.166434347,2,4,Technical Issues
+477,1,Refrigerator,Home Appliances,4/6/2023,990,Passed,260,730,1,"Barnes, Butler and Russell",8,7,Victor Hernandez,Night Shift,Routine Maintenance,2.172094131,822.7435211,5.900604727,2,3,Technical Issues
+478,7,Industrial Cookers,Industrial Machinery,9/11/2023,722,Failed,263,459,3,Hartman-Banks,8,7,Victor Hernandez,Night Shift,Repairs,4.949453294,804.1242783,10.98925917,4,1,Material Shortage
+479,5,Air Conditioners,Home Appliances,7/8/2023,117,Failed,110,7,10,Campbell-Wong,4,8,Sarah Lloyd,Afternoon Shift,Repairs,4.862144952,888.0794059,4.782945968,4,3,Technical Issues
+480,4,Diesel Generator,Industrial Machinery,7/31/2023,942,Passed,94,848,5,Hawkins-Miller,10,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.827755866,862.6248759,10.37182127,3,1,Technical Issues
+481,7,Industrial Cookers,Industrial Machinery,4/24/2023,990,Passed,493,497,4,"Yang, Walker and George",5,4,Megan Allen,Night Shift,Routine Maintenance,3.346730838,832.3436382,4.289711943,3,1,Material Shortage
+482,3,Industrial Mixer,Industrial Machinery,9/19/2023,964,Passed,227,737,4,"Yang, Walker and George",3,2,Ashley Herring,Night Shift,Routine Maintenance,2.217393597,1201.265692,10.45983551,2,5,Technical Issues
+483,5,Air Conditioners,Home Appliances,9/28/2023,639,Passed,189,450,3,Hartman-Banks,8,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,3.920763859,1287.296385,4.151367069,2,5,Human Error
+484,3,Industrial Mixer,Industrial Machinery,5/6/2023,434,Passed,258,176,10,Campbell-Wong,9,3,Melissa Kim,Afternoon Shift,Repairs,none,907.0816404,3.907546307,0,3,Technical Issues
+485,5,Air Conditioners,Home Appliances,8/3/2023,245,Passed,244,1,5,Hawkins-Miller,10,3,Melissa Kim,Afternoon Shift,Repairs,4.522811302,1310.9176,8.167093046,3,1,Material Shortage
+486,2,Washing Machine,Home Appliances,9/14/2023,698,In-Between,164,534,1,"Barnes, Butler and Russell",10,2,Ashley Herring,Night Shift,Repairs,1.546694424,982.4850378,9.552053337,1,4,Technical Issues
+487,2,Washing Machine,Home Appliances,6/4/2023,521,Failed,497,24,2,"Moore, Hernandez and Munoz",3,4,Megan Allen,Night Shift,Routine Maintenance,4.752520961,1298.424368,4.877105226,5,3,Human Error
+488,6,Microwave Ovens,Home Appliances,9/3/2023,847,Passed,486,361,1,"Barnes, Butler and Russell",5,7,Victor Hernandez,Night Shift,Routine Maintenance,2.300382902,917.337095,6.047771639,3,1,Technical Issues
+489,3,Industrial Mixer,Industrial Machinery,8/28/2023,474,Failed,172,302,9,Lawson-Herrera,6,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,1004.983898,10.55129698,0,1,Material Shortage
+490,1,Refrigerator,Home Appliances,4/28/2023,576,Passed,87,489,1,"Barnes, Butler and Russell",5,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.949190274,1032.432672,9.788698245,5,2,Material Shortage
+491,5,Air Conditioners,Home Appliances,5/31/2023,383,Passed,357,26,5,Hawkins-Miller,8,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.103742033,851.7726592,9.284886763,3,2,Human Error
+492,7,Industrial Cookers,Industrial Machinery,9/10/2023,426,Passed,329,97,6,"Hill, Thomas and Neal",9,6,Taylor Davis,Morning Shift,Routine Maintenance,1.278032276,859.0048089,10.43970075,5,4,Human Error
+493,3,Industrial Mixer,Industrial Machinery,6/18/2023,439,Passed,438,1,8,"Adams, Murphy and Wilson",1,10,Cheryl Nunez,Night Shift,Repairs,2.638846763,1026.030955,4.720272989,4,2,Human Error
+494,4,Diesel Generator,Industrial Machinery,8/28/2023,509,Passed,308,201,9,Lawson-Herrera,8,4,Megan Allen,Night Shift,Repairs,4.270280333,1105.283017,5.525015691,5,1,Technical Issues
+495,3,Industrial Mixer,Industrial Machinery,4/20/2023,833,Passed,51,782,3,Hartman-Banks,4,4,Megan Allen,Night Shift,Repairs,none,859.8257139,4.646924548,0,5,Human Error
+496,1,Refrigerator,Home Appliances,5/2/2023,475,Passed,474,1,2,"Moore, Hernandez and Munoz",8,8,Sarah Lloyd,Afternoon Shift,Repairs,3.130943309,1271.582509,11.6097313,5,4,Human Error
+497,6,Microwave Ovens,Home Appliances,5/31/2023,130,In-Between,69,61,10,Campbell-Wong,4,6,Taylor Davis,Morning Shift,Repairs,1.054144955,936.9894801,5.452759879,5,4,Material Shortage
+498,5,Air Conditioners,Home Appliances,7/18/2023,677,Passed,246,431,5,Hawkins-Miller,3,2,Ashley Herring,Night Shift,Routine Maintenance,4.491360226,1108.0199,7.668939844,5,5,Material Shortage
+499,6,Microwave Ovens,Home Appliances,9/10/2023,619,Passed,267,352,5,Hawkins-Miller,9,9,Natasha Thomas,Morning Shift,Routine Maintenance,1.688386121,1131.357004,11.9243952,1,3,Material Shortage
+500,5,Air Conditioners,Home Appliances,7/6/2023,967,Failed,437,530,1,"Barnes, Butler and Russell",3,7,Victor Hernandez,Night Shift,Repairs,3.282933785,1166.158447,11.65217454,1,1,Material Shortage
+501,4,Diesel Generator,Industrial Machinery,6/9/2023,811,In-Between,429,382,8,"Adams, Murphy and Wilson",6,6,Taylor Davis,Morning Shift,Routine Maintenance,2.451307178,1078.666025,5.742500544,5,5,Technical Issues
+502,7,Industrial Cookers,Industrial Machinery,9/18/2023,170,Passed,138,32,6,"Hill, Thomas and Neal",3,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.189506158,1166.217552,3.166075538,4,1,Human Error
+503,1,Refrigerator,Home Appliances,9/7/2023,287,Failed,286,1,4,"Yang, Walker and George",3,3,Melissa Kim,Afternoon Shift,Repairs,4.858322571,836.3705995,4.427073692,5,2,Technical Issues
+504,7,Industrial Cookers,Industrial Machinery,6/16/2023,783,In-Between,210,573,4,"Yang, Walker and George",2,6,Taylor Davis,Morning Shift,Routine Maintenance,4.350419435,1119.647141,7.651159745,4,4,Technical Issues
+505,3,Industrial Mixer,Industrial Machinery,6/17/2023,635,Failed,359,276,6,"Hill, Thomas and Neal",3,3,Melissa Kim,Afternoon Shift,Repairs,4.694746614,1279.672103,9.865050422,2,3,Material Shortage
+506,1,Refrigerator,Home Appliances,9/12/2023,500,Passed,283,217,10,Campbell-Wong,4,9,Natasha Thomas,Morning Shift,Repairs,1.103491384,1239.916666,8.926333838,4,5,Human Error
+507,4,Diesel Generator,Industrial Machinery,7/21/2023,743,Passed,384,359,8,"Adams, Murphy and Wilson",3,1,Amber Powell,Morning Shift,Repairs,4.469473288,1045.540891,8.986127954,1,4,Technical Issues
+508,5,Air Conditioners,Home Appliances,4/26/2023,913,Passed,486,427,2,"Moore, Hernandez and Munoz",7,5,David Floyd,Afternoon Shift,Routine Maintenance,none,981.7348196,7.912595076,0,4,Technical Issues
+509,1,Refrigerator,Home Appliances,8/10/2023,501,Passed,61,440,8,"Adams, Murphy and Wilson",9,8,Sarah Lloyd,Afternoon Shift,Repairs,3.187460427,1348.537449,4.567515734,3,1,Human Error
+510,4,Diesel Generator,Industrial Machinery,7/10/2023,361,Passed,140,221,4,"Yang, Walker and George",10,5,David Floyd,Afternoon Shift,Repairs,2.220204205,1068.300704,8.33537246,4,2,Technical Issues
+511,3,Industrial Mixer,Industrial Machinery,5/12/2023,799,In-Between,175,624,3,Hartman-Banks,1,3,Melissa Kim,Afternoon Shift,Repairs,1.608351303,1153.610083,8.221969504,1,3,Material Shortage
+512,5,Air Conditioners,Home Appliances,6/6/2023,425,Passed,424,1,10,Campbell-Wong,3,7,Victor Hernandez,Night Shift,Repairs,2.805702055,970.756577,3.73715119,3,3,Human Error
+513,5,Air Conditioners,Home Appliances,9/10/2023,836,Passed,386,450,9,Lawson-Herrera,7,6,Taylor Davis,Morning Shift,Routine Maintenance,4.045767067,1132.403066,3.261327244,2,1,Technical Issues
+514,1,Refrigerator,Home Appliances,6/20/2023,197,Passed,180,17,3,Hartman-Banks,5,1,Amber Powell,Morning Shift,Repairs,none,994.2450133,7.6727213,0,2,Material Shortage
+515,4,Diesel Generator,Industrial Machinery,6/21/2023,431,Failed,430,1,9,Lawson-Herrera,1,4,Megan Allen,Night Shift,Routine Maintenance,4.971416311,1076.880008,10.3715486,2,2,Technical Issues
+516,6,Microwave Ovens,Home Appliances,7/16/2023,323,Failed,322,1,1,"Barnes, Butler and Russell",4,4,Megan Allen,Night Shift,Routine Maintenance,none,848.2022939,11.45346245,0,2,Human Error
+517,4,Diesel Generator,Industrial Machinery,7/25/2023,519,Passed,440,79,2,"Moore, Hernandez and Munoz",1,4,Megan Allen,Night Shift,Routine Maintenance,4.11797034,866.5996095,9.953196614,3,5,Human Error
+518,5,Air Conditioners,Home Appliances,4/2/2023,324,Passed,323,1,10,Campbell-Wong,4,5,David Floyd,Afternoon Shift,Repairs,2.723838451,829.8898735,11.0124272,1,3,Human Error
+519,5,Air Conditioners,Home Appliances,7/11/2023,623,Failed,332,291,7,Ferguson Inc,4,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.717658325,809.4510638,11.2975512,5,3,Technical Issues
+520,4,Diesel Generator,Industrial Machinery,5/18/2023,575,Passed,290,285,3,Hartman-Banks,7,6,Taylor Davis,Morning Shift,Repairs,3.968161599,936.1516096,5.146587895,2,2,Human Error
+521,5,Air Conditioners,Home Appliances,8/25/2023,357,In-Between,356,1,5,Hawkins-Miller,2,9,Natasha Thomas,Morning Shift,Routine Maintenance,2.368898877,1167.202349,9.235013604,1,4,Technical Issues
+522,3,Industrial Mixer,Industrial Machinery,6/5/2023,489,Passed,488,1,10,Campbell-Wong,8,1,Amber Powell,Morning Shift,Repairs,2.06998633,1013.524545,11.79884408,5,2,Technical Issues
+523,3,Industrial Mixer,Industrial Machinery,7/8/2023,586,Passed,63,523,6,"Hill, Thomas and Neal",1,5,David Floyd,Afternoon Shift,Routine Maintenance,1.210090512,963.0319843,7.478419141,5,5,Human Error
+524,4,Diesel Generator,Industrial Machinery,9/28/2023,309,Passed,228,81,3,Hartman-Banks,8,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,1.864364447,835.6169466,9.276915253,4,2,Material Shortage
+525,1,Refrigerator,Home Appliances,5/26/2023,387,Failed,101,286,9,Lawson-Herrera,6,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.426088,1075.090118,6.222083711,3,2,Technical Issues
+526,3,Industrial Mixer,Industrial Machinery,7/18/2023,620,Passed,366,254,10,Campbell-Wong,8,10,Cheryl Nunez,Night Shift,Routine Maintenance,none,1084.058616,5.953990466,0,5,Human Error
+527,2,Washing Machine,Home Appliances,9/20/2023,927,Passed,140,787,2,"Moore, Hernandez and Munoz",10,1,Amber Powell,Morning Shift,Routine Maintenance,4.425061703,1211.419677,10.6471862,2,5,Material Shortage
+528,3,Industrial Mixer,Industrial Machinery,7/29/2023,609,Failed,178,431,10,Campbell-Wong,2,10,Cheryl Nunez,Night Shift,Repairs,none,1343.070619,10.44221705,0,2,Material Shortage
+529,7,Industrial Cookers,Industrial Machinery,6/26/2023,327,Passed,326,1,6,"Hill, Thomas and Neal",8,1,Amber Powell,Morning Shift,Repairs,2.373740302,865.3808978,5.098630131,4,3,Technical Issues
+530,5,Air Conditioners,Home Appliances,6/15/2023,898,Passed,181,717,2,"Moore, Hernandez and Munoz",6,9,Natasha Thomas,Morning Shift,Repairs,2.973345231,852.5660352,4.230563762,5,3,Material Shortage
+531,3,Industrial Mixer,Industrial Machinery,5/23/2023,897,In-Between,358,539,5,Hawkins-Miller,2,7,Victor Hernandez,Night Shift,Routine Maintenance,2.530395975,978.8331809,5.504359698,4,5,Material Shortage
+532,4,Diesel Generator,Industrial Machinery,7/7/2023,479,Failed,478,1,4,"Yang, Walker and George",4,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.360058045,1202.432211,6.467798932,2,1,Material Shortage
+533,1,Refrigerator,Home Appliances,7/20/2023,336,Passed,184,152,3,Hartman-Banks,4,4,Megan Allen,Night Shift,Routine Maintenance,none,1037.146039,4.553197946,0,3,Material Shortage
+534,2,Washing Machine,Home Appliances,8/13/2023,799,In-Between,155,644,10,Campbell-Wong,5,7,Victor Hernandez,Night Shift,Routine Maintenance,4.945336252,858.3547573,11.38864751,1,2,Material Shortage
+535,4,Diesel Generator,Industrial Machinery,8/16/2023,481,Passed,218,263,4,"Yang, Walker and George",8,4,Megan Allen,Night Shift,Routine Maintenance,none,1074.017586,9.581916078,0,3,Technical Issues
+536,7,Industrial Cookers,Industrial Machinery,8/8/2023,394,In-Between,393,1,8,"Adams, Murphy and Wilson",8,4,Megan Allen,Night Shift,Repairs,1.02211043,1134.04717,7.69335271,3,5,Human Error
+537,6,Microwave Ovens,Home Appliances,9/18/2023,463,Passed,213,250,10,Campbell-Wong,7,5,David Floyd,Afternoon Shift,Routine Maintenance,2.146812256,1245.861921,7.981025491,1,3,Human Error
+538,7,Industrial Cookers,Industrial Machinery,7/29/2023,325,Failed,324,1,5,Hawkins-Miller,9,2,Ashley Herring,Night Shift,Repairs,2.090856549,929.4727126,8.756256068,4,3,Material Shortage
+539,1,Refrigerator,Home Appliances,9/9/2023,339,Passed,272,67,9,Lawson-Herrera,8,5,David Floyd,Afternoon Shift,Routine Maintenance,4.350608545,1004.48467,5.229517273,4,5,Technical Issues
+540,6,Microwave Ovens,Home Appliances,8/19/2023,494,Passed,493,1,7,Ferguson Inc,3,9,Natasha Thomas,Morning Shift,Repairs,2.075575826,965.516559,5.673624913,5,2,Material Shortage
+541,5,Air Conditioners,Home Appliances,9/23/2023,814,Passed,475,339,9,Lawson-Herrera,4,3,Melissa Kim,Afternoon Shift,Repairs,1.564292586,1278.876141,11.56262985,3,1,Human Error
+542,3,Industrial Mixer,Industrial Machinery,5/22/2023,380,Passed,210,170,8,"Adams, Murphy and Wilson",3,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.972352677,877.1672015,6.844708724,1,3,Technical Issues
+543,4,Diesel Generator,Industrial Machinery,5/18/2023,679,Passed,113,566,10,Campbell-Wong,7,9,Natasha Thomas,Morning Shift,Repairs,1.656838109,1120.746487,4.339704341,2,4,Material Shortage
+544,6,Microwave Ovens,Home Appliances,5/6/2023,461,In-Between,460,1,2,"Moore, Hernandez and Munoz",7,9,Natasha Thomas,Morning Shift,Repairs,1.379428269,1344.712043,4.261850795,1,2,Technical Issues
+545,7,Industrial Cookers,Industrial Machinery,6/27/2023,565,Failed,50,515,6,"Hill, Thomas and Neal",3,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.000878929,1345.562634,10.37054807,4,4,Material Shortage
+546,3,Industrial Mixer,Industrial Machinery,5/14/2023,413,Passed,399,14,5,Hawkins-Miller,4,10,Cheryl Nunez,Night Shift,Routine Maintenance,1.540575422,1210.647379,8.247685734,1,2,Technical Issues
+547,1,Refrigerator,Home Appliances,9/19/2023,878,Passed,289,589,2,"Moore, Hernandez and Munoz",1,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.426485084,1222.499269,7.639392898,2,3,Technical Issues
+548,3,Industrial Mixer,Industrial Machinery,7/3/2023,428,In-Between,133,295,5,Hawkins-Miller,6,6,Taylor Davis,Morning Shift,Repairs,4.102165372,866.1349321,7.486270238,2,2,Human Error
+549,3,Industrial Mixer,Industrial Machinery,5/21/2023,701,Failed,379,322,9,Lawson-Herrera,1,2,Ashley Herring,Night Shift,Repairs,3.000305484,1291.876073,4.651939645,3,1,Material Shortage
+550,5,Air Conditioners,Home Appliances,7/12/2023,785,Passed,94,691,6,"Hill, Thomas and Neal",5,4,Megan Allen,Night Shift,Repairs,3.903348138,1067.066128,11.67111971,4,2,Human Error
+551,1,Refrigerator,Home Appliances,9/22/2023,493,In-Between,301,192,6,"Hill, Thomas and Neal",8,7,Victor Hernandez,Night Shift,Repairs,none,1343.293241,4.412078673,0,1,Technical Issues
+552,6,Microwave Ovens,Home Appliances,4/27/2023,369,Passed,368,1,1,"Barnes, Butler and Russell",5,10,Cheryl Nunez,Night Shift,Repairs,none,1017.688382,4.981908268,0,1,Material Shortage
+553,2,Washing Machine,Home Appliances,5/18/2023,378,Passed,377,1,3,Hartman-Banks,8,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,3.769875932,918.8728953,11.64735436,1,3,Material Shortage
+554,2,Washing Machine,Home Appliances,9/10/2023,698,Passed,371,327,2,"Moore, Hernandez and Munoz",5,4,Megan Allen,Night Shift,Repairs,1.363073827,1158.223124,8.913800239,2,3,Material Shortage
+555,6,Microwave Ovens,Home Appliances,4/15/2023,412,Failed,411,1,1,"Barnes, Butler and Russell",7,1,Amber Powell,Morning Shift,Routine Maintenance,none,1074.841216,5.991650652,0,1,Material Shortage
+556,4,Diesel Generator,Industrial Machinery,7/27/2023,666,Passed,211,455,7,Ferguson Inc,2,6,Taylor Davis,Morning Shift,Repairs,4.074353279,974.5375839,4.919226687,5,5,Technical Issues
+557,1,Refrigerator,Home Appliances,5/30/2023,498,Passed,230,268,8,"Adams, Murphy and Wilson",7,9,Natasha Thomas,Morning Shift,Repairs,2.593570461,1312.846035,5.286063062,4,5,Material Shortage
+558,2,Washing Machine,Home Appliances,4/9/2023,646,Passed,310,336,5,Hawkins-Miller,8,9,Natasha Thomas,Morning Shift,Repairs,1.300320197,1318.54468,9.652889057,5,1,Material Shortage
+559,2,Washing Machine,Home Appliances,9/9/2023,918,Passed,248,670,9,Lawson-Herrera,10,3,Melissa Kim,Afternoon Shift,Repairs,4.466985413,836.8748365,6.27360586,4,5,Material Shortage
+560,3,Industrial Mixer,Industrial Machinery,5/10/2023,475,Passed,474,1,9,Lawson-Herrera,2,9,Natasha Thomas,Morning Shift,Routine Maintenance,1.138910425,1171.619505,6.483084781,1,2,Material Shortage
+561,1,Refrigerator,Home Appliances,7/31/2023,987,Passed,98,889,1,"Barnes, Butler and Russell",10,5,David Floyd,Afternoon Shift,Repairs,none,950.4623008,3.267732947,0,2,Human Error
+562,4,Diesel Generator,Industrial Machinery,5/9/2023,435,Passed,434,1,8,"Adams, Murphy and Wilson",2,6,Taylor Davis,Morning Shift,Repairs,3.345003162,1179.587815,7.404301727,2,1,Technical Issues
+563,3,Industrial Mixer,Industrial Machinery,5/24/2023,619,Passed,219,400,4,"Yang, Walker and George",2,9,Natasha Thomas,Morning Shift,Repairs,none,1155.471789,11.31700206,0,5,Material Shortage
+564,2,Washing Machine,Home Appliances,9/17/2023,434,Passed,336,98,1,"Barnes, Butler and Russell",5,9,Natasha Thomas,Morning Shift,Routine Maintenance,none,1051.133023,5.321436899,0,5,Technical Issues
+565,4,Diesel Generator,Industrial Machinery,9/17/2023,236,Passed,235,1,5,Hawkins-Miller,8,1,Amber Powell,Morning Shift,Routine Maintenance,none,893.9441099,6.149367833,0,4,Technical Issues
+566,7,Industrial Cookers,Industrial Machinery,9/9/2023,811,Passed,97,714,10,Campbell-Wong,10,9,Natasha Thomas,Morning Shift,Routine Maintenance,4.274157323,951.3788655,5.478149783,5,4,Material Shortage
+567,5,Air Conditioners,Home Appliances,4/19/2023,217,Passed,209,8,5,Hawkins-Miller,7,3,Melissa Kim,Afternoon Shift,Repairs,3.266052292,1181.499178,3.487739846,4,1,Human Error
+568,4,Diesel Generator,Industrial Machinery,9/20/2023,682,Failed,339,343,8,"Adams, Murphy and Wilson",2,6,Taylor Davis,Morning Shift,Repairs,1.98850882,1132.218086,11.65684359,4,3,Technical Issues
+569,6,Microwave Ovens,Home Appliances,6/4/2023,185,Passed,184,1,3,Hartman-Banks,4,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,2.29638305,1141.343739,10.36545325,5,3,Human Error
+570,5,Air Conditioners,Home Appliances,8/10/2023,600,In-Between,419,181,4,"Yang, Walker and George",2,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.221511021,1243.601394,7.246504429,2,3,Material Shortage
+571,6,Microwave Ovens,Home Appliances,6/8/2023,363,Failed,362,1,7,Ferguson Inc,1,6,Taylor Davis,Morning Shift,Repairs,4.54776171,1099.502495,7.654877036,2,4,Human Error
+572,7,Industrial Cookers,Industrial Machinery,6/21/2023,363,Passed,362,1,3,Hartman-Banks,6,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,1.216810349,887.0694093,10.05715606,3,1,Material Shortage
+573,3,Industrial Mixer,Industrial Machinery,4/17/2023,530,Failed,93,437,5,Hawkins-Miller,2,5,David Floyd,Afternoon Shift,Repairs,2.44629157,1193.328504,5.406456699,3,4,Material Shortage
+574,1,Refrigerator,Home Appliances,9/29/2023,226,Failed,60,166,7,Ferguson Inc,6,1,Amber Powell,Morning Shift,Routine Maintenance,2.312450187,961.7273802,6.907407579,4,3,Technical Issues
+575,1,Refrigerator,Home Appliances,6/11/2023,820,Failed,424,396,9,Lawson-Herrera,5,7,Victor Hernandez,Night Shift,Routine Maintenance,3.796847854,838.0081566,5.398589359,1,5,Material Shortage
+576,7,Industrial Cookers,Industrial Machinery,8/18/2023,545,Passed,64,481,10,Campbell-Wong,6,5,David Floyd,Afternoon Shift,Repairs,3.350738722,1017.769566,11.54370182,3,3,Human Error
+577,2,Washing Machine,Home Appliances,9/29/2023,737,In-Between,470,267,6,"Hill, Thomas and Neal",2,7,Victor Hernandez,Night Shift,Routine Maintenance,1.838127551,917.7941482,4.90766892,3,1,Human Error
+578,6,Microwave Ovens,Home Appliances,8/24/2023,411,Passed,410,1,5,Hawkins-Miller,10,5,David Floyd,Afternoon Shift,Repairs,1.466637227,947.7250136,9.548862459,3,1,Human Error
+579,2,Washing Machine,Home Appliances,4/30/2023,959,Passed,371,588,9,Lawson-Herrera,8,1,Amber Powell,Morning Shift,Routine Maintenance,3.686913528,916.7966026,8.942583783,1,5,Technical Issues
+580,5,Air Conditioners,Home Appliances,9/12/2023,784,Passed,216,568,9,Lawson-Herrera,2,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,2.155595172,1165.474371,4.735417502,1,2,Material Shortage
+581,3,Industrial Mixer,Industrial Machinery,9/6/2023,452,Passed,451,1,7,Ferguson Inc,7,2,Ashley Herring,Night Shift,Routine Maintenance,1.997772627,1314.09021,9.0132703,5,3,Human Error
+582,7,Industrial Cookers,Industrial Machinery,8/12/2023,497,In-Between,423,74,3,Hartman-Banks,1,4,Megan Allen,Night Shift,Repairs,1.963843331,1112.050861,9.563174547,1,2,Material Shortage
+583,1,Refrigerator,Home Appliances,5/20/2023,606,Passed,247,359,9,Lawson-Herrera,3,1,Amber Powell,Morning Shift,Repairs,4.171828625,1316.215443,10.76107591,1,1,Technical Issues
+584,4,Diesel Generator,Industrial Machinery,6/8/2023,363,In-Between,281,82,5,Hawkins-Miller,5,8,Sarah Lloyd,Afternoon Shift,Repairs,1.528040443,1190.03524,5.278230913,2,2,Material Shortage
+585,7,Industrial Cookers,Industrial Machinery,8/7/2023,823,Passed,194,629,7,Ferguson Inc,2,6,Taylor Davis,Morning Shift,Routine Maintenance,3.903700539,1069.130862,10.26309976,2,3,Human Error
+586,6,Microwave Ovens,Home Appliances,9/1/2023,501,Failed,105,396,3,Hartman-Banks,9,7,Victor Hernandez,Night Shift,Repairs,2.755344691,961.0864555,10.38072222,4,5,Material Shortage
+587,3,Industrial Mixer,Industrial Machinery,9/18/2023,815,Passed,76,739,7,Ferguson Inc,10,10,Cheryl Nunez,Night Shift,Repairs,4.937506762,1068.294787,11.97150961,2,4,Human Error
+588,3,Industrial Mixer,Industrial Machinery,4/27/2023,511,Passed,251,260,7,Ferguson Inc,5,1,Amber Powell,Morning Shift,Repairs,none,992.1101237,9.46939251,0,3,Human Error
+589,4,Diesel Generator,Industrial Machinery,5/10/2023,817,In-Between,273,544,4,"Yang, Walker and George",6,10,Cheryl Nunez,Night Shift,Repairs,3.949236139,1203.681889,10.34478407,2,3,Human Error
+590,2,Washing Machine,Home Appliances,4/22/2023,990,Passed,486,504,3,Hartman-Banks,2,3,Melissa Kim,Afternoon Shift,Repairs,2.935974714,1298.888238,3.068843297,2,1,Material Shortage
+591,5,Air Conditioners,Home Appliances,9/14/2023,381,Passed,242,139,1,"Barnes, Butler and Russell",9,2,Ashley Herring,Night Shift,Routine Maintenance,4.982227553,929.4017197,10.76268572,2,1,Material Shortage
+592,5,Air Conditioners,Home Appliances,4/11/2023,810,Passed,296,514,8,"Adams, Murphy and Wilson",10,5,David Floyd,Afternoon Shift,Repairs,3.090062342,926.7601589,3.528697311,3,4,Material Shortage
+593,6,Microwave Ovens,Home Appliances,7/25/2023,851,Passed,349,502,2,"Moore, Hernandez and Munoz",5,2,Ashley Herring,Night Shift,Routine Maintenance,1.236003058,1056.39014,9.59761413,3,3,Technical Issues
+594,4,Diesel Generator,Industrial Machinery,5/16/2023,483,Passed,482,1,2,"Moore, Hernandez and Munoz",7,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.841086909,899.7316777,6.977932285,5,2,Technical Issues
+595,1,Refrigerator,Home Appliances,9/1/2023,157,Passed,156,1,2,"Moore, Hernandez and Munoz",10,10,Cheryl Nunez,Night Shift,Repairs,none,1150.368287,3.595874515,0,2,Technical Issues
+596,5,Air Conditioners,Home Appliances,5/13/2023,281,Passed,280,1,2,"Moore, Hernandez and Munoz",7,4,Megan Allen,Night Shift,Repairs,4.545424208,898.4420939,4.010356042,5,5,Material Shortage
+597,6,Microwave Ovens,Home Appliances,7/20/2023,962,Passed,344,618,9,Lawson-Herrera,10,5,David Floyd,Afternoon Shift,Routine Maintenance,2.923761606,1254.801644,10.45689255,5,1,Human Error
+598,5,Air Conditioners,Home Appliances,8/15/2023,983,Passed,463,520,3,Hartman-Banks,2,5,David Floyd,Afternoon Shift,Routine Maintenance,none,1036.351523,4.053545068,0,1,Technical Issues
+599,4,Diesel Generator,Industrial Machinery,7/22/2023,154,In-Between,136,18,9,Lawson-Herrera,4,2,Ashley Herring,Night Shift,Routine Maintenance,2.825217158,1200.211286,8.692444207,4,5,Material Shortage
+600,4,Diesel Generator,Industrial Machinery,8/23/2023,963,Passed,101,862,4,"Yang, Walker and George",2,5,David Floyd,Afternoon Shift,Repairs,1.121371447,843.5984679,10.04732685,4,4,Material Shortage
+601,2,Washing Machine,Home Appliances,8/20/2023,500,Failed,499,1,8,"Adams, Murphy and Wilson",8,2,Ashley Herring,Night Shift,Routine Maintenance,3.323307023,1298.953652,10.9184516,1,3,Material Shortage
+602,5,Air Conditioners,Home Appliances,9/19/2023,496,Passed,495,1,3,Hartman-Banks,8,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1162.883777,4.731310455,0,1,Technical Issues
+603,5,Air Conditioners,Home Appliances,8/16/2023,288,In-Between,287,1,3,Hartman-Banks,3,3,Melissa Kim,Afternoon Shift,Repairs,4.604158571,884.9918279,4.324092446,3,4,Human Error
+604,6,Microwave Ovens,Home Appliances,8/29/2023,850,Passed,268,582,4,"Yang, Walker and George",8,6,Taylor Davis,Morning Shift,Repairs,1.502895975,1172.946737,11.50369493,3,1,Technical Issues
+605,7,Industrial Cookers,Industrial Machinery,5/6/2023,822,Passed,333,489,3,Hartman-Banks,5,9,Natasha Thomas,Morning Shift,Repairs,none,1137.111988,8.085418809,0,4,Human Error
+606,1,Refrigerator,Home Appliances,4/15/2023,638,Passed,383,255,10,Campbell-Wong,4,4,Megan Allen,Night Shift,Routine Maintenance,4.787754739,951.6195294,6.395368014,4,2,Human Error
+607,7,Industrial Cookers,Industrial Machinery,5/30/2023,301,Failed,300,1,10,Campbell-Wong,2,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.517556573,992.3940776,11.33881675,3,2,Material Shortage
+608,3,Industrial Mixer,Industrial Machinery,5/21/2023,567,Passed,429,138,3,Hartman-Banks,8,4,Megan Allen,Night Shift,Routine Maintenance,4.157378,1202.330034,10.54937718,3,3,Human Error
+609,7,Industrial Cookers,Industrial Machinery,5/27/2023,465,Failed,464,1,2,"Moore, Hernandez and Munoz",3,3,Melissa Kim,Afternoon Shift,Routine Maintenance,none,944.50493,6.579515629,0,5,Material Shortage
+610,1,Refrigerator,Home Appliances,6/15/2023,364,Passed,143,221,8,"Adams, Murphy and Wilson",5,5,David Floyd,Afternoon Shift,Repairs,none,1176.607174,11.47474296,0,1,Technical Issues
+611,2,Washing Machine,Home Appliances,4/21/2023,505,Failed,91,414,3,Hartman-Banks,6,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.32069054,877.1569152,4.832038326,2,3,Material Shortage
+612,7,Industrial Cookers,Industrial Machinery,6/8/2023,838,Passed,429,409,10,Campbell-Wong,10,3,Melissa Kim,Afternoon Shift,Repairs,4.988950407,964.2600269,4.785972547,1,2,Human Error
+613,3,Industrial Mixer,Industrial Machinery,5/23/2023,901,Passed,498,403,9,Lawson-Herrera,8,10,Cheryl Nunez,Night Shift,Repairs,2.974751557,883.4356996,5.269706468,1,1,Material Shortage
+614,7,Industrial Cookers,Industrial Machinery,8/26/2023,182,Passed,181,1,10,Campbell-Wong,2,9,Natasha Thomas,Morning Shift,Repairs,1.135063475,1044.712571,6.503677753,1,1,Technical Issues
+615,7,Industrial Cookers,Industrial Machinery,5/1/2023,759,Passed,345,414,6,"Hill, Thomas and Neal",2,1,Amber Powell,Morning Shift,Repairs,1.15624889,1218.074046,7.074769573,3,3,Human Error
+616,3,Industrial Mixer,Industrial Machinery,5/9/2023,954,Passed,351,603,4,"Yang, Walker and George",2,6,Taylor Davis,Morning Shift,Repairs,3.054517517,817.1219995,11.84354489,1,4,Human Error
+617,5,Air Conditioners,Home Appliances,7/7/2023,464,Failed,463,1,3,Hartman-Banks,7,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.538623437,860.327314,11.5865622,5,3,Human Error
+618,3,Industrial Mixer,Industrial Machinery,5/9/2023,268,Passed,267,1,10,Campbell-Wong,7,3,Melissa Kim,Afternoon Shift,Routine Maintenance,none,990.9861993,4.169680086,0,5,Human Error
+619,4,Diesel Generator,Industrial Machinery,9/14/2023,424,Passed,423,1,9,Lawson-Herrera,2,7,Victor Hernandez,Night Shift,Repairs,none,1233.890452,11.63940138,0,2,Material Shortage
+620,4,Diesel Generator,Industrial Machinery,6/9/2023,619,Passed,194,425,6,"Hill, Thomas and Neal",10,1,Amber Powell,Morning Shift,Routine Maintenance,2.10181755,991.2252756,8.670022413,3,4,Material Shortage
+621,1,Refrigerator,Home Appliances,6/29/2023,484,Passed,483,1,1,"Barnes, Butler and Russell",2,4,Megan Allen,Night Shift,Routine Maintenance,2.201063885,1218.901345,5.473443774,2,3,Material Shortage
+622,2,Washing Machine,Home Appliances,8/27/2023,659,Passed,156,503,1,"Barnes, Butler and Russell",2,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.305291345,917.7160241,7.718835098,4,5,Human Error
+623,3,Industrial Mixer,Industrial Machinery,6/18/2023,681,Failed,157,524,8,"Adams, Murphy and Wilson",5,2,Ashley Herring,Night Shift,Routine Maintenance,3.502725708,945.0831404,3.526509427,5,5,Material Shortage
+624,3,Industrial Mixer,Industrial Machinery,6/9/2023,718,Passed,312,406,3,Hartman-Banks,6,7,Victor Hernandez,Night Shift,Routine Maintenance,2.664135319,806.3668041,5.472428762,3,3,Material Shortage
+625,7,Industrial Cookers,Industrial Machinery,9/7/2023,635,Passed,408,227,1,"Barnes, Butler and Russell",6,9,Natasha Thomas,Morning Shift,Repairs,1.589665454,1161.775373,8.554370043,3,1,Human Error
+626,1,Refrigerator,Home Appliances,6/20/2023,490,Passed,485,5,7,Ferguson Inc,9,3,Melissa Kim,Afternoon Shift,Repairs,1.250509002,1151.26929,7.072679103,4,1,Material Shortage
+627,7,Industrial Cookers,Industrial Machinery,7/22/2023,263,Passed,234,29,10,Campbell-Wong,1,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,3.268160695,1307.893785,4.842732067,4,3,Technical Issues
+628,2,Washing Machine,Home Appliances,7/12/2023,519,Passed,118,401,3,Hartman-Banks,6,1,Amber Powell,Morning Shift,Routine Maintenance,3.537956864,1188.522518,3.966435772,4,2,Technical Issues
+629,4,Diesel Generator,Industrial Machinery,9/3/2023,767,In-Between,397,370,10,Campbell-Wong,5,2,Ashley Herring,Night Shift,Routine Maintenance,3.400326541,1049.744329,5.908750296,4,3,Human Error
+630,4,Diesel Generator,Industrial Machinery,5/25/2023,942,Passed,178,764,6,"Hill, Thomas and Neal",5,1,Amber Powell,Morning Shift,Routine Maintenance,2.721180269,877.2871845,11.68764288,5,4,Material Shortage
+631,2,Washing Machine,Home Appliances,4/24/2023,460,Passed,409,51,10,Campbell-Wong,6,1,Amber Powell,Morning Shift,Routine Maintenance,4.256873494,1331.619724,4.822132113,4,2,Material Shortage
+632,7,Industrial Cookers,Industrial Machinery,6/26/2023,275,Passed,127,148,6,"Hill, Thomas and Neal",8,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.348180969,1079.502714,6.986026165,4,4,Human Error
+633,5,Air Conditioners,Home Appliances,7/13/2023,352,Failed,309,43,10,Campbell-Wong,5,10,Cheryl Nunez,Night Shift,Repairs,3.759280746,852.2647494,5.323094523,3,2,Human Error
+634,7,Industrial Cookers,Industrial Machinery,6/16/2023,360,Failed,312,48,3,Hartman-Banks,4,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.754892036,1178.172156,4.425830489,3,3,Human Error
+635,3,Industrial Mixer,Industrial Machinery,6/17/2023,984,Passed,390,594,10,Campbell-Wong,1,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.695621911,1327.378622,6.387579057,5,1,Material Shortage
+636,6,Microwave Ovens,Home Appliances,5/3/2023,994,Passed,186,808,8,"Adams, Murphy and Wilson",3,1,Amber Powell,Morning Shift,Repairs,2.7527691,912.8377924,10.2125989,1,1,Human Error
+637,4,Diesel Generator,Industrial Machinery,7/24/2023,589,In-Between,208,381,1,"Barnes, Butler and Russell",2,2,Ashley Herring,Night Shift,Routine Maintenance,1.541304147,1233.75776,10.36082821,1,2,Material Shortage
+638,7,Industrial Cookers,Industrial Machinery,8/13/2023,439,Passed,113,326,7,Ferguson Inc,1,7,Victor Hernandez,Night Shift,Repairs,1.345693339,1202.886419,3.743868975,2,4,Human Error
+639,1,Refrigerator,Home Appliances,5/14/2023,653,Failed,490,163,1,"Barnes, Butler and Russell",4,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.056785186,1315.990136,6.260272705,5,2,Technical Issues
+640,1,Refrigerator,Home Appliances,7/24/2023,809,Failed,265,544,7,Ferguson Inc,6,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.720010022,1013.948124,4.917338888,5,3,Material Shortage
+641,3,Industrial Mixer,Industrial Machinery,8/24/2023,400,Failed,399,1,9,Lawson-Herrera,10,10,Cheryl Nunez,Night Shift,Repairs,2.642499465,1075.064446,3.1502415,2,5,Technical Issues
+642,3,Industrial Mixer,Industrial Machinery,7/19/2023,526,Passed,249,277,6,"Hill, Thomas and Neal",7,4,Megan Allen,Night Shift,Repairs,2.63937687,876.4028984,4.879529518,2,3,Material Shortage
+643,3,Industrial Mixer,Industrial Machinery,8/31/2023,360,Failed,296,64,6,"Hill, Thomas and Neal",9,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.200919732,1218.537031,10.40833989,4,2,Technical Issues
+644,6,Microwave Ovens,Home Appliances,8/21/2023,722,Passed,76,646,4,"Yang, Walker and George",5,8,Sarah Lloyd,Afternoon Shift,Repairs,3.008512725,951.1495693,7.817590374,4,1,Human Error
+645,1,Refrigerator,Home Appliances,8/14/2023,712,In-Between,461,251,2,"Moore, Hernandez and Munoz",10,2,Ashley Herring,Night Shift,Repairs,1.467085092,1262.078402,3.171388694,1,2,Human Error
+646,4,Diesel Generator,Industrial Machinery,8/21/2023,651,Passed,211,440,4,"Yang, Walker and George",6,8,Sarah Lloyd,Afternoon Shift,Repairs,1.583649411,835.2456615,6.138966594,4,1,Technical Issues
+647,2,Washing Machine,Home Appliances,7/22/2023,176,Passed,175,1,2,"Moore, Hernandez and Munoz",5,8,Sarah Lloyd,Afternoon Shift,Repairs,4.948105304,1097.610148,3.754894457,5,3,Material Shortage
+648,7,Industrial Cookers,Industrial Machinery,7/15/2023,394,Failed,297,97,4,"Yang, Walker and George",4,9,Natasha Thomas,Morning Shift,Routine Maintenance,2.995746322,1289.04386,6.955675356,5,1,Technical Issues
+649,6,Microwave Ovens,Home Appliances,5/30/2023,224,Passed,223,1,7,Ferguson Inc,6,6,Taylor Davis,Morning Shift,Routine Maintenance,1.404870842,1340.375233,7.699467857,3,4,Technical Issues
+650,3,Industrial Mixer,Industrial Machinery,6/19/2023,522,Passed,383,139,10,Campbell-Wong,10,5,David Floyd,Afternoon Shift,Repairs,none,976.1342045,10.9277711,0,5,Material Shortage
+651,3,Industrial Mixer,Industrial Machinery,6/16/2023,761,Passed,443,318,2,"Moore, Hernandez and Munoz",10,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.27533257,934.6928976,5.60890187,2,1,Material Shortage
+652,3,Industrial Mixer,Industrial Machinery,8/29/2023,322,Passed,321,1,10,Campbell-Wong,2,1,Amber Powell,Morning Shift,Repairs,none,901.8619381,10.30984775,0,4,Material Shortage
+653,3,Industrial Mixer,Industrial Machinery,4/3/2023,378,Passed,377,1,8,"Adams, Murphy and Wilson",9,7,Victor Hernandez,Night Shift,Repairs,2.411743694,967.7017612,6.39171954,3,2,Technical Issues
+654,7,Industrial Cookers,Industrial Machinery,5/11/2023,571,Failed,266,305,2,"Moore, Hernandez and Munoz",5,9,Natasha Thomas,Morning Shift,Repairs,3.818571173,877.4156378,7.445811047,3,1,Human Error
+655,6,Microwave Ovens,Home Appliances,6/20/2023,203,Passed,202,1,1,"Barnes, Butler and Russell",5,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.473461982,1045.078851,5.525258497,4,5,Human Error
+656,2,Washing Machine,Home Appliances,8/11/2023,703,Passed,486,217,7,Ferguson Inc,9,3,Melissa Kim,Afternoon Shift,Routine Maintenance,3.101265976,1098.925501,10.38967709,5,2,Material Shortage
+657,6,Microwave Ovens,Home Appliances,9/5/2023,776,Passed,138,638,7,Ferguson Inc,6,4,Megan Allen,Night Shift,Repairs,3.294658901,897.893251,9.159380043,3,5,Human Error
+658,4,Diesel Generator,Industrial Machinery,8/20/2023,675,In-Between,486,189,5,Hawkins-Miller,9,9,Natasha Thomas,Morning Shift,Routine Maintenance,1.536704168,952.9472174,9.908831525,4,5,Material Shortage
+659,2,Washing Machine,Home Appliances,6/3/2023,619,In-Between,292,327,1,"Barnes, Butler and Russell",9,8,Sarah Lloyd,Afternoon Shift,Repairs,1.407667483,1273.140857,8.767484843,4,3,Human Error
+660,6,Microwave Ovens,Home Appliances,8/1/2023,354,Passed,179,175,6,"Hill, Thomas and Neal",1,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.96144844,918.2589497,5.279056994,5,4,Human Error
+661,5,Air Conditioners,Home Appliances,7/30/2023,599,In-Between,201,398,1,"Barnes, Butler and Russell",6,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.682830276,1194.425786,10.59852245,3,2,Human Error
+662,2,Washing Machine,Home Appliances,6/24/2023,614,In-Between,118,496,4,"Yang, Walker and George",7,5,David Floyd,Afternoon Shift,Routine Maintenance,1.039519901,1060.21774,3.958514109,1,5,Technical Issues
+663,2,Washing Machine,Home Appliances,7/3/2023,477,Failed,476,1,3,Hartman-Banks,3,4,Megan Allen,Night Shift,Repairs,3.820230342,1211.290143,8.567028773,1,5,Technical Issues
+664,5,Air Conditioners,Home Appliances,8/2/2023,585,Failed,485,100,3,Hartman-Banks,9,6,Taylor Davis,Morning Shift,Repairs,4.743534892,875.2181594,6.381183686,2,1,Human Error
+665,1,Refrigerator,Home Appliances,9/5/2023,395,Passed,64,331,9,Lawson-Herrera,10,6,Taylor Davis,Morning Shift,Repairs,1.588382965,868.5628296,11.37863106,4,3,Technical Issues
+666,5,Air Conditioners,Home Appliances,7/10/2023,368,Passed,367,1,6,"Hill, Thomas and Neal",5,4,Megan Allen,Night Shift,Routine Maintenance,3.094101237,1059.34514,11.32405568,3,1,Technical Issues
+667,4,Diesel Generator,Industrial Machinery,5/31/2023,534,Passed,65,469,6,"Hill, Thomas and Neal",5,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.460816409,1151.231146,9.501290621,2,5,Technical Issues
+668,1,Refrigerator,Home Appliances,7/6/2023,654,In-Between,162,492,10,Campbell-Wong,3,7,Victor Hernandez,Night Shift,Routine Maintenance,none,1185.649045,8.389127853,0,1,Human Error
+669,6,Microwave Ovens,Home Appliances,5/29/2023,746,Passed,258,488,6,"Hill, Thomas and Neal",8,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,835.264047,8.844426582,0,2,Material Shortage
+670,3,Industrial Mixer,Industrial Machinery,4/17/2023,335,In-Between,334,1,6,"Hill, Thomas and Neal",1,4,Megan Allen,Night Shift,Repairs,3.596134775,932.8365764,8.923087365,1,1,Technical Issues
+671,7,Industrial Cookers,Industrial Machinery,5/2/2023,208,Failed,207,1,1,"Barnes, Butler and Russell",7,4,Megan Allen,Night Shift,Repairs,3.626645567,1049.914706,11.20236818,2,5,Technical Issues
+672,4,Diesel Generator,Industrial Machinery,7/24/2023,475,In-Between,410,65,4,"Yang, Walker and George",1,2,Ashley Herring,Night Shift,Repairs,3.035891815,888.4601721,7.113700055,3,1,Technical Issues
+673,6,Microwave Ovens,Home Appliances,7/22/2023,216,Passed,83,133,2,"Moore, Hernandez and Munoz",7,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,1.993884803,1132.990108,10.56238413,3,5,Technical Issues
+674,6,Microwave Ovens,Home Appliances,8/25/2023,819,Passed,178,641,3,Hartman-Banks,7,5,David Floyd,Afternoon Shift,Routine Maintenance,1.366000369,866.1944155,11.77355405,5,5,Technical Issues
+675,6,Microwave Ovens,Home Appliances,5/2/2023,537,Passed,129,408,7,Ferguson Inc,5,3,Melissa Kim,Afternoon Shift,Repairs,3.70345169,824.5206156,9.396501464,4,3,Material Shortage
+676,5,Air Conditioners,Home Appliances,7/12/2023,397,Failed,396,1,7,Ferguson Inc,2,9,Natasha Thomas,Morning Shift,Routine Maintenance,1.374967045,947.617214,4.745920891,1,5,Human Error
+677,3,Industrial Mixer,Industrial Machinery,7/19/2023,283,Passed,115,168,1,"Barnes, Butler and Russell",7,8,Sarah Lloyd,Afternoon Shift,Repairs,1.757763378,1282.037976,4.939671794,5,5,Human Error
+678,5,Air Conditioners,Home Appliances,7/31/2023,516,Passed,388,128,9,Lawson-Herrera,9,7,Victor Hernandez,Night Shift,Routine Maintenance,3.626995496,854.1985609,9.709300527,1,4,Human Error
+679,6,Microwave Ovens,Home Appliances,9/22/2023,968,Failed,250,718,7,Ferguson Inc,6,1,Amber Powell,Morning Shift,Routine Maintenance,none,1184.510609,8.919197271,0,5,Technical Issues
+680,1,Refrigerator,Home Appliances,7/9/2023,681,Failed,345,336,5,Hawkins-Miller,6,6,Taylor Davis,Morning Shift,Repairs,1.971175509,1182.806791,5.71510931,1,4,Technical Issues
+681,5,Air Conditioners,Home Appliances,4/19/2023,871,Passed,270,601,5,Hawkins-Miller,5,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.146044363,1114.897486,10.51038235,1,1,Technical Issues
+682,7,Industrial Cookers,Industrial Machinery,7/2/2023,313,In-Between,224,89,2,"Moore, Hernandez and Munoz",2,1,Amber Powell,Morning Shift,Routine Maintenance,2.754976765,1008.061705,6.185628916,4,2,Technical Issues
+683,7,Industrial Cookers,Industrial Machinery,4/12/2023,379,In-Between,378,1,5,Hawkins-Miller,3,5,David Floyd,Afternoon Shift,Repairs,4.847684815,1019.115371,3.380654429,2,4,Human Error
+684,5,Air Conditioners,Home Appliances,8/13/2023,784,Passed,180,604,7,Ferguson Inc,6,4,Megan Allen,Night Shift,Routine Maintenance,4.370843329,1257.251976,11.39702142,3,2,Material Shortage
+685,2,Washing Machine,Home Appliances,5/12/2023,135,Passed,129,6,2,"Moore, Hernandez and Munoz",6,7,Victor Hernandez,Night Shift,Routine Maintenance,2.810279818,1111.650182,5.035491438,3,1,Human Error
+686,4,Diesel Generator,Industrial Machinery,6/11/2023,924,In-Between,123,801,2,"Moore, Hernandez and Munoz",2,6,Taylor Davis,Morning Shift,Repairs,3.014251466,1197.437866,8.159810556,4,4,Human Error
+687,5,Air Conditioners,Home Appliances,8/24/2023,768,Failed,316,452,4,"Yang, Walker and George",3,2,Ashley Herring,Night Shift,Routine Maintenance,none,1115.124021,7.52461134,0,2,Human Error
+688,2,Washing Machine,Home Appliances,7/18/2023,838,In-Between,230,608,7,Ferguson Inc,10,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,2.645215109,872.6894596,11.87290659,1,1,Material Shortage
+689,5,Air Conditioners,Home Appliances,7/2/2023,851,Passed,128,723,1,"Barnes, Butler and Russell",2,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.954076314,1141.107374,11.07538419,3,3,Technical Issues
+690,6,Microwave Ovens,Home Appliances,5/21/2023,501,Passed,500,1,9,Lawson-Herrera,10,2,Ashley Herring,Night Shift,Repairs,none,881.0428906,7.824883159,0,3,Material Shortage
+691,5,Air Conditioners,Home Appliances,5/17/2023,344,Passed,95,249,1,"Barnes, Butler and Russell",10,6,Taylor Davis,Morning Shift,Repairs,none,1286.175853,7.182005738,0,4,Technical Issues
+692,4,Diesel Generator,Industrial Machinery,9/11/2023,685,Passed,231,454,4,"Yang, Walker and George",6,7,Victor Hernandez,Night Shift,Routine Maintenance,3.995505888,1140.882333,7.897718795,1,2,Material Shortage
+693,6,Microwave Ovens,Home Appliances,9/1/2023,385,In-Between,292,93,4,"Yang, Walker and George",2,5,David Floyd,Afternoon Shift,Repairs,4.481436085,1028.600575,5.778787023,1,4,Human Error
+694,6,Microwave Ovens,Home Appliances,5/16/2023,378,Passed,163,215,5,Hawkins-Miller,1,6,Taylor Davis,Morning Shift,Routine Maintenance,1.108053521,1249.191832,11.8219071,5,4,Technical Issues
+695,4,Diesel Generator,Industrial Machinery,8/22/2023,536,Passed,470,66,10,Campbell-Wong,10,2,Ashley Herring,Night Shift,Repairs,1.667634747,1176.548529,11.13441156,5,4,Human Error
+696,1,Refrigerator,Home Appliances,6/20/2023,826,Passed,271,555,3,Hartman-Banks,5,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.716881207,941.9044274,6.039067356,1,1,Technical Issues
+697,4,Diesel Generator,Industrial Machinery,7/1/2023,754,Passed,315,439,1,"Barnes, Butler and Russell",3,4,Megan Allen,Night Shift,Repairs,3.138213402,1348.851696,8.391102038,5,2,Material Shortage
+698,3,Industrial Mixer,Industrial Machinery,4/15/2023,262,Passed,261,1,3,Hartman-Banks,1,3,Melissa Kim,Afternoon Shift,Repairs,none,1191.552374,8.70091128,0,2,Human Error
+699,4,Diesel Generator,Industrial Machinery,5/31/2023,436,Passed,415,21,9,Lawson-Herrera,5,9,Natasha Thomas,Morning Shift,Routine Maintenance,none,1338.237745,7.464228202,0,2,Technical Issues
+700,7,Industrial Cookers,Industrial Machinery,8/21/2023,143,Passed,72,71,6,"Hill, Thomas and Neal",5,2,Ashley Herring,Night Shift,Routine Maintenance,3.065925121,1213.576701,4.775608475,2,1,Material Shortage
+701,3,Industrial Mixer,Industrial Machinery,9/20/2023,431,Passed,430,1,5,Hawkins-Miller,1,6,Taylor Davis,Morning Shift,Repairs,2.63172011,1146.117658,9.595854066,1,5,Material Shortage
+702,6,Microwave Ovens,Home Appliances,4/4/2023,472,Passed,109,363,3,Hartman-Banks,3,8,Sarah Lloyd,Afternoon Shift,Repairs,4.597869748,1184.173677,8.694293173,5,5,Technical Issues
+703,5,Air Conditioners,Home Appliances,8/2/2023,454,Passed,228,226,3,Hartman-Banks,7,10,Cheryl Nunez,Night Shift,Routine Maintenance,1.344408871,1304.0381,8.958117782,1,4,Material Shortage
+704,6,Microwave Ovens,Home Appliances,5/13/2023,677,Passed,146,531,6,"Hill, Thomas and Neal",5,3,Melissa Kim,Afternoon Shift,Routine Maintenance,1.086108492,1061.904654,8.879008131,1,1,Technical Issues
+705,3,Industrial Mixer,Industrial Machinery,6/15/2023,882,Failed,159,723,4,"Yang, Walker and George",8,10,Cheryl Nunez,Night Shift,Repairs,3.508862081,826.0922493,7.230981726,1,1,Technical Issues
+706,3,Industrial Mixer,Industrial Machinery,5/24/2023,905,Failed,291,614,10,Campbell-Wong,1,3,Melissa Kim,Afternoon Shift,Routine Maintenance,none,816.4083245,8.417986996,0,4,Technical Issues
+707,5,Air Conditioners,Home Appliances,4/21/2023,501,Passed,500,1,3,Hartman-Banks,5,6,Taylor Davis,Morning Shift,Routine Maintenance,4.446781904,1090.707109,5.513667634,4,5,Human Error
+708,1,Refrigerator,Home Appliances,8/21/2023,761,Passed,418,343,2,"Moore, Hernandez and Munoz",8,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,1.180015197,973.988464,8.720911873,5,5,Technical Issues
+709,4,Diesel Generator,Industrial Machinery,8/22/2023,358,Passed,158,200,10,Campbell-Wong,9,4,Megan Allen,Night Shift,Repairs,1.114363278,861.6944596,6.848154799,3,3,Human Error
+710,6,Microwave Ovens,Home Appliances,4/28/2023,403,Passed,402,1,3,Hartman-Banks,4,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.548140224,1008.363388,8.807672397,4,4,Human Error
+711,4,Diesel Generator,Industrial Machinery,7/16/2023,546,Passed,200,346,8,"Adams, Murphy and Wilson",1,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,831.440788,5.860443345,0,3,Technical Issues
+712,5,Air Conditioners,Home Appliances,6/30/2023,147,Passed,84,63,7,Ferguson Inc,3,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,945.5404473,9.618925053,0,4,Material Shortage
+713,7,Industrial Cookers,Industrial Machinery,7/17/2023,725,Failed,189,536,6,"Hill, Thomas and Neal",2,9,Natasha Thomas,Morning Shift,Repairs,3.604488826,1010.518685,5.594227494,4,5,Material Shortage
+714,7,Industrial Cookers,Industrial Machinery,9/11/2023,360,In-Between,359,1,2,"Moore, Hernandez and Munoz",9,8,Sarah Lloyd,Afternoon Shift,Repairs,3.402845371,1322.319693,9.161378311,5,4,Human Error
+715,2,Washing Machine,Home Appliances,9/12/2023,865,Passed,191,674,2,"Moore, Hernandez and Munoz",3,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1335.399716,11.29387597,0,1,Material Shortage
+716,5,Air Conditioners,Home Appliances,7/25/2023,440,In-Between,121,319,3,Hartman-Banks,10,5,David Floyd,Afternoon Shift,Routine Maintenance,2.976262593,1000.332527,4.739024151,3,3,Human Error
+717,5,Air Conditioners,Home Appliances,4/7/2023,642,Failed,443,199,6,"Hill, Thomas and Neal",5,10,Cheryl Nunez,Night Shift,Routine Maintenance,none,1051.365719,8.349915619,0,2,Human Error
+718,3,Industrial Mixer,Industrial Machinery,5/22/2023,255,In-Between,216,39,5,Hawkins-Miller,2,1,Amber Powell,Morning Shift,Routine Maintenance,2.516723245,1042.090699,9.254706899,1,2,Material Shortage
+719,6,Microwave Ovens,Home Appliances,8/1/2023,477,Passed,476,1,1,"Barnes, Butler and Russell",2,6,Taylor Davis,Morning Shift,Repairs,3.783217454,984.0405396,10.40005025,3,4,Material Shortage
+720,2,Washing Machine,Home Appliances,4/28/2023,744,Passed,167,577,2,"Moore, Hernandez and Munoz",1,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1213.639281,9.34348181,0,3,Technical Issues
+721,4,Diesel Generator,Industrial Machinery,6/26/2023,492,In-Between,401,91,4,"Yang, Walker and George",10,1,Amber Powell,Morning Shift,Routine Maintenance,2.706211388,1203.094563,5.355656975,3,3,Human Error
+722,2,Washing Machine,Home Appliances,4/7/2023,178,In-Between,90,88,10,Campbell-Wong,9,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.540629614,922.9236033,10.08221478,3,3,Human Error
+723,2,Washing Machine,Home Appliances,4/26/2023,738,Failed,423,315,8,"Adams, Murphy and Wilson",8,7,Victor Hernandez,Night Shift,Repairs,none,1322.463513,4.971581222,0,3,Human Error
+724,3,Industrial Mixer,Industrial Machinery,6/24/2023,273,Passed,59,214,7,Ferguson Inc,5,9,Natasha Thomas,Morning Shift,Routine Maintenance,2.536263278,996.1135507,11.96842322,1,2,Human Error
+725,4,Diesel Generator,Industrial Machinery,4/13/2023,914,Passed,106,808,6,"Hill, Thomas and Neal",7,4,Megan Allen,Night Shift,Repairs,3.692262925,895.5725873,8.902209471,2,3,Technical Issues
+726,6,Microwave Ovens,Home Appliances,6/10/2023,683,Failed,298,385,2,"Moore, Hernandez and Munoz",5,7,Victor Hernandez,Night Shift,Routine Maintenance,4.442736707,957.2086675,6.966993414,5,1,Human Error
+727,1,Refrigerator,Home Appliances,6/10/2023,502,Passed,335,167,6,"Hill, Thomas and Neal",2,5,David Floyd,Afternoon Shift,Repairs,4.197262157,1192.80667,8.05715661,3,1,Technical Issues
+728,7,Industrial Cookers,Industrial Machinery,6/15/2023,446,Passed,287,159,1,"Barnes, Butler and Russell",9,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.494393072,1019.962269,7.323480598,3,1,Material Shortage
+729,6,Microwave Ovens,Home Appliances,6/22/2023,571,Passed,375,196,5,Hawkins-Miller,10,3,Melissa Kim,Afternoon Shift,Repairs,none,995.0189861,3.510127822,0,2,Material Shortage
+730,1,Refrigerator,Home Appliances,8/1/2023,553,Passed,495,58,8,"Adams, Murphy and Wilson",8,2,Ashley Herring,Night Shift,Repairs,1.593506387,989.8169068,8.370932975,2,5,Material Shortage
+731,1,Refrigerator,Home Appliances,4/20/2023,478,Failed,477,1,4,"Yang, Walker and George",3,6,Taylor Davis,Morning Shift,Routine Maintenance,2.648917056,1190.186137,11.40871858,1,3,Technical Issues
+732,1,Refrigerator,Home Appliances,9/17/2023,910,Passed,460,450,2,"Moore, Hernandez and Munoz",1,9,Natasha Thomas,Morning Shift,Repairs,1.963931355,1182.373773,6.990726858,1,1,Material Shortage
+733,3,Industrial Mixer,Industrial Machinery,8/19/2023,867,Failed,122,745,6,"Hill, Thomas and Neal",9,6,Taylor Davis,Morning Shift,Routine Maintenance,3.863267407,1024.905568,7.362390062,1,5,Human Error
+734,3,Industrial Mixer,Industrial Machinery,7/30/2023,586,Failed,424,162,5,Hawkins-Miller,6,6,Taylor Davis,Morning Shift,Repairs,4.695799946,1041.495604,3.479069238,2,3,Technical Issues
+735,2,Washing Machine,Home Appliances,7/28/2023,862,Passed,285,577,10,Campbell-Wong,4,9,Natasha Thomas,Morning Shift,Repairs,2.98278838,814.4016533,5.973843793,3,1,Technical Issues
+736,4,Diesel Generator,Industrial Machinery,7/4/2023,451,Passed,450,1,5,Hawkins-Miller,10,10,Cheryl Nunez,Night Shift,Routine Maintenance,1.335465035,891.4769781,4.536751212,4,2,Human Error
+737,7,Industrial Cookers,Industrial Machinery,8/13/2023,268,Passed,267,1,4,"Yang, Walker and George",6,9,Natasha Thomas,Morning Shift,Repairs,3.108444173,1228.791557,5.989114967,4,4,Material Shortage
+738,7,Industrial Cookers,Industrial Machinery,8/6/2023,621,Passed,191,430,2,"Moore, Hernandez and Munoz",1,3,Melissa Kim,Afternoon Shift,Repairs,3.178233276,1108.241291,4.528212107,2,2,Human Error
+739,1,Refrigerator,Home Appliances,7/9/2023,397,Passed,376,21,8,"Adams, Murphy and Wilson",8,6,Taylor Davis,Morning Shift,Routine Maintenance,2.939950588,872.7408442,9.512225261,4,5,Human Error
+740,2,Washing Machine,Home Appliances,6/17/2023,351,Failed,350,1,2,"Moore, Hernandez and Munoz",10,3,Melissa Kim,Afternoon Shift,Repairs,2.885805509,1132.903249,6.196418413,5,5,Material Shortage
+741,1,Refrigerator,Home Appliances,6/30/2023,257,Passed,256,1,7,Ferguson Inc,6,4,Megan Allen,Night Shift,Repairs,2.853846969,914.0387819,8.388867151,4,5,Technical Issues
+742,6,Microwave Ovens,Home Appliances,6/18/2023,540,Failed,133,407,4,"Yang, Walker and George",10,2,Ashley Herring,Night Shift,Routine Maintenance,3.368733109,1104.044767,7.290650039,1,1,Human Error
+743,3,Industrial Mixer,Industrial Machinery,5/4/2023,424,Passed,164,260,7,Ferguson Inc,9,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.690009744,936.9631024,5.615540727,2,3,Human Error
+744,3,Industrial Mixer,Industrial Machinery,8/29/2023,990,Passed,404,586,3,Hartman-Banks,7,4,Megan Allen,Night Shift,Routine Maintenance,none,1071.848251,9.488224052,0,1,Technical Issues
+745,2,Washing Machine,Home Appliances,4/6/2023,989,Passed,329,660,7,Ferguson Inc,7,6,Taylor Davis,Morning Shift,Repairs,4.080363685,1055.630651,7.953751813,4,1,Material Shortage
+746,5,Air Conditioners,Home Appliances,4/13/2023,521,Passed,420,101,8,"Adams, Murphy and Wilson",2,4,Megan Allen,Night Shift,Routine Maintenance,4.634184665,886.25367,11.28462496,5,4,Technical Issues
+747,3,Industrial Mixer,Industrial Machinery,8/28/2023,788,In-Between,104,684,5,Hawkins-Miller,7,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.991253256,989.0559976,11.58683972,3,5,Material Shortage
+748,5,Air Conditioners,Home Appliances,9/16/2023,885,In-Between,241,644,8,"Adams, Murphy and Wilson",3,9,Natasha Thomas,Morning Shift,Repairs,4.479554218,812.6228582,10.78315483,5,3,Human Error
+749,7,Industrial Cookers,Industrial Machinery,6/22/2023,988,Passed,231,757,2,"Moore, Hernandez and Munoz",9,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1067.127067,9.403025556,0,4,Material Shortage
+750,5,Air Conditioners,Home Appliances,5/2/2023,726,Passed,50,676,6,"Hill, Thomas and Neal",9,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.65204677,1262.40759,9.916119787,5,4,Technical Issues
+751,4,Diesel Generator,Industrial Machinery,4/5/2023,694,Failed,376,318,5,Hawkins-Miller,2,1,Amber Powell,Morning Shift,Routine Maintenance,4.116458383,1074.710652,11.10351305,4,3,Technical Issues
+752,7,Industrial Cookers,Industrial Machinery,9/12/2023,903,Passed,183,720,10,Campbell-Wong,7,3,Melissa Kim,Afternoon Shift,Repairs,none,1264.6037,4.120748257,0,5,Human Error
+753,1,Refrigerator,Home Appliances,4/22/2023,593,Passed,59,534,5,Hawkins-Miller,4,9,Natasha Thomas,Morning Shift,Repairs,3.596890224,1013.096445,4.839026967,1,5,Human Error
+754,5,Air Conditioners,Home Appliances,5/16/2023,430,In-Between,77,353,6,"Hill, Thomas and Neal",7,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.318651448,1146.187476,7.159856142,1,2,Technical Issues
+755,5,Air Conditioners,Home Appliances,4/16/2023,297,In-Between,194,103,8,"Adams, Murphy and Wilson",5,4,Megan Allen,Night Shift,Repairs,1.851093957,978.7500412,9.498772971,4,4,Material Shortage
+756,3,Industrial Mixer,Industrial Machinery,6/10/2023,651,Passed,178,473,4,"Yang, Walker and George",10,1,Amber Powell,Morning Shift,Routine Maintenance,3.468889122,1057.815315,6.78792722,3,4,Material Shortage
+757,4,Diesel Generator,Industrial Machinery,9/21/2023,336,Passed,157,179,4,"Yang, Walker and George",6,4,Megan Allen,Night Shift,Routine Maintenance,none,1125.134153,9.624755628,0,2,Technical Issues
+758,2,Washing Machine,Home Appliances,9/22/2023,463,Failed,462,1,4,"Yang, Walker and George",9,3,Melissa Kim,Afternoon Shift,Repairs,3.411561879,1053.983595,10.19669916,4,2,Human Error
+759,2,Washing Machine,Home Appliances,4/3/2023,911,Passed,93,818,4,"Yang, Walker and George",9,9,Natasha Thomas,Morning Shift,Repairs,none,1039.171669,3.899192145,0,3,Technical Issues
+760,7,Industrial Cookers,Industrial Machinery,8/29/2023,924,Passed,500,424,2,"Moore, Hernandez and Munoz",4,9,Natasha Thomas,Morning Shift,Routine Maintenance,4.514503804,1155.084438,6.412301748,4,3,Human Error
+761,5,Air Conditioners,Home Appliances,4/16/2023,337,Passed,315,22,10,Campbell-Wong,5,9,Natasha Thomas,Morning Shift,Repairs,2.180199133,1316.569986,5.617263589,5,1,Material Shortage
+762,6,Microwave Ovens,Home Appliances,5/6/2023,941,Failed,294,647,6,"Hill, Thomas and Neal",4,4,Megan Allen,Night Shift,Repairs,1.491560227,946.0102533,5.468880267,1,4,Technical Issues
+763,7,Industrial Cookers,Industrial Machinery,7/15/2023,564,In-Between,379,185,10,Campbell-Wong,8,5,David Floyd,Afternoon Shift,Routine Maintenance,4.62846152,1171.615528,11.04589685,4,2,Technical Issues
+764,2,Washing Machine,Home Appliances,6/17/2023,517,In-Between,438,79,2,"Moore, Hernandez and Munoz",2,8,Sarah Lloyd,Afternoon Shift,Repairs,2.223213723,847.7767804,11.22960428,4,4,Technical Issues
+765,7,Industrial Cookers,Industrial Machinery,9/22/2023,471,Passed,470,1,1,"Barnes, Butler and Russell",9,6,Taylor Davis,Morning Shift,Repairs,1.547931131,1224.593124,7.27622344,3,2,Material Shortage
+766,2,Washing Machine,Home Appliances,8/1/2023,410,In-Between,409,1,9,Lawson-Herrera,8,2,Ashley Herring,Night Shift,Repairs,1.93026943,1003.117292,9.452973466,2,4,Technical Issues
+767,3,Industrial Mixer,Industrial Machinery,9/23/2023,398,Passed,219,179,7,Ferguson Inc,8,8,Sarah Lloyd,Afternoon Shift,Repairs,none,881.5690731,11.39156002,0,1,Technical Issues
+768,3,Industrial Mixer,Industrial Machinery,6/4/2023,821,Failed,416,405,3,Hartman-Banks,8,2,Ashley Herring,Night Shift,Routine Maintenance,2.844479493,1305.052631,8.581094149,5,5,Material Shortage
+769,6,Microwave Ovens,Home Appliances,9/23/2023,182,Passed,181,1,1,"Barnes, Butler and Russell",1,4,Megan Allen,Night Shift,Repairs,2.450884212,1116.49049,10.00028336,4,3,Technical Issues
+770,1,Refrigerator,Home Appliances,5/26/2023,880,Failed,55,825,5,Hawkins-Miller,4,5,David Floyd,Afternoon Shift,Repairs,3.943916237,1061.868222,10.40583834,5,5,Material Shortage
+771,5,Air Conditioners,Home Appliances,6/29/2023,209,Passed,79,130,5,Hawkins-Miller,5,5,David Floyd,Afternoon Shift,Routine Maintenance,2.932799369,1244.994574,5.261301272,2,4,Human Error
+772,3,Industrial Mixer,Industrial Machinery,7/1/2023,734,Passed,141,593,10,Campbell-Wong,1,4,Megan Allen,Night Shift,Repairs,2.690979075,1091.219611,5.570344863,5,2,Human Error
+773,2,Washing Machine,Home Appliances,5/22/2023,834,Failed,324,510,9,Lawson-Herrera,1,10,Cheryl Nunez,Night Shift,Repairs,1.281270865,1124.9542,5.148200701,1,4,Material Shortage
+774,1,Refrigerator,Home Appliances,7/17/2023,468,In-Between,217,251,5,Hawkins-Miller,8,4,Megan Allen,Night Shift,Routine Maintenance,4.848412227,1009.335076,9.649722296,3,3,Material Shortage
+775,3,Industrial Mixer,Industrial Machinery,7/11/2023,383,Failed,382,1,3,Hartman-Banks,9,9,Natasha Thomas,Morning Shift,Routine Maintenance,none,1305.152744,5.348319039,0,2,Technical Issues
+776,4,Diesel Generator,Industrial Machinery,7/18/2023,365,Passed,364,1,4,"Yang, Walker and George",8,10,Cheryl Nunez,Night Shift,Routine Maintenance,1.896465977,1214.455141,6.589378983,2,1,Material Shortage
+777,1,Refrigerator,Home Appliances,4/22/2023,845,Passed,124,721,3,Hartman-Banks,5,7,Victor Hernandez,Night Shift,Repairs,3.424186169,1233.146655,4.01761341,1,5,Material Shortage
+778,2,Washing Machine,Home Appliances,4/30/2023,284,Failed,253,31,10,Campbell-Wong,3,10,Cheryl Nunez,Night Shift,Repairs,4.168101538,810.0366406,3.730851473,4,4,Human Error
+779,2,Washing Machine,Home Appliances,8/2/2023,380,In-Between,379,1,6,"Hill, Thomas and Neal",2,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.774643313,933.1264396,10.03159432,4,3,Technical Issues
+780,3,Industrial Mixer,Industrial Machinery,4/16/2023,709,Failed,395,314,4,"Yang, Walker and George",2,5,David Floyd,Afternoon Shift,Routine Maintenance,1.442357265,901.5044262,9.246958646,2,4,Human Error
+781,4,Diesel Generator,Industrial Machinery,9/9/2023,960,Passed,297,663,4,"Yang, Walker and George",9,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,1.572909096,832.1054229,7.409769218,1,4,Material Shortage
+782,7,Industrial Cookers,Industrial Machinery,9/21/2023,293,Failed,292,1,7,Ferguson Inc,7,6,Taylor Davis,Morning Shift,Routine Maintenance,none,990.2446947,7.055269345,0,4,Technical Issues
+783,3,Industrial Mixer,Industrial Machinery,8/23/2023,995,Passed,425,570,5,Hawkins-Miller,8,5,David Floyd,Afternoon Shift,Repairs,none,885.3600459,3.000279636,0,4,Technical Issues
+784,1,Refrigerator,Home Appliances,9/13/2023,780,Passed,95,685,8,"Adams, Murphy and Wilson",10,6,Taylor Davis,Morning Shift,Repairs,1.876392227,1055.218683,3.900652493,2,3,Technical Issues
+785,7,Industrial Cookers,Industrial Machinery,8/28/2023,383,Passed,292,91,1,"Barnes, Butler and Russell",8,10,Cheryl Nunez,Night Shift,Repairs,4.618186611,977.7634821,6.278133679,2,1,Technical Issues
+786,7,Industrial Cookers,Industrial Machinery,9/9/2023,278,Passed,277,1,7,Ferguson Inc,7,1,Amber Powell,Morning Shift,Repairs,4.810714413,1061.126965,8.619011573,1,1,Material Shortage
+787,7,Industrial Cookers,Industrial Machinery,8/2/2023,665,Passed,143,522,1,"Barnes, Butler and Russell",7,5,David Floyd,Afternoon Shift,Routine Maintenance,3.496171404,864.3655985,6.588578595,5,5,Material Shortage
+788,4,Diesel Generator,Industrial Machinery,4/2/2023,296,Failed,169,127,4,"Yang, Walker and George",4,4,Megan Allen,Night Shift,Routine Maintenance,1.6530061,1212.319313,3.293304924,5,5,Technical Issues
+789,4,Diesel Generator,Industrial Machinery,8/11/2023,673,Failed,160,513,9,Lawson-Herrera,7,4,Megan Allen,Night Shift,Repairs,1.29488331,1159.829203,7.395368078,1,3,Human Error
+790,5,Air Conditioners,Home Appliances,8/21/2023,167,In-Between,166,1,4,"Yang, Walker and George",8,1,Amber Powell,Morning Shift,Repairs,none,924.3004614,5.69356738,0,4,Technical Issues
+791,2,Washing Machine,Home Appliances,9/6/2023,322,Passed,321,1,2,"Moore, Hernandez and Munoz",1,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,1.32231105,833.1310015,11.01532097,3,5,Technical Issues
+792,2,Washing Machine,Home Appliances,4/28/2023,653,Passed,471,182,2,"Moore, Hernandez and Munoz",4,1,Amber Powell,Morning Shift,Routine Maintenance,none,867.5943256,10.38769439,0,4,Material Shortage
+793,5,Air Conditioners,Home Appliances,7/2/2023,210,Passed,209,1,9,Lawson-Herrera,5,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.360786785,851.9288829,11.66402858,2,5,Human Error
+794,6,Microwave Ovens,Home Appliances,6/12/2023,597,Passed,465,132,10,Campbell-Wong,3,10,Cheryl Nunez,Night Shift,Routine Maintenance,1.35982822,864.5712918,10.01553941,5,5,Material Shortage
+795,7,Industrial Cookers,Industrial Machinery,7/21/2023,649,Passed,264,385,3,Hartman-Banks,6,8,Sarah Lloyd,Afternoon Shift,Repairs,1.538678111,1331.322819,8.966512909,4,5,Technical Issues
+796,7,Industrial Cookers,Industrial Machinery,5/18/2023,794,Passed,87,707,10,Campbell-Wong,8,5,David Floyd,Afternoon Shift,Routine Maintenance,2.567666715,1007.201377,11.82215167,1,3,Technical Issues
+797,2,Washing Machine,Home Appliances,5/6/2023,552,In-Between,105,447,3,Hartman-Banks,9,9,Natasha Thomas,Morning Shift,Routine Maintenance,4.764244039,1062.184699,3.809959485,1,4,Material Shortage
+798,1,Refrigerator,Home Appliances,5/20/2023,563,In-Between,492,71,4,"Yang, Walker and George",9,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,1.661599609,1168.28109,8.32368708,2,1,Human Error
+799,4,Diesel Generator,Industrial Machinery,9/11/2023,758,Passed,234,524,9,Lawson-Herrera,4,4,Megan Allen,Night Shift,Routine Maintenance,3.75414182,849.6188282,4.361985518,4,2,Human Error
+800,6,Microwave Ovens,Home Appliances,8/28/2023,768,Passed,56,712,8,"Adams, Murphy and Wilson",2,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.756312996,1333.501036,3.7828377,1,1,Material Shortage
+801,3,Industrial Mixer,Industrial Machinery,7/25/2023,613,Passed,277,336,3,Hartman-Banks,10,6,Taylor Davis,Morning Shift,Routine Maintenance,4.31096671,913.6973197,11.24163892,4,2,Technical Issues
+802,4,Diesel Generator,Industrial Machinery,9/17/2023,353,Passed,256,97,1,"Barnes, Butler and Russell",7,5,David Floyd,Afternoon Shift,Routine Maintenance,2.381402282,1099.389592,10.72861807,4,4,Material Shortage
+803,6,Microwave Ovens,Home Appliances,9/23/2023,318,In-Between,191,127,8,"Adams, Murphy and Wilson",2,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.690565006,842.9022061,8.844871328,2,4,Human Error
+804,4,Diesel Generator,Industrial Machinery,7/12/2023,708,Passed,395,313,4,"Yang, Walker and George",5,6,Taylor Davis,Morning Shift,Repairs,1.092698095,1022.551043,9.485166823,4,1,Human Error
+805,3,Industrial Mixer,Industrial Machinery,8/26/2023,694,Passed,315,379,7,Ferguson Inc,5,5,David Floyd,Afternoon Shift,Repairs,3.351412304,978.5721851,5.555629109,4,5,Technical Issues
+806,2,Washing Machine,Home Appliances,8/27/2023,599,Passed,63,536,1,"Barnes, Butler and Russell",6,5,David Floyd,Afternoon Shift,Routine Maintenance,none,1317.027396,6.92896583,0,2,Material Shortage
+807,5,Air Conditioners,Home Appliances,4/22/2023,598,Passed,160,438,4,"Yang, Walker and George",3,4,Megan Allen,Night Shift,Routine Maintenance,1.942466613,1160.15582,10.14618362,2,5,Human Error
+808,7,Industrial Cookers,Industrial Machinery,8/17/2023,832,Failed,362,470,5,Hawkins-Miller,7,4,Megan Allen,Night Shift,Repairs,1.733840657,1301.342503,6.587642486,3,3,Material Shortage
+809,2,Washing Machine,Home Appliances,9/20/2023,443,Passed,442,1,2,"Moore, Hernandez and Munoz",8,7,Victor Hernandez,Night Shift,Repairs,4.636990926,1256.10861,3.41031033,3,4,Material Shortage
+810,7,Industrial Cookers,Industrial Machinery,5/22/2023,569,Passed,266,303,10,Campbell-Wong,5,1,Amber Powell,Morning Shift,Routine Maintenance,1.088857355,819.3590056,10.27032575,1,1,Material Shortage
+811,7,Industrial Cookers,Industrial Machinery,7/15/2023,859,Passed,85,774,10,Campbell-Wong,4,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.499484251,1049.921849,10.46611731,4,4,Material Shortage
+812,4,Diesel Generator,Industrial Machinery,4/23/2023,247,Passed,134,113,4,"Yang, Walker and George",3,1,Amber Powell,Morning Shift,Routine Maintenance,2.630334721,1229.957892,11.66419593,4,2,Human Error
+813,6,Microwave Ovens,Home Appliances,4/24/2023,444,Failed,443,1,6,"Hill, Thomas and Neal",9,3,Melissa Kim,Afternoon Shift,Routine Maintenance,none,1228.93016,4.937263713,0,3,Human Error
+814,4,Diesel Generator,Industrial Machinery,4/14/2023,568,Passed,257,311,10,Campbell-Wong,5,10,Cheryl Nunez,Night Shift,Repairs,1.462371814,916.6272351,5.031833199,5,4,Technical Issues
+815,1,Refrigerator,Home Appliances,4/16/2023,362,Passed,299,63,3,Hartman-Banks,4,10,Cheryl Nunez,Night Shift,Repairs,none,1173.377515,6.885722298,0,3,Technical Issues
+816,4,Diesel Generator,Industrial Machinery,9/14/2023,731,Passed,231,500,1,"Barnes, Butler and Russell",5,10,Cheryl Nunez,Night Shift,Repairs,3.924113578,1157.748169,4.800348951,3,2,Human Error
+817,3,Industrial Mixer,Industrial Machinery,9/18/2023,551,Passed,346,205,5,Hawkins-Miller,6,2,Ashley Herring,Night Shift,Repairs,none,1333.384052,4.407408114,0,3,Human Error
+818,5,Air Conditioners,Home Appliances,4/27/2023,380,Passed,149,231,4,"Yang, Walker and George",6,8,Sarah Lloyd,Afternoon Shift,Repairs,2.623718907,1236.537322,3.121374056,1,1,Human Error
+819,7,Industrial Cookers,Industrial Machinery,9/7/2023,890,In-Between,498,392,8,"Adams, Murphy and Wilson",8,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.588270003,1294.56224,7.901152163,2,1,Technical Issues
+820,1,Refrigerator,Home Appliances,8/23/2023,336,Passed,335,1,2,"Moore, Hernandez and Munoz",1,6,Taylor Davis,Morning Shift,Routine Maintenance,1.511424651,1275.204345,9.516138751,5,2,Human Error
+821,5,Air Conditioners,Home Appliances,8/22/2023,635,Passed,212,423,4,"Yang, Walker and George",9,5,David Floyd,Afternoon Shift,Routine Maintenance,4.055077343,1117.317461,6.360177775,5,5,Technical Issues
+822,7,Industrial Cookers,Industrial Machinery,9/18/2023,384,Passed,383,1,5,Hawkins-Miller,4,7,Victor Hernandez,Night Shift,Repairs,1.504471903,819.0612553,11.63257374,5,2,Technical Issues
+823,2,Washing Machine,Home Appliances,6/27/2023,526,Passed,325,201,5,Hawkins-Miller,5,6,Taylor Davis,Morning Shift,Repairs,3.888454024,982.786947,6.234858279,5,1,Technical Issues
+824,1,Refrigerator,Home Appliances,5/16/2023,276,Passed,251,25,10,Campbell-Wong,5,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1254.980507,5.552857301,0,3,Technical Issues
+825,3,Industrial Mixer,Industrial Machinery,6/1/2023,495,Failed,494,1,6,"Hill, Thomas and Neal",5,6,Taylor Davis,Morning Shift,Repairs,4.532091414,1036.716496,3.985158763,1,2,Technical Issues
+826,3,Industrial Mixer,Industrial Machinery,8/21/2023,300,In-Between,299,1,9,Lawson-Herrera,1,5,David Floyd,Afternoon Shift,Routine Maintenance,2.802629183,1130.412034,6.581870467,1,4,Technical Issues
+827,5,Air Conditioners,Home Appliances,8/20/2023,402,Failed,114,288,5,Hawkins-Miller,4,2,Ashley Herring,Night Shift,Repairs,1.697625207,1138.364678,7.460147207,2,5,Technical Issues
+828,3,Industrial Mixer,Industrial Machinery,7/26/2023,472,Passed,325,147,4,"Yang, Walker and George",7,6,Taylor Davis,Morning Shift,Repairs,2.212023311,1107.382111,6.548703728,4,3,Human Error
+829,4,Diesel Generator,Industrial Machinery,6/8/2023,971,Failed,182,789,5,Hawkins-Miller,10,8,Sarah Lloyd,Afternoon Shift,Repairs,1.865202746,1332.794201,10.87907397,1,4,Technical Issues
+830,5,Air Conditioners,Home Appliances,4/7/2023,578,Failed,378,200,8,"Adams, Murphy and Wilson",3,1,Amber Powell,Morning Shift,Repairs,1.884512433,1076.23706,11.9874197,4,2,Technical Issues
+831,3,Industrial Mixer,Industrial Machinery,7/4/2023,560,In-Between,155,405,2,"Moore, Hernandez and Munoz",8,2,Ashley Herring,Night Shift,Repairs,4.568674542,886.667325,10.42282882,1,1,Material Shortage
+832,2,Washing Machine,Home Appliances,7/13/2023,493,In-Between,329,164,8,"Adams, Murphy and Wilson",4,1,Amber Powell,Morning Shift,Routine Maintenance,2.026470951,1226.552707,10.76557424,2,1,Human Error
+833,6,Microwave Ovens,Home Appliances,6/29/2023,339,Passed,73,266,1,"Barnes, Butler and Russell",1,7,Victor Hernandez,Night Shift,Routine Maintenance,2.958360378,1052.895507,4.538375331,3,3,Human Error
+834,1,Refrigerator,Home Appliances,7/10/2023,785,Passed,359,426,5,Hawkins-Miller,5,6,Taylor Davis,Morning Shift,Routine Maintenance,3.15631265,1111.931906,11.83226408,5,1,Material Shortage
+835,1,Refrigerator,Home Appliances,9/7/2023,880,Passed,169,711,6,"Hill, Thomas and Neal",9,1,Amber Powell,Morning Shift,Routine Maintenance,1.931594702,1145.063499,3.48321411,5,5,Material Shortage
+836,1,Refrigerator,Home Appliances,4/3/2023,420,Passed,179,241,3,Hartman-Banks,2,5,David Floyd,Afternoon Shift,Repairs,1.84454319,822.633561,7.366851825,4,2,Material Shortage
+837,5,Air Conditioners,Home Appliances,6/18/2023,647,Passed,459,188,4,"Yang, Walker and George",1,3,Melissa Kim,Afternoon Shift,Repairs,1.461780695,1348.564603,11.2171483,3,3,Technical Issues
+838,3,Industrial Mixer,Industrial Machinery,9/15/2023,432,Passed,178,254,4,"Yang, Walker and George",2,9,Natasha Thomas,Morning Shift,Repairs,3.614003452,1333.346766,7.486612045,2,4,Human Error
+839,6,Microwave Ovens,Home Appliances,5/11/2023,791,In-Between,256,535,9,Lawson-Herrera,4,8,Sarah Lloyd,Afternoon Shift,Repairs,1.037873254,890.4567155,8.299125546,5,5,Technical Issues
+840,1,Refrigerator,Home Appliances,9/23/2023,458,Passed,457,1,3,Hartman-Banks,1,7,Victor Hernandez,Night Shift,Repairs,1.085302786,1202.07073,7.183038114,1,5,Material Shortage
+841,7,Industrial Cookers,Industrial Machinery,4/6/2023,874,Passed,439,435,4,"Yang, Walker and George",6,9,Natasha Thomas,Morning Shift,Repairs,2.893526332,1246.771722,8.493516722,2,5,Material Shortage
+842,3,Industrial Mixer,Industrial Machinery,8/13/2023,607,Passed,139,468,5,Hawkins-Miller,10,3,Melissa Kim,Afternoon Shift,Repairs,4.746335767,1330.533251,10.45876832,5,4,Material Shortage
+843,3,Industrial Mixer,Industrial Machinery,5/21/2023,721,Passed,332,389,8,"Adams, Murphy and Wilson",1,5,David Floyd,Afternoon Shift,Repairs,2.557022095,887.2713167,6.742127511,1,4,Technical Issues
+844,7,Industrial Cookers,Industrial Machinery,8/12/2023,618,Passed,208,410,10,Campbell-Wong,3,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.549491892,1110.746898,6.434084551,5,3,Material Shortage
+845,2,Washing Machine,Home Appliances,5/15/2023,453,Passed,452,1,7,Ferguson Inc,7,6,Taylor Davis,Morning Shift,Routine Maintenance,none,1149.377575,6.546745164,0,4,Human Error
+846,6,Microwave Ovens,Home Appliances,4/26/2023,202,Passed,201,1,3,Hartman-Banks,8,6,Taylor Davis,Morning Shift,Repairs,3.571771325,1206.656575,6.452683428,1,5,Human Error
+847,3,Industrial Mixer,Industrial Machinery,8/20/2023,320,Failed,86,234,5,Hawkins-Miller,6,5,David Floyd,Afternoon Shift,Repairs,2.174482542,1097.401637,10.11530796,3,5,Human Error
+848,6,Microwave Ovens,Home Appliances,5/16/2023,444,Passed,443,1,4,"Yang, Walker and George",7,6,Taylor Davis,Morning Shift,Repairs,2.462385208,945.8248387,7.329589254,1,4,Material Shortage
+849,3,Industrial Mixer,Industrial Machinery,9/16/2023,327,Passed,276,51,10,Campbell-Wong,10,9,Natasha Thomas,Morning Shift,Repairs,none,1142.513737,4.916034436,0,1,Material Shortage
+850,2,Washing Machine,Home Appliances,4/11/2023,303,Passed,302,1,2,"Moore, Hernandez and Munoz",2,5,David Floyd,Afternoon Shift,Routine Maintenance,3.815170451,1163.048051,10.62222269,4,2,Material Shortage
+851,5,Air Conditioners,Home Appliances,8/14/2023,927,Failed,174,753,10,Campbell-Wong,3,10,Cheryl Nunez,Night Shift,Repairs,4.761968664,1152.029481,3.972564533,4,2,Technical Issues
+852,6,Microwave Ovens,Home Appliances,9/21/2023,505,Passed,371,134,10,Campbell-Wong,6,7,Victor Hernandez,Night Shift,Repairs,3.853659358,1134.150301,8.562003424,5,3,Technical Issues
+853,4,Diesel Generator,Industrial Machinery,8/6/2023,300,Passed,219,81,8,"Adams, Murphy and Wilson",6,6,Taylor Davis,Morning Shift,Repairs,4.652735933,1037.160087,4.538188256,3,5,Human Error
+854,5,Air Conditioners,Home Appliances,5/26/2023,970,Failed,474,496,8,"Adams, Murphy and Wilson",9,6,Taylor Davis,Morning Shift,Routine Maintenance,1.291332372,1296.271709,5.878409083,4,2,Technical Issues
+855,2,Washing Machine,Home Appliances,4/21/2023,803,Passed,235,568,8,"Adams, Murphy and Wilson",1,9,Natasha Thomas,Morning Shift,Repairs,2.109601485,1097.585059,11.41178583,4,4,Material Shortage
+856,2,Washing Machine,Home Appliances,4/9/2023,450,Passed,410,40,6,"Hill, Thomas and Neal",1,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,925.947141,9.428718106,0,3,Human Error
+857,4,Diesel Generator,Industrial Machinery,4/9/2023,822,Passed,488,334,7,Ferguson Inc,1,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.931063169,1290.048763,4.831489064,5,2,Technical Issues
+858,5,Air Conditioners,Home Appliances,4/28/2023,836,Passed,500,336,10,Campbell-Wong,8,5,David Floyd,Afternoon Shift,Repairs,2.862030448,979.9634546,5.867823355,5,1,Technical Issues
+859,4,Diesel Generator,Industrial Machinery,6/2/2023,993,Failed,178,815,1,"Barnes, Butler and Russell",3,1,Amber Powell,Morning Shift,Routine Maintenance,2.785402553,803.9835193,5.824282338,2,1,Material Shortage
+860,4,Diesel Generator,Industrial Machinery,5/25/2023,426,Passed,101,325,5,Hawkins-Miller,1,5,David Floyd,Afternoon Shift,Routine Maintenance,3.668315497,1308.000714,11.62868677,2,3,Technical Issues
+861,1,Refrigerator,Home Appliances,5/1/2023,427,Passed,180,247,10,Campbell-Wong,7,4,Megan Allen,Night Shift,Routine Maintenance,3.891447922,1274.357432,10.69082368,3,3,Technical Issues
+862,7,Industrial Cookers,Industrial Machinery,5/20/2023,423,Failed,230,193,4,"Yang, Walker and George",8,5,David Floyd,Afternoon Shift,Repairs,3.246909475,1074.121153,6.83366645,4,4,Material Shortage
+863,2,Washing Machine,Home Appliances,4/14/2023,601,Passed,151,450,4,"Yang, Walker and George",7,2,Ashley Herring,Night Shift,Routine Maintenance,1.096814869,1307.609494,10.55380435,3,1,Material Shortage
+864,2,Washing Machine,Home Appliances,9/8/2023,725,Failed,141,584,5,Hawkins-Miller,8,1,Amber Powell,Morning Shift,Repairs,3.225150546,1327.173014,9.589701668,4,2,Technical Issues
+865,3,Industrial Mixer,Industrial Machinery,7/6/2023,362,Passed,175,187,5,Hawkins-Miller,2,6,Taylor Davis,Morning Shift,Repairs,3.297518019,1073.968082,8.267435478,1,5,Human Error
+866,1,Refrigerator,Home Appliances,7/31/2023,534,Failed,283,251,5,Hawkins-Miller,10,8,Sarah Lloyd,Afternoon Shift,Repairs,1.822596261,1002.674775,6.385289467,5,3,Material Shortage
+867,6,Microwave Ovens,Home Appliances,7/1/2023,737,Passed,424,313,4,"Yang, Walker and George",4,8,Sarah Lloyd,Afternoon Shift,Repairs,4.911254793,1088.219193,9.529411412,5,5,Technical Issues
+868,6,Microwave Ovens,Home Appliances,4/11/2023,496,Passed,309,187,2,"Moore, Hernandez and Munoz",1,1,Amber Powell,Morning Shift,Repairs,1.545102774,941.6451537,4.369013252,1,3,Material Shortage
+869,1,Refrigerator,Home Appliances,4/10/2023,186,Passed,115,71,9,Lawson-Herrera,2,5,David Floyd,Afternoon Shift,Repairs,2.962503302,953.3312418,7.421802825,2,2,Technical Issues
+870,2,Washing Machine,Home Appliances,9/3/2023,485,In-Between,484,1,9,Lawson-Herrera,9,10,Cheryl Nunez,Night Shift,Repairs,1.375317535,1343.017322,10.29461026,3,1,Material Shortage
+871,1,Refrigerator,Home Appliances,5/10/2023,728,In-Between,217,511,10,Campbell-Wong,8,1,Amber Powell,Morning Shift,Routine Maintenance,1.063532962,899.3608029,7.290673132,5,1,Human Error
+872,2,Washing Machine,Home Appliances,4/15/2023,811,In-Between,142,669,1,"Barnes, Butler and Russell",9,2,Ashley Herring,Night Shift,Repairs,2.182070095,875.8811737,6.271570586,3,5,Technical Issues
+873,2,Washing Machine,Home Appliances,8/25/2023,604,Passed,472,132,3,Hartman-Banks,6,1,Amber Powell,Morning Shift,Repairs,1.345526579,1096.180832,4.345420387,3,4,Material Shortage
+874,4,Diesel Generator,Industrial Machinery,4/6/2023,954,Passed,202,752,3,Hartman-Banks,5,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,1040.685075,10.70310386,0,5,Human Error
+875,1,Refrigerator,Home Appliances,5/4/2023,937,Passed,305,632,1,"Barnes, Butler and Russell",10,2,Ashley Herring,Night Shift,Routine Maintenance,none,1032.694903,4.084520924,0,5,Human Error
+876,1,Refrigerator,Home Appliances,7/15/2023,182,In-Between,181,1,1,"Barnes, Butler and Russell",9,6,Taylor Davis,Morning Shift,Routine Maintenance,3.687562638,1304.246364,6.065381544,3,5,Human Error
+877,4,Diesel Generator,Industrial Machinery,6/4/2023,510,Passed,314,196,6,"Hill, Thomas and Neal",3,9,Natasha Thomas,Morning Shift,Routine Maintenance,1.02505745,1311.947179,9.121053453,3,1,Material Shortage
+878,7,Industrial Cookers,Industrial Machinery,4/29/2023,530,Passed,125,405,10,Campbell-Wong,6,8,Sarah Lloyd,Afternoon Shift,Repairs,3.519764391,1157.898493,8.401243201,3,5,Material Shortage
+879,4,Diesel Generator,Industrial Machinery,8/22/2023,275,Passed,274,1,9,Lawson-Herrera,8,7,Victor Hernandez,Night Shift,Routine Maintenance,none,1339.259387,3.939788348,0,5,Material Shortage
+880,7,Industrial Cookers,Industrial Machinery,5/7/2023,857,Passed,103,754,2,"Moore, Hernandez and Munoz",9,7,Victor Hernandez,Night Shift,Routine Maintenance,1.37777316,1348.773284,9.993167499,2,1,Human Error
+881,7,Industrial Cookers,Industrial Machinery,9/29/2023,623,Failed,409,214,4,"Yang, Walker and George",4,8,Sarah Lloyd,Afternoon Shift,Repairs,3.659371245,1134.983234,7.61701394,4,2,Technical Issues
+882,4,Diesel Generator,Industrial Machinery,6/27/2023,374,Passed,220,154,3,Hartman-Banks,9,2,Ashley Herring,Night Shift,Routine Maintenance,4.789368549,876.6882246,10.78202839,1,4,Material Shortage
+883,1,Refrigerator,Home Appliances,4/13/2023,679,In-Between,384,295,6,"Hill, Thomas and Neal",6,4,Megan Allen,Night Shift,Routine Maintenance,1.232141489,1189.429198,10.42574581,4,2,Technical Issues
+884,7,Industrial Cookers,Industrial Machinery,4/19/2023,274,Passed,230,44,6,"Hill, Thomas and Neal",7,3,Melissa Kim,Afternoon Shift,Repairs,2.508100613,831.7421879,11.88872066,3,5,Material Shortage
+885,6,Microwave Ovens,Home Appliances,8/10/2023,178,In-Between,130,48,8,"Adams, Murphy and Wilson",7,9,Natasha Thomas,Morning Shift,Repairs,3.339135372,1106.436972,5.598784739,5,2,Material Shortage
+886,1,Refrigerator,Home Appliances,6/23/2023,627,Passed,115,512,2,"Moore, Hernandez and Munoz",2,5,David Floyd,Afternoon Shift,Repairs,1.062575148,976.61758,10.53435924,5,3,Human Error
+887,7,Industrial Cookers,Industrial Machinery,9/24/2023,736,In-Between,173,563,10,Campbell-Wong,7,7,Victor Hernandez,Night Shift,Repairs,4.069062383,1344.007537,11.28666405,2,5,Material Shortage
+888,1,Refrigerator,Home Appliances,4/26/2023,374,Failed,280,94,10,Campbell-Wong,5,6,Taylor Davis,Morning Shift,Routine Maintenance,4.661674379,1149.461228,6.404988159,3,1,Technical Issues
+889,4,Diesel Generator,Industrial Machinery,5/21/2023,508,Passed,466,42,3,Hartman-Banks,2,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,1346.443634,9.1180705,0,4,Human Error
+890,4,Diesel Generator,Industrial Machinery,4/17/2023,852,Passed,472,380,7,Ferguson Inc,10,2,Ashley Herring,Night Shift,Repairs,2.000950073,955.6268521,6.135079927,3,1,Material Shortage
+891,3,Industrial Mixer,Industrial Machinery,6/28/2023,734,Failed,241,493,1,"Barnes, Butler and Russell",6,9,Natasha Thomas,Morning Shift,Repairs,2.608093978,950.7205583,11.17463966,2,2,Human Error
+892,2,Washing Machine,Home Appliances,9/27/2023,324,Passed,308,16,10,Campbell-Wong,8,2,Ashley Herring,Night Shift,Routine Maintenance,3.082463199,834.523572,11.24924383,3,2,Human Error
+893,7,Industrial Cookers,Industrial Machinery,6/9/2023,495,Failed,333,162,4,"Yang, Walker and George",2,6,Taylor Davis,Morning Shift,Routine Maintenance,3.044549617,897.117968,11.63775386,1,5,Material Shortage
+894,7,Industrial Cookers,Industrial Machinery,4/7/2023,913,In-Between,135,778,4,"Yang, Walker and George",3,10,Cheryl Nunez,Night Shift,Routine Maintenance,3.484655604,951.8936897,6.587178032,4,1,Human Error
+895,4,Diesel Generator,Industrial Machinery,8/11/2023,133,In-Between,62,71,7,Ferguson Inc,4,7,Victor Hernandez,Night Shift,Repairs,none,1324.323338,3.383801878,0,5,Human Error
+896,3,Industrial Mixer,Industrial Machinery,5/30/2023,568,In-Between,344,224,2,"Moore, Hernandez and Munoz",6,10,Cheryl Nunez,Night Shift,Routine Maintenance,4.565256985,1153.75753,10.76412453,2,1,Material Shortage
+897,6,Microwave Ovens,Home Appliances,9/28/2023,949,Failed,406,543,3,Hartman-Banks,6,7,Victor Hernandez,Night Shift,Routine Maintenance,none,1089.236052,9.988735669,0,1,Technical Issues
+898,4,Diesel Generator,Industrial Machinery,6/28/2023,408,Passed,407,1,1,"Barnes, Butler and Russell",6,7,Victor Hernandez,Night Shift,Routine Maintenance,3.622620032,1069.682105,7.638458913,2,4,Human Error
+899,2,Washing Machine,Home Appliances,9/12/2023,793,Passed,311,482,10,Campbell-Wong,6,8,Sarah Lloyd,Afternoon Shift,Repairs,2.254079753,861.312889,6.110816825,5,5,Material Shortage
+900,5,Air Conditioners,Home Appliances,8/10/2023,395,Failed,71,324,5,Hawkins-Miller,10,1,Amber Powell,Morning Shift,Routine Maintenance,4.17938667,994.5591745,8.818055205,4,5,Material Shortage
+901,7,Industrial Cookers,Industrial Machinery,9/26/2023,178,Passed,177,1,3,Hartman-Banks,9,8,Sarah Lloyd,Afternoon Shift,Repairs,none,1304.063831,5.753610107,0,4,Material Shortage
+902,1,Refrigerator,Home Appliances,8/19/2023,721,Failed,123,598,10,Campbell-Wong,1,8,Sarah Lloyd,Afternoon Shift,Repairs,4.333342505,872.4357664,9.953706067,5,1,Technical Issues
+903,3,Industrial Mixer,Industrial Machinery,9/14/2023,362,Passed,361,1,2,"Moore, Hernandez and Munoz",8,9,Natasha Thomas,Morning Shift,Routine Maintenance,none,1012.878993,10.46641371,0,4,Material Shortage
+904,5,Air Conditioners,Home Appliances,8/12/2023,362,Passed,361,1,3,Hartman-Banks,7,3,Melissa Kim,Afternoon Shift,Repairs,2.125637638,892.1192318,10.76997965,3,2,Human Error
+905,1,Refrigerator,Home Appliances,8/13/2023,212,In-Between,211,1,4,"Yang, Walker and George",9,9,Natasha Thomas,Morning Shift,Routine Maintenance,4.831953637,874.1155504,4.951086293,1,3,Human Error
+906,3,Industrial Mixer,Industrial Machinery,4/3/2023,322,Passed,321,1,4,"Yang, Walker and George",8,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.527187871,1298.916308,6.302479287,5,2,Technical Issues
+907,5,Air Conditioners,Home Appliances,5/27/2023,208,Passed,90,118,10,Campbell-Wong,4,6,Taylor Davis,Morning Shift,Routine Maintenance,3.834508457,1108.930057,8.880863276,3,5,Material Shortage
+908,7,Industrial Cookers,Industrial Machinery,9/8/2023,346,In-Between,345,1,1,"Barnes, Butler and Russell",5,2,Ashley Herring,Night Shift,Routine Maintenance,4.595253384,1187.952178,11.83747113,5,4,Technical Issues
+909,5,Air Conditioners,Home Appliances,8/25/2023,134,Passed,60,74,7,Ferguson Inc,8,10,Cheryl Nunez,Night Shift,Routine Maintenance,none,978.4897468,6.036875306,0,1,Material Shortage
+910,1,Refrigerator,Home Appliances,6/4/2023,633,Passed,398,235,3,Hartman-Banks,8,5,David Floyd,Afternoon Shift,Repairs,3.639015517,806.1162237,5.992232005,3,3,Material Shortage
+911,2,Washing Machine,Home Appliances,9/20/2023,508,Failed,155,353,9,Lawson-Herrera,5,4,Megan Allen,Night Shift,Routine Maintenance,3.876827785,813.2015129,5.019740818,3,5,Material Shortage
+912,6,Microwave Ovens,Home Appliances,9/11/2023,487,Passed,486,1,6,"Hill, Thomas and Neal",8,9,Natasha Thomas,Morning Shift,Repairs,2.112966729,1203.101808,6.618808516,4,2,Material Shortage
+913,1,Refrigerator,Home Appliances,5/11/2023,934,Passed,240,694,2,"Moore, Hernandez and Munoz",9,5,David Floyd,Afternoon Shift,Routine Maintenance,1.713713102,834.4752737,9.591766915,1,2,Technical Issues
+914,5,Air Conditioners,Home Appliances,6/21/2023,942,Passed,215,727,8,"Adams, Murphy and Wilson",6,3,Melissa Kim,Afternoon Shift,Repairs,4.630348119,839.3554843,11.29241201,2,5,Material Shortage
+915,1,Refrigerator,Home Appliances,4/8/2023,568,Passed,107,461,6,"Hill, Thomas and Neal",2,2,Ashley Herring,Night Shift,Routine Maintenance,4.962835127,1279.645761,5.121458484,1,2,Technical Issues
+916,5,Air Conditioners,Home Appliances,7/15/2023,138,Failed,111,27,4,"Yang, Walker and George",6,4,Megan Allen,Night Shift,Repairs,2.646918509,1130.157093,5.163598781,4,2,Material Shortage
+917,3,Industrial Mixer,Industrial Machinery,7/16/2023,663,Passed,299,364,9,Lawson-Herrera,2,9,Natasha Thomas,Morning Shift,Routine Maintenance,1.014024606,1085.540449,6.299601506,3,5,Material Shortage
+918,1,Refrigerator,Home Appliances,5/22/2023,308,In-Between,307,1,6,"Hill, Thomas and Neal",9,2,Ashley Herring,Night Shift,Routine Maintenance,none,809.8839941,11.00618833,0,5,Human Error
+919,5,Air Conditioners,Home Appliances,8/31/2023,513,Passed,228,285,8,"Adams, Murphy and Wilson",6,6,Taylor Davis,Morning Shift,Routine Maintenance,1.65188044,950.4768175,3.317750338,1,4,Material Shortage
+920,1,Refrigerator,Home Appliances,4/2/2023,315,In-Between,181,134,6,"Hill, Thomas and Neal",2,10,Cheryl Nunez,Night Shift,Routine Maintenance,1.303520639,1307.881863,7.278764365,3,4,Human Error
+921,7,Industrial Cookers,Industrial Machinery,5/13/2023,857,Passed,102,755,9,Lawson-Herrera,3,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.746539175,1058.016564,5.217550192,4,3,Material Shortage
+922,2,Washing Machine,Home Appliances,9/26/2023,920,Passed,457,463,10,Campbell-Wong,7,2,Ashley Herring,Night Shift,Repairs,3.604785099,1288.340824,3.735307198,2,2,Material Shortage
+923,2,Washing Machine,Home Appliances,8/20/2023,642,Failed,379,263,9,Lawson-Herrera,10,1,Amber Powell,Morning Shift,Repairs,3.247110054,1091.808121,10.85074816,2,5,Technical Issues
+924,3,Industrial Mixer,Industrial Machinery,8/5/2023,722,Passed,445,277,7,Ferguson Inc,6,5,David Floyd,Afternoon Shift,Routine Maintenance,3.287359891,901.9887628,11.42981149,3,3,Material Shortage
+925,6,Microwave Ovens,Home Appliances,5/11/2023,169,Passed,126,43,3,Hartman-Banks,1,5,David Floyd,Afternoon Shift,Routine Maintenance,1.04934234,1037.934041,6.595685636,1,2,Human Error
+926,2,Washing Machine,Home Appliances,9/11/2023,307,Passed,137,170,3,Hartman-Banks,4,6,Taylor Davis,Morning Shift,Repairs,3.055314892,1084.323333,5.473866897,5,3,Human Error
+927,5,Air Conditioners,Home Appliances,9/28/2023,993,Passed,185,808,5,Hawkins-Miller,3,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.755158586,1088.634755,4.782347591,2,3,Material Shortage
+928,3,Industrial Mixer,Industrial Machinery,6/19/2023,382,Passed,110,272,5,Hawkins-Miller,5,2,Ashley Herring,Night Shift,Repairs,none,1024.052115,6.942503887,0,1,Human Error
+929,1,Refrigerator,Home Appliances,8/1/2023,579,In-Between,169,410,5,Hawkins-Miller,6,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.030303394,882.7846206,11.98180852,4,1,Material Shortage
+930,5,Air Conditioners,Home Appliances,9/17/2023,942,Passed,83,859,2,"Moore, Hernandez and Munoz",4,10,Cheryl Nunez,Night Shift,Repairs,4.541158949,1176.671737,11.25159886,1,5,Technical Issues
+931,3,Industrial Mixer,Industrial Machinery,5/28/2023,528,Passed,294,234,5,Hawkins-Miller,6,4,Megan Allen,Night Shift,Routine Maintenance,none,1278.854025,4.59498955,0,1,Material Shortage
+932,7,Industrial Cookers,Industrial Machinery,9/16/2023,685,Passed,174,511,9,Lawson-Herrera,1,7,Victor Hernandez,Night Shift,Routine Maintenance,1.099361079,1041.254867,11.80937229,3,1,Technical Issues
+933,6,Microwave Ovens,Home Appliances,7/13/2023,376,Failed,375,1,4,"Yang, Walker and George",4,9,Natasha Thomas,Morning Shift,Routine Maintenance,none,875.775454,7.598324766,0,4,Material Shortage
+934,7,Industrial Cookers,Industrial Machinery,7/5/2023,490,Passed,489,1,3,Hartman-Banks,5,1,Amber Powell,Morning Shift,Routine Maintenance,2.787799021,1308.29838,7.707457166,4,4,Human Error
+935,6,Microwave Ovens,Home Appliances,8/8/2023,419,Passed,364,55,9,Lawson-Herrera,7,4,Megan Allen,Night Shift,Routine Maintenance,2.53984621,1255.181476,11.42605308,4,1,Human Error
+936,4,Diesel Generator,Industrial Machinery,7/15/2023,794,Passed,171,623,10,Campbell-Wong,6,1,Amber Powell,Morning Shift,Repairs,3.302651205,1234.765776,3.271173734,1,3,Material Shortage
+937,4,Diesel Generator,Industrial Machinery,6/8/2023,602,Passed,152,450,8,"Adams, Murphy and Wilson",3,4,Megan Allen,Night Shift,Routine Maintenance,4.090529679,1168.45786,8.150718703,5,3,Technical Issues
+938,3,Industrial Mixer,Industrial Machinery,8/3/2023,966,Failed,219,747,2,"Moore, Hernandez and Munoz",2,5,David Floyd,Afternoon Shift,Repairs,1.886517281,871.064027,7.244853882,1,5,Material Shortage
+939,1,Refrigerator,Home Appliances,4/19/2023,509,Passed,430,79,4,"Yang, Walker and George",9,9,Natasha Thomas,Morning Shift,Repairs,3.679786918,1145.31422,11.76155676,5,4,Human Error
+940,2,Washing Machine,Home Appliances,9/7/2023,743,Passed,494,249,8,"Adams, Murphy and Wilson",4,5,David Floyd,Afternoon Shift,Repairs,1.122643042,1190.377032,11.98322681,5,1,Material Shortage
+941,6,Microwave Ovens,Home Appliances,5/24/2023,735,In-Between,228,507,5,Hawkins-Miller,7,5,David Floyd,Afternoon Shift,Routine Maintenance,none,1101.767669,4.925490771,0,3,Technical Issues
+942,6,Microwave Ovens,Home Appliances,8/27/2023,629,Passed,315,314,10,Campbell-Wong,2,2,Ashley Herring,Night Shift,Repairs,4.51268519,842.4122969,9.133343652,1,5,Human Error
+943,1,Refrigerator,Home Appliances,8/12/2023,366,Passed,121,245,8,"Adams, Murphy and Wilson",8,4,Megan Allen,Night Shift,Routine Maintenance,1.05122277,826.8009493,4.385854503,2,5,Human Error
+944,4,Diesel Generator,Industrial Machinery,4/16/2023,706,In-Between,267,439,9,Lawson-Herrera,8,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,1.957596903,977.8271284,3.590557206,4,2,Material Shortage
+945,4,Diesel Generator,Industrial Machinery,6/28/2023,759,Passed,449,310,4,"Yang, Walker and George",1,7,Victor Hernandez,Night Shift,Routine Maintenance,2.024705458,1030.422122,11.57690683,2,5,Human Error
+946,1,Refrigerator,Home Appliances,7/13/2023,835,Passed,457,378,8,"Adams, Murphy and Wilson",3,5,David Floyd,Afternoon Shift,Routine Maintenance,2.102729512,1323.744609,6.074112503,4,1,Technical Issues
+947,3,Industrial Mixer,Industrial Machinery,4/26/2023,259,Passed,185,74,5,Hawkins-Miller,5,1,Amber Powell,Morning Shift,Repairs,1.723636315,1113.404525,11.87957857,1,1,Material Shortage
+948,6,Microwave Ovens,Home Appliances,8/1/2023,210,Passed,209,1,5,Hawkins-Miller,5,4,Megan Allen,Night Shift,Routine Maintenance,2.087601007,1220.628027,4.809900579,1,4,Technical Issues
+949,4,Diesel Generator,Industrial Machinery,6/20/2023,648,Failed,75,573,7,Ferguson Inc,2,5,David Floyd,Afternoon Shift,Routine Maintenance,3.229612287,936.9299245,4.478861808,1,2,Human Error
+950,5,Air Conditioners,Home Appliances,9/14/2023,793,Passed,428,365,3,Hartman-Banks,7,1,Amber Powell,Morning Shift,Routine Maintenance,none,1208.343685,6.689458911,0,1,Human Error
+951,5,Air Conditioners,Home Appliances,8/20/2023,470,Passed,469,1,5,Hawkins-Miller,5,1,Amber Powell,Morning Shift,Routine Maintenance,1.202173973,960.7995113,10.05967795,3,3,Technical Issues
+952,6,Microwave Ovens,Home Appliances,4/17/2023,740,Passed,129,611,2,"Moore, Hernandez and Munoz",10,2,Ashley Herring,Night Shift,Routine Maintenance,none,1114.743311,9.679120058,0,3,Human Error
+953,7,Industrial Cookers,Industrial Machinery,8/16/2023,665,Failed,415,250,6,"Hill, Thomas and Neal",4,5,David Floyd,Afternoon Shift,Routine Maintenance,4.520575712,1220.461018,8.014126587,4,5,Human Error
+954,5,Air Conditioners,Home Appliances,9/24/2023,329,Passed,127,202,10,Campbell-Wong,4,4,Megan Allen,Night Shift,Repairs,2.132157505,892.4604624,7.679081466,3,2,Technical Issues
+955,7,Industrial Cookers,Industrial Machinery,8/27/2023,420,Passed,110,310,4,"Yang, Walker and George",8,3,Melissa Kim,Afternoon Shift,Routine Maintenance,4.254436321,819.8770251,4.160053984,1,2,Technical Issues
+956,2,Washing Machine,Home Appliances,4/26/2023,914,Passed,326,588,5,Hawkins-Miller,1,1,Amber Powell,Morning Shift,Routine Maintenance,1.710028499,1182.338916,11.72536899,4,3,Material Shortage
+957,5,Air Conditioners,Home Appliances,4/30/2023,471,Passed,470,1,10,Campbell-Wong,2,6,Taylor Davis,Morning Shift,Routine Maintenance,2.446523282,1028.85655,5.037070931,5,1,Material Shortage
+958,4,Diesel Generator,Industrial Machinery,8/14/2023,732,Passed,262,470,5,Hawkins-Miller,3,5,David Floyd,Afternoon Shift,Routine Maintenance,none,1308.680028,3.603318353,0,2,Material Shortage
+959,6,Microwave Ovens,Home Appliances,4/2/2023,449,In-Between,370,79,5,Hawkins-Miller,4,1,Amber Powell,Morning Shift,Routine Maintenance,3.793156906,1031.340666,9.453361754,4,5,Material Shortage
+960,3,Industrial Mixer,Industrial Machinery,8/4/2023,537,Passed,219,318,9,Lawson-Herrera,1,6,Taylor Davis,Morning Shift,Repairs,3.34900373,1065.076405,3.93563697,5,3,Technical Issues
+961,1,Refrigerator,Home Appliances,9/21/2023,653,In-Between,495,158,6,"Hill, Thomas and Neal",9,6,Taylor Davis,Morning Shift,Repairs,4.52312653,1331.569384,10.89765419,5,2,Material Shortage
+962,7,Industrial Cookers,Industrial Machinery,6/22/2023,890,Passed,286,604,3,Hartman-Banks,9,10,Cheryl Nunez,Night Shift,Repairs,none,1312.130295,6.473252258,0,4,Material Shortage
+963,7,Industrial Cookers,Industrial Machinery,4/15/2023,568,Passed,367,201,8,"Adams, Murphy and Wilson",5,1,Amber Powell,Morning Shift,Repairs,3.338324308,1273.603102,11.26093763,3,2,Technical Issues
+964,3,Industrial Mixer,Industrial Machinery,6/19/2023,734,Passed,391,343,6,"Hill, Thomas and Neal",8,9,Natasha Thomas,Morning Shift,Routine Maintenance,2.738281149,1067.904606,11.70808565,4,3,Human Error
+965,3,Industrial Mixer,Industrial Machinery,4/7/2023,233,Passed,232,1,1,"Barnes, Butler and Russell",10,7,Victor Hernandez,Night Shift,Repairs,4.612669517,1076.938101,11.74162943,4,2,Human Error
+966,4,Diesel Generator,Industrial Machinery,6/7/2023,657,Failed,121,536,8,"Adams, Murphy and Wilson",7,4,Megan Allen,Night Shift,Routine Maintenance,3.916009814,911.2858274,4.860703939,2,1,Material Shortage
+967,3,Industrial Mixer,Industrial Machinery,8/10/2023,902,Passed,394,508,7,Ferguson Inc,4,1,Amber Powell,Morning Shift,Repairs,2.855482341,1065.010801,7.521642781,4,2,Material Shortage
+968,3,Industrial Mixer,Industrial Machinery,5/5/2023,216,Failed,215,1,8,"Adams, Murphy and Wilson",9,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.58744654,969.3415202,8.31260645,4,1,Material Shortage
+969,2,Washing Machine,Home Appliances,8/4/2023,929,In-Between,256,673,6,"Hill, Thomas and Neal",1,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.174806988,993.7601742,6.279682016,1,2,Technical Issues
+970,3,Industrial Mixer,Industrial Machinery,7/24/2023,751,In-Between,252,499,1,"Barnes, Butler and Russell",3,1,Amber Powell,Morning Shift,Routine Maintenance,3.587786428,1228.472731,7.037040825,5,4,Technical Issues
+971,3,Industrial Mixer,Industrial Machinery,7/17/2023,936,Passed,106,830,4,"Yang, Walker and George",2,8,Sarah Lloyd,Afternoon Shift,Repairs,3.254053774,1218.922125,6.568635327,1,2,Human Error
+972,3,Industrial Mixer,Industrial Machinery,4/7/2023,435,In-Between,434,1,1,"Barnes, Butler and Russell",9,1,Amber Powell,Morning Shift,Repairs,1.231909007,1155.193538,10.09800586,2,4,Technical Issues
+973,5,Air Conditioners,Home Appliances,4/16/2023,419,Passed,375,44,9,Lawson-Herrera,5,5,David Floyd,Afternoon Shift,Repairs,4.225359072,1295.661073,3.906719427,4,3,Technical Issues
+974,2,Washing Machine,Home Appliances,9/7/2023,731,Passed,330,401,7,Ferguson Inc,4,7,Victor Hernandez,Night Shift,Repairs,1.790917884,1120.821202,7.304071988,2,5,Human Error
+975,5,Air Conditioners,Home Appliances,6/10/2023,484,Passed,483,1,9,Lawson-Herrera,9,1,Amber Powell,Morning Shift,Repairs,3.773086305,1185.643424,6.318510604,4,3,Human Error
+976,7,Industrial Cookers,Industrial Machinery,8/27/2023,874,Passed,170,704,10,Campbell-Wong,8,3,Melissa Kim,Afternoon Shift,Repairs,3.166008328,1152.238409,4.374016787,3,2,Human Error
+977,1,Refrigerator,Home Appliances,5/15/2023,841,In-Between,394,447,5,Hawkins-Miller,6,7,Victor Hernandez,Night Shift,Repairs,4.447673694,978.8644178,7.722813005,3,4,Technical Issues
+978,2,Washing Machine,Home Appliances,4/28/2023,504,Passed,62,442,3,Hartman-Banks,2,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.910752763,840.8686988,9.066261901,2,4,Human Error
+979,6,Microwave Ovens,Home Appliances,7/4/2023,536,In-Between,368,168,5,Hawkins-Miller,4,5,David Floyd,Afternoon Shift,Repairs,3.216637308,1071.65024,8.938294127,5,1,Technical Issues
+980,1,Refrigerator,Home Appliances,5/11/2023,357,In-Between,356,1,4,"Yang, Walker and George",9,10,Cheryl Nunez,Night Shift,Repairs,1.482183199,1280.837821,3.58597958,2,2,Human Error
+981,1,Refrigerator,Home Appliances,7/20/2023,455,Passed,454,1,4,"Yang, Walker and George",7,8,Sarah Lloyd,Afternoon Shift,Repairs,4.580580596,891.9588252,11.09583929,2,1,Material Shortage
+982,4,Diesel Generator,Industrial Machinery,5/22/2023,580,Passed,206,374,10,Campbell-Wong,5,2,Ashley Herring,Night Shift,Routine Maintenance,2.013004768,1063.379713,8.599630356,4,5,Technical Issues
+983,4,Diesel Generator,Industrial Machinery,5/23/2023,905,Passed,444,461,3,Hartman-Banks,4,2,Ashley Herring,Night Shift,Routine Maintenance,1.910091712,1131.284798,6.156062501,4,3,Material Shortage
+984,3,Industrial Mixer,Industrial Machinery,8/29/2023,690,Passed,348,342,7,Ferguson Inc,6,9,Natasha Thomas,Morning Shift,Routine Maintenance,3.944736987,965.3031324,9.345767027,2,4,Material Shortage
+985,1,Refrigerator,Home Appliances,4/27/2023,485,Failed,484,1,1,"Barnes, Butler and Russell",4,10,Cheryl Nunez,Night Shift,Routine Maintenance,2.243422291,1044.012528,11.92613117,5,4,Material Shortage
+986,1,Refrigerator,Home Appliances,9/29/2023,347,Passed,346,1,6,"Hill, Thomas and Neal",6,6,Taylor Davis,Morning Shift,Routine Maintenance,none,1293.941038,7.442108058,0,4,Human Error
+987,2,Washing Machine,Home Appliances,8/23/2023,743,Passed,69,674,9,Lawson-Herrera,8,1,Amber Powell,Morning Shift,Repairs,3.280833366,881.7206538,9.312545195,2,5,Technical Issues
+988,6,Microwave Ovens,Home Appliances,8/20/2023,497,Passed,496,1,3,Hartman-Banks,7,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.297207099,1303.602489,7.852394578,4,4,Technical Issues
+989,1,Refrigerator,Home Appliances,9/2/2023,595,Passed,457,138,7,Ferguson Inc,5,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,none,1223.233923,4.45509895,0,1,Material Shortage
+990,4,Diesel Generator,Industrial Machinery,7/18/2023,812,Passed,200,612,8,"Adams, Murphy and Wilson",1,3,Melissa Kim,Afternoon Shift,Routine Maintenance,2.454178325,1236.266701,8.068814607,5,4,Technical Issues
+991,4,Diesel Generator,Industrial Machinery,6/4/2023,548,Failed,479,69,10,Campbell-Wong,6,6,Taylor Davis,Morning Shift,Routine Maintenance,2.935940677,1258.102174,7.868913603,2,4,Human Error
+992,2,Washing Machine,Home Appliances,7/18/2023,420,Passed,116,304,8,"Adams, Murphy and Wilson",6,6,Taylor Davis,Morning Shift,Repairs,4.835021431,1144.794783,9.469347944,2,1,Material Shortage
+993,3,Industrial Mixer,Industrial Machinery,5/9/2023,474,Passed,473,1,10,Campbell-Wong,3,7,Victor Hernandez,Night Shift,Repairs,4.654718516,1010.451431,4.726618776,5,3,Human Error
+994,5,Air Conditioners,Home Appliances,6/25/2023,167,Passed,58,109,6,"Hill, Thomas and Neal",1,8,Sarah Lloyd,Afternoon Shift,Repairs,1.935962523,1252.155555,10.13450228,1,1,Human Error
+995,4,Diesel Generator,Industrial Machinery,8/28/2023,961,Passed,343,618,7,Ferguson Inc,5,3,Melissa Kim,Afternoon Shift,Repairs,1.15907601,916.6431106,5.610579324,4,3,Technical Issues
+996,3,Industrial Mixer,Industrial Machinery,8/5/2023,562,Passed,229,333,3,Hartman-Banks,2,8,Sarah Lloyd,Afternoon Shift,Routine Maintenance,4.665417025,1056.001201,3.530672938,4,2,Human Error
+997,3,Industrial Mixer,Industrial Machinery,5/16/2023,223,Passed,222,1,3,Hartman-Banks,1,10,Cheryl Nunez,Night Shift,Repairs,2.999226071,1093.333773,7.304734687,2,4,Human Error
+998,5,Air Conditioners,Home Appliances,7/24/2023,733,Passed,316,417,5,Hawkins-Miller,9,8,Sarah Lloyd,Afternoon Shift,Repairs,2.162981235,1225.055802,10.91993664,3,5,Material Shortage
+999,7,Industrial Cookers,Industrial Machinery,8/2/2023,521,Passed,336,185,3,Hartman-Banks,5,8,Sarah Lloyd,Afternoon Shift,Repairs,3.699279353,1349.060657,7.079350429,1,3,Material Shortage
+1000,3,Industrial Mixer,Industrial Machinery,5/9/2023,271,Failed,102,169,2,"Moore, Hernandez and Munoz",10,5,David Floyd,Afternoon Shift,Routine Maintenance,4.378620778,1013.873732,3.235885589,3,3,Technical Issues
