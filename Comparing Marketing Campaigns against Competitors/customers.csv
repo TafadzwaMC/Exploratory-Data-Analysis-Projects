@@ -1,0 +1,101 @@
+Customer ID,Age,Gender,Location,Customer Segment
+1,25,Female,Los Angeles,Premium
+2,49,Female,New York,New
+3,51,Female,Los Angeles,Regular
+4,44,Male,Chicago,Regular
+5,61,Female,Chicago,New
+6,35,Male,San Francisco,Premium
+7,51,Female,Chicago,Premium
+8,20,Male,New York,Premium
+9,53,Other,Chicago,Regular
+10,38,Other,Chicago,Premium
+11,21,Male,Chicago,Regular
+12,38,Other,Los Angeles,Regular
+13,29,Other,San Francisco,Premium
+14,52,Female,Chicago,New
+15,22,Female,Los Angeles,Regular
+16,64,Male,Chicago,New
+17,24,Male,New York,Regular
+18,26,Other,Los Angeles,New
+19,38,Other,Los Angeles,New
+20,19,Female,Chicago,New
+21,62,Other,Chicago,Premium
+22,23,Other,San Francisco,New
+23,60,Male,Chicago,Regular
+24,19,Other,Los Angeles,Premium
+25,28,Male,Los Angeles,Regular
+26,39,Other,Los Angeles,Regular
+27,30,Female,San Francisco,Premium
+28,36,Male,Chicago,Premium
+29,30,Other,San Francisco,Premium
+30,31,Other,Los Angeles,Regular
+31,20,Other,Chicago,Premium
+32,32,Other,San Francisco,New
+33,54,Male,Los Angeles,New
+34,59,Male,New York,Regular
+35,24,Other,Chicago,New
+36,43,Male,Chicago,Regular
+37,38,Other,San Francisco,Regular
+38,58,Female,Chicago,Regular
+39,35,Other,Chicago,Regular
+40,49,Female,New York,Premium
+41,38,Other,Chicago,Regular
+42,31,Female,Chicago,Premium
+43,28,Female,New York,Regular
+44,35,Female,Chicago,New
+45,45,Male,San Francisco,New
+46,36,Other,Los Angeles,Regular
+47,20,Male,Chicago,Regular
+48,24,Other,Los Angeles,Regular
+49,62,Male,Los Angeles,New
+50,31,Other,Los Angeles,Premium
+51,48,Other,San Francisco,Premium
+52,38,Female,San Francisco,New
+53,47,Female,New York,Regular
+54,63,Male,New York,Premium
+55,29,Male,San Francisco,Premium
+56,46,Female,Chicago,Regular
+57,49,Male,Los Angeles,Premium
+58,24,Other,Chicago,New
+59,45,Male,Chicago,Premium
+60,65,Female,San Francisco,Regular
+61,63,Other,Chicago,Premium
+62,60,Female,San Francisco,Premium
+63,36,Other,Los Angeles,Regular
+64,56,Female,New York,Regular
+65,42,Female,San Francisco,Regular
+66,62,Female,Los Angeles,Premium
+67,47,Female,New York,Regular
+68,62,Male,New York,New
+69,32,Male,Chicago,New
+70,27,Male,Los Angeles,Premium
+71,59,Female,Los Angeles,New
+72,52,Female,Chicago,New
+73,43,Male,New York,Premium
+74,44,Other,San Francisco,Regular
+75,64,Female,Los Angeles,Premium
+76,20,Male,New York,Regular
+77,52,Other,New York,Premium
+78,27,Female,New York,Regular
+79,33,Female,New York,New
+80,26,Female,Chicago,New
+81,55,Female,San Francisco,New
+82,29,Female,Los Angeles,Premium
+83,22,Female,San Francisco,New
+84,45,Male,Chicago,New
+85,55,Other,Chicago,New
+86,36,Female,Los Angeles,New
+87,47,Female,Chicago,New
+88,26,Other,Chicago,Regular
+89,46,Other,Los Angeles,Premium
+90,37,Male,New York,Regular
+91,61,Other,San Francisco,Premium
+92,34,Male,Los Angeles,New
+93,60,Male,New York,Regular
+94,47,Other,Los Angeles,Regular
+95,27,Other,Chicago,Regular
+96,49,Female,Chicago,New
+97,56,Male,San Francisco,Regular
+98,22,Male,Chicago,New
+99,60,Male,Los Angeles,Premium
+100,54,Female,San Francisco,Regular
