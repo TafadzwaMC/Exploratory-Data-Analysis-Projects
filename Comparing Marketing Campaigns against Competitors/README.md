@@ -128,6 +128,7 @@ External Factors Table:
 <h1 align="left">Tech Stack</h1>
 <p>
 Tool - Looker
+  
 It will be used for :
   
     A. Data Integration
