@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Analyzing Employee Turnover and Retention</h1>
+<h1 align="center">Product Campaign Metrics: Comparing Marketing Campaigns against Competitors</h1>
 
   <p align="center">
-  <img src="https://www.softwareplacements.ie/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHI2SGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--410b9d3881a2f7e709bd07654f00389774d6cab0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lPTWpBd01IZzJNREErQmpvR1JWUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--90f28495d760ed1ad98beb2536ceee5a22f1c714/magnet-min.png"
-       alt="Farm" width="65%" />
+  <img src="https://www.singlegrain.com/wp-content/uploads/2019/02/SG-How-to-Perform-Marketing-Competitor-Research-6-Best-Tools-Comparison-.jpg"
+       alt="Competitor Analysis" width="65%" />
 </p>
 
 
@@ -59,7 +59,7 @@ This project has well-defined objectives aimed at addressing the business challe
 
 <br> 
  
-<h1 align="left">About The Dataser</h1>
+<h1 align="left">About The Dataset</h1>
 <p>
 This case study contains 4 datasets and  they are as follows:
 
