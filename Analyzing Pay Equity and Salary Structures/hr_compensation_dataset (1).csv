@@ -1,0 +1,1001 @@
+Employee ID,Employee Name,Job Title,Years of Experience,Gender,Race/Ethnicity,Education Level,Base Salary,Bonuses,Department,Employee Status,Total Compensation,Overtime Pay
+1,Ronald Dawson,Sales Representative,0,Female,Asian,OND,42514,3107,Sales,Contract,45621,5712
+2,Michelle Willis,Software Engineer,16,Female,White,OND,46276,2512,Engineering,Contract,48788,5805
+3,Victoria Jimenez,HR Manager,2,Male,Black,PhD,101120,1546,HR,Full-time,102666,6647
+4,Ian Phillips,Sales Representative,13,Female,Asian,BSc.,62493,701,Sales,Full-time,63194,5678
+5,Tiffany Livingston,Software Engineer,15,Male,White,BSc.,63560,2574,Engineering,Full-time,66134,6414
+6,Jamie Gomez,Sales Representative,20,Female,Other,PhD,93273,3544,Sales,Full-time,96817,6456
+7,Gary Castro,Software Engineer,4,Female,Black,MSc.,86818,804,Engineering,Full-time,87622,5820
+8,Bethany Caldwell PhD,HR Manager,9,Male,Other,BSc.,46498,2811,HR,Contract,49309,5253
+9,Sara Dominguez,HR Manager,19,Male,Black,MSc.,86304,4775,HR,Full-time,91079,5098
+10,William Reid,Sales Representative,19,Female,Asian,MSc.,82738,4283,Sales,Full-time,87021,5700
+11,Taylor James,Marketing Specialist,18,Female,Black,High School,30946,775,Marketing,Part-time,31721,4478
+12,Michael Gross,HR Manager,8,Female,Other,OND,44121,4078,HR,Contract,48199,5080
+13,Shawn Everett,Marketing Specialist,2,Male,White,PhD,106271,3963,Marketing,Full-time,110234,6511
+14,Brittany Blake,Software Engineer,2,Male,Hispanic,OND,43308,4148,Engineering,Contract,47456,5223
+15,Amanda George,Financial Analyst,8,Female,White,MSc.,78351,682,Finance,Full-time,79033,5009
+16,Isaac Jones,Data Analyst,4,Female,White,BSc.,70075,243,Data,Full-time,70318,5687
+17,Jamie Serrano,Marketing Specialist,7,Female,White,MSc.,79991,2581,Marketing,Full-time,82572,6014
+18,Jacqueline White,Sales Representative,13,Female,Asian,OND,41533,1930,Sales,Contract,43463,4033
+19,Christopher Knapp,HR Manager,11,Male,White,OND,46828,455,HR,Contract,47283,4275
+20,Mr. Douglas Williams PhD,Software Engineer,16,Male,Hispanic,MSc.,79343,2737,Engineering,Full-time,82080,6630
+21,Christopher Williams,HR Manager,12,Female,Black,High School,35758,2200,HR,Part-time,37958,4112
+22,Timothy Scott,Sales Representative,8,Male,Black,PhD,109166,2328,Sales,Full-time,111494,6917
+23,Erin Clark,HR Manager,14,Male,Hispanic,High School,30004,1398,HR,Part-time,31402,3291
+24,Sharon Hood,Data Analyst,15,Male,White,High School,38591,3732,Data,Part-time,42323,4161
+25,Ryan Vega,Data Analyst,5,Female,Asian,OND,47010,1771,Data,Contract,48781,4849
+26,Stephanie Evans,Marketing Specialist,20,Female,Other,BSc.,66608,346,Marketing,Full-time,66954,6888
+27,Krystal Ross,Data Analyst,4,Male,Other,MSc.,82389,1464,Data,Full-time,83853,5744
+28,Jason Brown,Sales Representative,5,Male,Black,MSc.,85846,3042,Sales,Full-time,88888,6145
+29,Jeffery Miller,HR Manager,20,Male,Other,BSc.,75103,2067,HR,Full-time,77170,6178
+30,Aimee Johnson,Sales Representative,20,Male,Other,High School,33269,631,Sales,Part-time,33900,3400
+31,Samuel Lewis PhD,Marketing Specialist,0,Male,White,High School,30651,2043,Marketing,Part-time,32694,3484
+32,Kayla Maldonado,Financial Analyst,3,Male,Other,BSc.,65753,1230,Finance,Full-time,66983,5356
+33,David Morris,Sales Representative,3,Male,Asian,BSc.,68508,4537,Sales,Full-time,73045,6620
+34,Katrina Sloan,Sales Representative,5,Female,Other,BSc.,60077,4549,Sales,Full-time,64626,6793
+35,Eric Jones,Software Engineer,6,Male,Asian,BSc.,67095,2328,Engineering,Full-time,69423,6798
+36,Pamela Salazar,Sales Representative,6,Male,White,BSc.,66626,1903,Sales,Full-time,68529,5845
+37,Robert Munoz,Financial Analyst,5,Male,Black,BSc.,71334,373,Finance,Full-time,71707,5553
+38,Miss Stacey Williams MD,Marketing Specialist,5,Male,Black,BSc.,63596,3673,Marketing,Full-time,67269,6532
+39,Shawn Bennett,HR Manager,11,Female,Hispanic,OND,43382,1664,HR,Contract,45046,5093
+40,Ivan Vasquez,HR Manager,19,Female,Asian,High School,34675,1422,HR,Part-time,36097,4385
+41,Adam Duran,Data Analyst,19,Male,Black,BSc.,71116,705,Data,Full-time,71821,5309
+42,Tara Mercer,Sales Representative,4,Female,White,OND,46317,1183,Sales,Contract,47500,5560
+43,Terry Webb,Data Analyst,10,Male,Asian,High School,38338,3467,Data,Part-time,41805,4374
+44,Mrs. Brenda Torres,Financial Analyst,4,Male,Hispanic,OND,44392,4918,Finance,Contract,49310,4773
+45,Raymond Norris,HR Manager,20,Female,Hispanic,OND,47277,4125,HR,Contract,51402,5884
+46,Julie Morrison,Sales Representative,3,Female,White,OND,42023,914,Sales,Contract,42937,4021
+47,Johnny Ballard,Data Analyst,8,Female,Other,OND,45883,2340,Data,Contract,48223,5421
+48,Richard Medina,HR Manager,6,Male,White,MSc.,80734,2118,HR,Full-time,82852,6360
+49,James Ward,Sales Representative,17,Female,Other,High School,30007,3941,Sales,Part-time,33948,4391
+50,Jeffrey Sharp,Sales Representative,17,Female,Other,MSc.,82506,731,Sales,Full-time,83237,6453
+51,Edwin Carter,Sales Representative,3,Female,Asian,OND,41360,1570,Sales,Contract,42930,5618
+52,Lisa Holden,Software Engineer,7,Male,Asian,High School,37191,430,Engineering,Part-time,37621,3139
+53,Jessica Kelly,Software Engineer,0,Male,Black,BSc.,70026,2617,Engineering,Full-time,72643,5904
+54,Michael Roberts,HR Manager,2,Female,Asian,OND,41131,4466,HR,Contract,45597,5747
+55,Jamie Romero,Data Analyst,17,Male,Hispanic,High School,30777,4782,Data,Part-time,35559,3380
+56,John James,Sales Representative,1,Male,Black,OND,46391,4679,Sales,Contract,51070,5868
+57,Victoria Howell,Data Analyst,16,Male,Other,BSc.,73859,2225,Data,Full-time,76084,5187
+58,Michael Brennan,Software Engineer,3,Male,Other,MSc.,76499,646,Engineering,Full-time,77145,5526
+59,Carlos Matthews,Financial Analyst,20,Male,Black,MSc.,87685,182,Finance,Full-time,87867,6486
+60,Spencer Fox,Software Engineer,9,Female,Asian,OND,44980,3846,Engineering,Contract,48826,4624
+61,Pamela Davis,Sales Representative,12,Male,Black,BSc.,74681,596,Sales,Full-time,75277,6067
+62,Rachel Gallagher,Sales Representative,10,Female,White,High School,32136,2491,Sales,Part-time,34627,4039
+63,Audrey Jimenez,Data Analyst,10,Male,Asian,OND,43835,3174,Data,Contract,47009,4053
+64,Corey Clark,Data Analyst,1,Female,Other,BSc.,67068,4525,Data,Full-time,71593,6713
+65,Ms. Jacqueline Gonzales,Software Engineer,0,Female,Hispanic,BSc.,73750,2559,Engineering,Full-time,76309,6709
+66,Aaron Jones,HR Manager,7,Female,Hispanic,OND,41056,70,HR,Contract,41126,5425
+67,Katrina Berry,Software Engineer,12,Male,Hispanic,OND,41281,3596,Engineering,Contract,44877,4100
+68,John Berry,HR Manager,17,Female,Other,High School,38906,2128,HR,Part-time,41034,3421
+69,Thomas Hill,Sales Representative,8,Male,Asian,OND,41982,2007,Sales,Contract,43989,4764
+70,Jasmine Washington,Software Engineer,3,Male,Black,OND,43267,1003,Engineering,Contract,44270,4858
+71,Andrew Haley,Marketing Specialist,11,Female,White,PhD,113906,2640,Marketing,Full-time,116546,5168
+72,Robert Matthews,Software Engineer,11,Male,Black,High School,30222,4806,Engineering,Part-time,35028,3621
+73,Haley Vaughan,Software Engineer,4,Female,White,High School,36689,1363,Engineering,Part-time,38052,3276
+74,Rebecca Mooney,HR Manager,5,Male,Other,MSc.,90992,980,HR,Full-time,91972,6939
+75,Tiffany Collier,Data Analyst,9,Female,White,OND,47971,4945,Data,Contract,52916,4135
+76,Alexandria Fuentes,Marketing Specialist,13,Male,Black,BSc.,62394,1163,Marketing,Full-time,63557,5441
+77,Susan Kelley,Data Analyst,17,Female,White,MSc.,90494,2869,Data,Full-time,93363,6513
+78,Robert Macdonald,Sales Representative,9,Male,Other,High School,31346,4754,Sales,Part-time,36100,3159
+79,Andrew Garcia,HR Manager,7,Female,Other,PhD,111679,881,HR,Full-time,112560,5980
+80,Jennifer Davidson,Software Engineer,16,Male,Asian,BSc.,69077,3818,Engineering,Full-time,72895,6166
+81,Mike Ward,Software Engineer,2,Male,White,BSc.,69243,2668,Engineering,Full-time,71911,5586
+82,Lori Obrien,Data Analyst,20,Male,Black,OND,46877,604,Data,Contract,47481,5059
+83,Brian Lynch,Financial Analyst,2,Female,Asian,MSc.,88404,4850,Finance,Full-time,93254,5038
+84,Jacob Juarez,Marketing Specialist,0,Female,White,MSc.,82539,3317,Marketing,Full-time,85856,5800
+85,Krystal Rhodes,Software Engineer,11,Male,White,BSc.,75200,510,Engineering,Full-time,75710,5187
+86,Christian Mcmillan,Data Analyst,12,Female,White,OND,41666,2484,Data,Contract,44150,4435
+87,Susan Robles,Financial Analyst,20,Female,Black,OND,42241,514,Finance,Contract,42755,4970
+88,Margaret Estrada,Data Analyst,5,Male,Hispanic,High School,36811,3541,Data,Part-time,40352,4070
+89,Michael Gonzalez,HR Manager,9,Male,Other,OND,46179,4844,HR,Contract,51023,5517
+90,Ricardo Rodgers,Sales Representative,3,Female,Asian,PhD,96059,561,Sales,Full-time,96620,5288
+91,Adriana Gonzalez,Sales Representative,10,Male,White,MSc.,81544,3231,Sales,Full-time,84775,6134
+92,Mary Rosales,HR Manager,13,Male,White,BSc.,64964,1204,HR,Full-time,66168,5585
+93,Rachel Little,Data Analyst,5,Male,Hispanic,MSc.,77533,598,Data,Full-time,78131,5697
+94,Christian Smith,Sales Representative,4,Male,Asian,OND,45097,3777,Sales,Contract,48874,5243
+95,Sandra Hernandez,HR Manager,16,Male,Other,BSc.,66090,4642,HR,Full-time,70732,6842
+96,Jacob Martinez,Data Analyst,13,Male,White,BSc.,61668,4314,Data,Full-time,65982,5781
+97,Guy Newman,Marketing Specialist,7,Male,White,MSc.,88179,3328,Marketing,Full-time,91507,5017
+98,Barbara Davis,HR Manager,14,Female,Hispanic,PhD,110016,172,HR,Full-time,110188,5702
+99,Alicia Elliott,Software Engineer,7,Female,Other,High School,35869,4704,Engineering,Part-time,40573,3575
+100,Nicole Guzman,Data Analyst,6,Female,Hispanic,BSc.,69601,3057,Data,Full-time,72658,6703
+101,Gregory Quinn,Financial Analyst,4,Female,Black,High School,30699,2510,Finance,Part-time,33209,4921
+102,Edward Clark,Software Engineer,14,Male,Other,MSc.,85942,1496,Engineering,Full-time,87438,6665
+103,Amy Wood,Financial Analyst,19,Male,Asian,BSc.,60638,4187,Finance,Full-time,64825,5632
+104,Kenneth Guerrero,Financial Analyst,5,Female,Black,MSc.,78671,2204,Finance,Full-time,80875,6736
+105,Benjamin Mclean,Marketing Specialist,2,Male,Other,High School,30461,4171,Marketing,Part-time,34632,3683
+106,Mr. Justin West DVM,Marketing Specialist,1,Female,White,High School,35901,2127,Marketing,Part-time,38028,4662
+107,Jean Mccoy,Financial Analyst,1,Male,Hispanic,OND,42374,2899,Finance,Contract,45273,4779
+108,Carmen Rodriguez,Marketing Specialist,12,Female,Black,OND,48365,2619,Marketing,Contract,50984,5949
+109,Kenneth Flores,Data Analyst,12,Female,White,OND,44835,3710,Data,Contract,48545,4764
+110,Joseph Pearson,Marketing Specialist,13,Male,Black,MSc.,77532,2692,Marketing,Full-time,80224,5684
+111,Michele Weaver,Data Analyst,19,Male,Asian,MSc.,84762,2791,Data,Full-time,87553,5568
+112,Sheri Brown,Financial Analyst,8,Female,Other,BSc.,63646,2178,Finance,Full-time,65824,5379
+113,Melinda Rodriguez,Financial Analyst,0,Female,Asian,BSc.,74645,2383,Finance,Full-time,77028,5064
+114,Caroline Ferguson,Marketing Specialist,18,Female,Hispanic,BSc.,75726,2141,Marketing,Full-time,77867,5845
+115,Jason Thomas,Sales Representative,6,Male,Hispanic,BSc.,66059,4914,Sales,Full-time,70973,5660
+116,Daniel Silva,Financial Analyst,2,Male,White,PhD,117914,2467,Finance,Full-time,120381,6562
+117,Joy Houston,Sales Representative,16,Female,Asian,BSc.,64753,3128,Sales,Full-time,67881,6928
+118,Jennifer Raymond,HR Manager,16,Female,Asian,BSc.,68659,986,HR,Full-time,69645,6137
+119,Billy Richardson,Sales Representative,20,Female,Hispanic,OND,47835,2096,Sales,Contract,49931,5952
+120,Christina Trevino,Sales Representative,15,Male,White,High School,31982,455,Sales,Part-time,32437,4983
+121,Shawn Henry,Financial Analyst,16,Male,White,High School,30295,4337,Finance,Part-time,34632,4339
+122,Danielle Miller,Software Engineer,15,Male,Asian,BSc.,71987,1190,Engineering,Full-time,73177,5661
+123,John Holloway,Sales Representative,19,Male,White,MSc.,76910,2479,Sales,Full-time,79389,5335
+124,Kelly Munoz,Sales Representative,4,Male,Other,MSc.,89506,491,Sales,Full-time,89997,6744
+125,Joseph Weber,Software Engineer,17,Female,Other,PhD,108563,3933,Engineering,Full-time,112496,6441
+126,Linda Taylor,Sales Representative,17,Male,Asian,OND,47104,1929,Sales,Contract,49033,4248
+127,Adam Cook,Marketing Specialist,20,Female,Asian,High School,38893,3286,Marketing,Part-time,42179,4679
+128,Michael Moss,Marketing Specialist,1,Male,White,MSc.,85667,4653,Marketing,Full-time,90320,5369
+129,Crystal Freeman,Software Engineer,3,Male,Asian,High School,32840,2465,Engineering,Part-time,35305,4637
+130,Michelle Craig,Sales Representative,4,Female,White,MSc.,76268,3593,Sales,Full-time,79861,6137
+131,Thomas Moyer,Sales Representative,1,Male,White,BSc.,71474,2288,Sales,Full-time,73762,5230
+132,Michele Thompson,Data Analyst,11,Male,Black,High School,33076,4632,Data,Part-time,37708,3784
+133,Amanda James,Financial Analyst,0,Female,Hispanic,High School,37170,1505,Finance,Part-time,38675,4482
+134,Kristen Webb,Sales Representative,1,Male,Black,PhD,102289,2586,Sales,Full-time,104875,6623
+135,Dylan Foster,Marketing Specialist,16,Female,Hispanic,MSc.,86798,1213,Marketing,Full-time,88011,5591
+136,Danielle Cervantes,Sales Representative,11,Male,Asian,MSc.,87074,639,Sales,Full-time,87713,6409
+137,Thomas Collins,Software Engineer,19,Male,Hispanic,High School,36110,1583,Engineering,Part-time,37693,4795
+138,Ryan Huber,Marketing Specialist,5,Female,White,MSc.,85871,2961,Marketing,Full-time,88832,6847
+139,Katie Parker,Financial Analyst,5,Female,White,MSc.,86498,268,Finance,Full-time,86766,5916
+140,Richard Caldwell,HR Manager,17,Male,White,MSc.,75034,4998,HR,Full-time,80032,5978
+141,Aaron Ayala,HR Manager,9,Male,Black,MSc.,84921,49,HR,Full-time,84970,6445
+142,Tiffany Herman,Software Engineer,6,Male,Other,BSc.,75907,4260,Engineering,Full-time,80167,6664
+143,Cynthia Miller,Software Engineer,8,Female,Asian,BSc.,61364,333,Engineering,Full-time,61697,6545
+144,Keith Williams,Sales Representative,17,Female,Hispanic,OND,41035,1559,Sales,Contract,42594,4226
+145,Steven Lowe,Software Engineer,12,Male,Hispanic,BSc.,64654,1243,Engineering,Full-time,65897,5537
+146,Darlene Murphy,Software Engineer,0,Female,Hispanic,BSc.,72455,4221,Engineering,Full-time,76676,5788
+147,Andrew Huff,Marketing Specialist,15,Female,White,High School,33763,949,Marketing,Part-time,34712,3174
+148,Paul Jacobs,Marketing Specialist,1,Male,Black,PhD,93376,4169,Marketing,Full-time,97545,6082
+149,John Carter,Software Engineer,17,Female,Asian,PhD,99978,3766,Engineering,Full-time,103744,5625
+150,Stephanie Williams MD,Financial Analyst,19,Female,Asian,OND,48153,4487,Finance,Contract,52640,4623
+151,Megan Mcbride,Sales Representative,15,Female,Other,MSc.,77528,1658,Sales,Full-time,79186,5574
+152,Carmen Barton,Marketing Specialist,14,Male,Other,OND,42244,3922,Marketing,Contract,46166,4024
+153,William Hudson,Software Engineer,20,Male,Asian,High School,37303,3961,Engineering,Part-time,41264,4281
+154,Steven Mcguire,Software Engineer,14,Male,Black,PhD,117513,3951,Engineering,Full-time,121464,6076
+155,Desiree Aguirre,Marketing Specialist,0,Female,Other,BSc.,61806,1839,Marketing,Full-time,63645,5771
+156,Nicholas Vaughn,HR Manager,5,Male,Black,PhD,91727,2902,HR,Full-time,94629,5916
+157,Jennifer Cooper,Marketing Specialist,10,Female,Other,OND,42990,451,Marketing,Contract,43441,4576
+158,Chris Barrett,Data Analyst,13,Male,Black,BSc.,68386,2673,Data,Full-time,71059,5526
+159,Michelle Vega,Sales Representative,8,Male,Hispanic,BSc.,72664,11,Sales,Full-time,72675,6508
+160,Caitlin Jones,Sales Representative,1,Female,Asian,High School,30238,175,Sales,Part-time,30413,3079
+161,Jennifer Harvey,Data Analyst,10,Female,White,MSc.,76683,3525,Data,Full-time,80208,6732
+162,Jose Hernandez,Marketing Specialist,17,Female,White,BSc.,72646,4560,Marketing,Full-time,77206,5612
+163,Gabriella Parker,HR Manager,7,Male,Other,MSc.,78226,1157,HR,Full-time,79383,5129
+164,Kara Tapia,Data Analyst,17,Female,Other,BSc.,63629,2315,Data,Full-time,65944,6498
+165,Stephanie Simmons,Data Analyst,13,Female,White,OND,40383,2174,Data,Contract,42557,4839
+166,Alexander Ross,Marketing Specialist,2,Male,Other,BSc.,71923,4664,Marketing,Full-time,76587,5126
+167,Christina Lane,Marketing Specialist,11,Female,Asian,BSc.,71194,352,Marketing,Full-time,71546,5744
+168,Christina Oneill,HR Manager,8,Female,White,OND,44386,1565,HR,Contract,45951,4205
+169,Benjamin Freeman,HR Manager,11,Female,Asian,MSc.,90386,3453,HR,Full-time,93839,5184
+170,William Bass,Marketing Specialist,5,Male,Hispanic,High School,31363,1851,Marketing,Part-time,33214,4121
+171,Paul Bolton,Financial Analyst,15,Female,Black,BSc.,67891,1470,Finance,Full-time,69361,5520
+172,Felicia Smith,Data Analyst,10,Female,Hispanic,BSc.,60642,3757,Data,Full-time,64399,5272
+173,Kimberly Hunt,Software Engineer,14,Female,Hispanic,OND,47911,1940,Engineering,Contract,49851,5220
+174,Richard Preston,Sales Representative,1,Female,Black,OND,46800,3978,Sales,Contract,50778,4982
+175,Jason Casey,Data Analyst,7,Male,Hispanic,High School,31635,138,Data,Part-time,31773,4726
+176,Bryan Johnson,Financial Analyst,14,Female,Hispanic,OND,46426,2070,Finance,Contract,48496,5109
+177,Gary Blackwell,Data Analyst,11,Female,White,BSc.,70381,1293,Data,Full-time,71674,5013
+178,William Bryant,Marketing Specialist,14,Male,Asian,MSc.,88139,3421,Marketing,Full-time,91560,6004
+179,Christine Jacobs,Data Analyst,0,Male,Hispanic,MSc.,79815,2147,Data,Full-time,81962,5079
+180,Alicia Meyer,Financial Analyst,2,Female,Asian,MSc.,75729,2988,Finance,Full-time,78717,6931
+181,Kelsey Campbell,HR Manager,15,Male,Other,BSc.,69939,2415,HR,Full-time,72354,5176
+182,Charles Chen,HR Manager,1,Male,White,BSc.,70448,4057,HR,Full-time,74505,5473
+183,John Weaver,Financial Analyst,11,Female,Black,MSc.,81762,4196,Finance,Full-time,85958,6733
+184,Steve Jones,Sales Representative,9,Male,Hispanic,MSc.,80298,1504,Sales,Full-time,81802,6352
+185,Ashley Cabrera,Marketing Specialist,16,Female,Hispanic,OND,45788,1216,Marketing,Contract,47004,4083
+186,Joshua Henderson,Financial Analyst,3,Female,Asian,High School,32687,2886,Finance,Part-time,35573,3144
+187,Jeffrey Pennington,Sales Representative,12,Female,White,OND,48817,4692,Sales,Contract,53509,5362
+188,Dawn Arias,Marketing Specialist,13,Male,Hispanic,High School,33232,3588,Marketing,Part-time,36820,4625
+189,Jennifer Brock,Financial Analyst,10,Male,Other,MSc.,77184,78,Finance,Full-time,77262,5215
+190,Victoria Wright,Software Engineer,13,Male,Other,OND,45851,716,Engineering,Contract,46567,5781
+191,Alexandria Peters,HR Manager,8,Male,Asian,OND,45940,1472,HR,Contract,47412,4130
+192,Robin Benitez,Data Analyst,16,Female,Asian,High School,37864,1082,Data,Part-time,38946,4608
+193,Rodney Luna,Marketing Specialist,0,Female,Asian,OND,43369,1002,Marketing,Contract,44371,5603
+194,Sharon Ramirez,Software Engineer,2,Male,White,OND,46960,3693,Engineering,Contract,50653,4839
+195,Karl Jackson,Software Engineer,4,Male,Black,OND,42179,3384,Engineering,Contract,45563,4560
+196,Connie Smith,Software Engineer,16,Female,White,BSc.,72939,137,Engineering,Full-time,73076,6878
+197,Tonya Marshall,Data Analyst,8,Male,Black,OND,41665,3409,Data,Contract,45074,5405
+198,Daniel Hernandez,HR Manager,2,Male,White,BSc.,71815,3371,HR,Full-time,75186,5819
+199,Colin Gonzales,Sales Representative,9,Female,Asian,BSc.,73433,4860,Sales,Full-time,78293,6444
+200,Ariel Moore,Software Engineer,0,Male,Hispanic,MSc.,78974,3142,Engineering,Full-time,82116,5494
+201,Donna Brown,Sales Representative,15,Male,Asian,BSc.,67652,523,Sales,Full-time,68175,5924
+202,Traci Knox,Software Engineer,16,Female,Black,High School,36390,3574,Engineering,Part-time,39964,3547
+203,Jason Young,Marketing Specialist,4,Male,Other,BSc.,69631,2409,Marketing,Full-time,72040,5286
+204,Scott Williams,Software Engineer,19,Female,Black,PhD,105583,4405,Engineering,Full-time,109988,6358
+205,Fred Lawson,HR Manager,14,Male,Other,BSc.,67119,3570,HR,Full-time,70689,6512
+206,Elizabeth Gomez,HR Manager,14,Female,Other,MSc.,86382,760,HR,Full-time,87142,6641
+207,Angela Mcconnell,Software Engineer,0,Male,Black,MSc.,90797,2401,Engineering,Full-time,93198,6412
+208,Debbie Smith,Sales Representative,18,Female,Hispanic,MSc.,82722,1219,Sales,Full-time,83941,6299
+209,Richard Gonzalez,Financial Analyst,7,Male,Other,MSc.,81560,329,Finance,Full-time,81889,6995
+210,Oscar Reeves,Software Engineer,11,Male,White,PhD,107655,431,Engineering,Full-time,108086,5462
+211,Rodney Bowen,Data Analyst,11,Male,White,BSc.,75376,4090,Data,Full-time,79466,5297
+212,Lauren Fleming,Marketing Specialist,3,Male,Asian,OND,46017,4062,Marketing,Contract,50079,4412
+213,Julian Washington,HR Manager,15,Male,Black,BSc.,74282,2319,HR,Full-time,76601,5901
+214,Tom Jones,Sales Representative,10,Female,Black,High School,31025,3045,Sales,Part-time,34070,3158
+215,Meagan Klein,Data Analyst,11,Female,Other,BSc.,67427,973,Data,Full-time,68400,6534
+216,Mark Rodriguez,HR Manager,8,Female,Hispanic,BSc.,72125,3180,HR,Full-time,75305,5434
+217,Brian Robinson,HR Manager,16,Male,Other,OND,48107,2793,HR,Contract,50900,4423
+218,Sharon Lee,Marketing Specialist,17,Female,Asian,MSc.,76113,2900,Marketing,Full-time,79013,5165
+219,Matthew Valenzuela,Sales Representative,5,Female,White,MSc.,83750,3584,Sales,Full-time,87334,6008
+220,Micheal Shaw,Software Engineer,12,Male,Hispanic,BSc.,74794,1033,Engineering,Full-time,75827,5255
+221,Scott Hamilton,Marketing Specialist,14,Female,Hispanic,BSc.,69734,4778,Marketing,Full-time,74512,5008
+222,Jennifer Warner,Sales Representative,20,Male,Asian,BSc.,72674,3510,Sales,Full-time,76184,6425
+223,Claudia Boone,HR Manager,9,Male,Other,MSc.,82201,2309,HR,Full-time,84510,6672
+224,Tiffany Johnson,Sales Representative,14,Male,Hispanic,High School,30738,3251,Sales,Part-time,33989,3305
+225,Christina Shelton,Sales Representative,12,Female,White,PhD,100641,3977,Sales,Full-time,104618,5988
+226,Christina Lawson,Financial Analyst,10,Male,White,High School,30547,1128,Finance,Part-time,31675,4574
+227,James Pitts,Marketing Specialist,17,Male,Hispanic,High School,35809,4859,Marketing,Part-time,40668,4828
+228,Stephanie Duran,Financial Analyst,1,Male,Hispanic,PhD,110867,1169,Finance,Full-time,112036,6410
+229,Karla Robertson,HR Manager,14,Male,Other,PhD,93283,736,HR,Full-time,94019,5939
+230,Belinda White,Marketing Specialist,6,Male,Black,BSc.,73683,4905,Marketing,Full-time,78588,6485
+231,Sarah Williams,Data Analyst,10,Male,Other,PhD,101962,247,Data,Full-time,102209,5071
+232,Jackie Nelson,Marketing Specialist,3,Male,Black,BSc.,64880,2602,Marketing,Full-time,67482,6823
+233,Kristy Baker,Sales Representative,16,Male,White,BSc.,61527,2674,Sales,Full-time,64201,5757
+234,Ruth Dodson,Data Analyst,16,Female,White,OND,47358,4481,Data,Contract,51839,5145
+235,Adam Hayden,Financial Analyst,6,Female,Black,BSc.,74800,3645,Finance,Full-time,78445,6944
+236,David Barton,Software Engineer,0,Female,Other,OND,42084,4545,Engineering,Contract,46629,5766
+237,Aaron Meyers,HR Manager,1,Male,Black,High School,38994,661,HR,Part-time,39655,3951
+238,Misty Graham,HR Manager,9,Male,Asian,OND,47861,4767,HR,Contract,52628,5994
+239,Michael Wells,Data Analyst,11,Female,White,High School,38699,3150,Data,Part-time,41849,3413
+240,Benjamin Silva DDS,HR Manager,15,Male,White,PhD,99157,4732,HR,Full-time,103889,6816
+241,Kenneth Black,HR Manager,2,Male,Black,PhD,93648,3674,HR,Full-time,97322,5608
+242,James Johnson,Software Engineer,18,Male,Hispanic,High School,38599,2394,Engineering,Part-time,40993,4280
+243,Nicholas Trevino,Software Engineer,1,Male,Asian,High School,33402,1790,Engineering,Part-time,35192,4868
+244,Anthony Suarez,HR Manager,3,Female,Other,OND,44253,1775,HR,Contract,46028,5910
+245,Karen Barry,Software Engineer,17,Female,White,BSc.,69999,2433,Engineering,Full-time,72432,6811
+246,Amanda Simmons,Sales Representative,3,Male,Hispanic,BSc.,69730,80,Sales,Full-time,69810,5383
+247,John Chavez,Software Engineer,15,Female,White,PhD,107631,430,Engineering,Full-time,108061,5688
+248,Hannah Archer,HR Manager,6,Female,Asian,High School,36189,3852,HR,Part-time,40041,4992
+249,Ryan Harvey,Marketing Specialist,12,Male,Asian,OND,44701,3737,Marketing,Contract,48438,4469
+250,Charles Miller,Sales Representative,17,Female,Asian,BSc.,66317,3118,Sales,Full-time,69435,6672
+251,Richard Fleming,Software Engineer,19,Female,Other,BSc.,65186,3880,Engineering,Full-time,69066,6793
+252,Jennifer Watson,Software Engineer,9,Female,Other,High School,34381,4118,Engineering,Part-time,38499,3112
+253,Stacy Marshall,Sales Representative,15,Female,Hispanic,BSc.,62982,3075,Sales,Full-time,66057,6209
+254,Terrence Garcia,Sales Representative,2,Female,Black,High School,36350,1569,Sales,Part-time,37919,3531
+255,Frederick Kennedy,Software Engineer,17,Male,Black,BSc.,60555,254,Engineering,Full-time,60809,6053
+256,Raymond Sanchez,HR Manager,18,Female,Black,OND,44518,4470,HR,Contract,48988,4374
+257,Kaitlyn Underwood,Software Engineer,1,Female,Asian,High School,37108,3138,Engineering,Part-time,40246,4695
+258,Philip Mercado,Data Analyst,19,Female,White,MSc.,88413,1431,Data,Full-time,89844,5373
+259,Katherine Hopkins,Sales Representative,3,Male,Other,BSc.,60711,3415,Sales,Full-time,64126,5809
+260,Patricia Watson,HR Manager,7,Female,Asian,MSc.,78156,1153,HR,Full-time,79309,5446
+261,Erin Byrd,Financial Analyst,20,Female,Hispanic,MSc.,85579,3864,Finance,Full-time,89443,5332
+262,William Rhodes,Financial Analyst,9,Male,Hispanic,MSc.,83241,2050,Finance,Full-time,85291,6470
+263,Alexa Mitchell,HR Manager,18,Female,Other,OND,45053,2243,HR,Contract,47296,5319
+264,David Olson Jr.,Software Engineer,14,Female,Other,PhD,103557,3803,Engineering,Full-time,107360,5332
+265,Shannon Mcintyre,Sales Representative,6,Male,Black,High School,38041,3717,Sales,Part-time,41758,3914
+266,Michael Tran,Financial Analyst,9,Female,Other,High School,30886,739,Finance,Part-time,31625,4534
+267,Jordan Gallagher,Data Analyst,3,Male,Asian,PhD,100878,362,Data,Full-time,101240,6180
+268,Courtney Mack,Software Engineer,8,Female,White,MSc.,79110,1905,Engineering,Full-time,81015,6014
+269,Brittney Hoffman,Data Analyst,5,Female,Hispanic,High School,35686,328,Data,Part-time,36014,3246
+270,Pamela Harris,Financial Analyst,20,Male,White,BSc.,68686,2496,Finance,Full-time,71182,6497
+271,Betty Campbell,Marketing Specialist,19,Male,Other,MSc.,88496,3512,Marketing,Full-time,92008,5605
+272,Kimberly Mcpherson,Marketing Specialist,10,Female,Hispanic,PhD,111090,1747,Marketing,Full-time,112837,5418
+273,Erin Dean,Sales Representative,18,Female,Hispanic,MSc.,90889,469,Sales,Full-time,91358,6913
+274,Anthony Kerr,Financial Analyst,4,Male,Black,MSc.,87813,1258,Finance,Full-time,89071,5393
+275,Brittany Mendoza,HR Manager,13,Female,Hispanic,OND,46860,2146,HR,Contract,49006,4904
+276,Amanda Doyle,Data Analyst,13,Male,Black,MSc.,76087,2023,Data,Full-time,78110,5380
+277,Kathryn Alvarado,Financial Analyst,2,Male,Black,OND,42268,2597,Finance,Contract,44865,5330
+278,Diane Schroeder,Financial Analyst,20,Female,Asian,BSc.,61784,2832,Finance,Full-time,64616,5202
+279,Aaron Larsen,Marketing Specialist,16,Female,Hispanic,High School,35487,1058,Marketing,Part-time,36545,3069
+280,David Williams,Marketing Specialist,18,Male,White,MSc.,89493,1549,Marketing,Full-time,91042,5688
+281,Robin Miller,Data Analyst,1,Male,Asian,High School,35711,634,Data,Part-time,36345,3259
+282,Kimberly Elliott,HR Manager,13,Female,Black,BSc.,63609,297,HR,Full-time,63906,5534
+283,Jeremy Rollins,Sales Representative,15,Female,Hispanic,PhD,112758,2737,Sales,Full-time,115495,5155
+284,Charles Ruiz,Financial Analyst,12,Female,Black,BSc.,73048,4597,Finance,Full-time,77645,6952
+285,Anthony Rivers,Financial Analyst,20,Female,Hispanic,BSc.,68549,3583,Finance,Full-time,72132,6359
+286,Regina Bryan,Sales Representative,15,Female,Asian,High School,33394,3445,Sales,Part-time,36839,4228
+287,Rick Diaz,Marketing Specialist,11,Female,White,MSc.,83030,409,Marketing,Full-time,83439,5427
+288,Jonathan Thompson,Software Engineer,20,Male,Hispanic,OND,48108,4948,Engineering,Contract,53056,5138
+289,Michael Stewart,Marketing Specialist,16,Male,Black,MSc.,84686,461,Marketing,Full-time,85147,6575
+290,Rebecca Campos,HR Manager,4,Male,White,MSc.,80488,1828,HR,Full-time,82316,6091
+291,Andrew Sawyer,Financial Analyst,13,Female,White,BSc.,67110,683,Finance,Full-time,67793,6994
+292,Stephen Price,Marketing Specialist,14,Female,Asian,MSc.,83750,2702,Marketing,Full-time,86452,6641
+293,Nicholas Keller,Data Analyst,12,Female,Other,MSc.,83476,4163,Data,Full-time,87639,5455
+294,Jennifer Osborn,Marketing Specialist,15,Male,Hispanic,MSc.,83430,1490,Marketing,Full-time,84920,5916
+295,Terry Peterson,Sales Representative,10,Male,Hispanic,BSc.,60197,2941,Sales,Full-time,63138,5168
+296,Robert Rowland,HR Manager,18,Female,Black,OND,42092,1942,HR,Contract,44034,5014
+297,David Smith,Sales Representative,8,Female,White,BSc.,66576,4403,Sales,Full-time,70979,5059
+298,Amy Brown,Marketing Specialist,19,Male,Other,High School,32765,1701,Marketing,Part-time,34466,3169
+299,Becky Aguirre,HR Manager,5,Female,Other,High School,32741,2826,HR,Part-time,35567,4757
+300,William Rogers,Data Analyst,1,Male,Other,BSc.,69500,4997,Data,Full-time,74497,6186
+301,James Moore,Marketing Specialist,15,Female,Asian,High School,35156,2468,Marketing,Part-time,37624,4469
+302,Sarah Young,Marketing Specialist,15,Male,Black,BSc.,73244,4536,Marketing,Full-time,77780,5934
+303,Jamie Norton,Software Engineer,3,Male,Black,High School,33518,3703,Engineering,Part-time,37221,4495
+304,Steven Christian,Data Analyst,17,Male,Hispanic,BSc.,69732,895,Data,Full-time,70627,5906
+305,John Jones,Sales Representative,0,Female,Black,MSc.,75299,2058,Sales,Full-time,77357,6598
+306,Dr. Andrew Richardson Jr.,Software Engineer,18,Male,White,High School,34039,2545,Engineering,Part-time,36584,4768
+307,Penny King,Financial Analyst,20,Male,Hispanic,MSc.,80456,438,Finance,Full-time,80894,6811
+308,Katherine Gibson,Data Analyst,8,Male,Asian,High School,31925,2068,Data,Part-time,33993,4137
+309,Sherry Smith,Data Analyst,10,Female,Asian,MSc.,84503,2120,Data,Full-time,86623,5691
+310,Sheryl Lawson,Financial Analyst,14,Male,Hispanic,BSc.,62765,4678,Finance,Full-time,67443,5872
+311,Lisa Baldwin,Sales Representative,3,Male,Asian,BSc.,60225,383,Sales,Full-time,60608,5824
+312,Heather Cook,HR Manager,20,Male,Hispanic,OND,42080,2347,HR,Contract,44427,4026
+313,Lisa Bailey,Data Analyst,10,Male,White,PhD,111300,4953,Data,Full-time,116253,6027
+314,Rebecca Morrison,Data Analyst,20,Male,Other,PhD,108070,2726,Data,Full-time,110796,6566
+315,Megan Watson,Software Engineer,15,Male,Other,BSc.,70635,244,Engineering,Full-time,70879,6164
+316,Alexandra Ramos DDS,HR Manager,19,Male,Black,High School,32618,399,HR,Part-time,33017,3192
+317,Lori Turner,Financial Analyst,15,Female,Black,BSc.,71603,1234,Finance,Full-time,72837,6966
+318,Randall Williams,Data Analyst,13,Male,Black,MSc.,77790,3431,Data,Full-time,81221,6107
+319,Leah Cole,HR Manager,12,Male,Other,OND,48546,1925,HR,Contract,50471,4931
+320,Sean Phillips,Marketing Specialist,9,Female,White,MSc.,75696,2939,Marketing,Full-time,78635,5747
+321,Joseph Williams,Marketing Specialist,16,Female,Other,BSc.,72548,3352,Marketing,Full-time,75900,5650
+322,Kaitlin Luna,Sales Representative,6,Male,Black,PhD,99298,3687,Sales,Full-time,102985,5822
+323,Kayla Gonzalez,Marketing Specialist,7,Male,Hispanic,BSc.,65176,962,Marketing,Full-time,66138,5795
+324,Troy Curry,Marketing Specialist,19,Male,White,BSc.,70113,2448,Marketing,Full-time,72561,6547
+325,Anthony Hartman,Sales Representative,18,Male,Other,BSc.,75102,1246,Sales,Full-time,76348,6732
+326,Anthony Price,HR Manager,5,Male,Black,MSc.,84198,1873,HR,Full-time,86071,5989
+327,Angela Barnett,HR Manager,20,Male,White,OND,41682,2798,HR,Contract,44480,4774
+328,Benjamin Stephens,Data Analyst,10,Male,Black,BSc.,75008,2583,Data,Full-time,77591,5646
+329,Richard Patterson,Data Analyst,7,Female,Hispanic,BSc.,70276,3559,Data,Full-time,73835,5372
+330,Erica Campbell,HR Manager,6,Female,Asian,MSc.,87976,1009,HR,Full-time,88985,5425
+331,Kimberly Rangel,Marketing Specialist,18,Male,Asian,BSc.,62854,2559,Marketing,Full-time,65413,6997
+332,Stephanie Huffman,HR Manager,14,Female,Other,MSc.,80693,2707,HR,Full-time,83400,5998
+333,Brandon Graves,Software Engineer,8,Female,Black,BSc.,66272,2191,Engineering,Full-time,68463,5812
+334,Leslie Simon,Financial Analyst,15,Male,Black,BSc.,65390,1692,Finance,Full-time,67082,5951
+335,Jennifer Cooke,Marketing Specialist,14,Male,Black,High School,37590,654,Marketing,Part-time,38244,3730
+336,Bradley Smith,Sales Representative,16,Female,Hispanic,High School,38315,1902,Sales,Part-time,40217,3781
+337,Jordan Roman,Data Analyst,7,Female,Black,BSc.,74554,658,Data,Full-time,75212,5876
+338,Dean Frazier,Financial Analyst,2,Female,Hispanic,OND,43106,3418,Finance,Contract,46524,5769
+339,Danielle Ross,Marketing Specialist,5,Male,Other,BSc.,65068,4250,Marketing,Full-time,69318,6250
+340,Victoria Miller,Software Engineer,10,Male,Hispanic,OND,47876,2908,Engineering,Contract,50784,4386
+341,Miss Carmen Crawford,HR Manager,1,Male,Other,MSc.,84028,2634,HR,Full-time,86662,5801
+342,Samantha Mckay,Data Analyst,13,Male,Other,OND,47050,1423,Data,Contract,48473,5418
+343,Amy Bradford,Sales Representative,20,Male,Asian,OND,47821,4908,Sales,Contract,52729,4392
+344,Karen Barker,Marketing Specialist,3,Male,Asian,BSc.,67569,3963,Marketing,Full-time,71532,5476
+345,Mr. Adam Stein DVM,Data Analyst,9,Female,Asian,BSc.,75429,3479,Data,Full-time,78908,5735
+346,Kimberly Wright,HR Manager,14,Male,Black,MSc.,87545,3311,HR,Full-time,90856,5989
+347,Robert Rios,Data Analyst,4,Male,Hispanic,OND,46661,762,Data,Contract,47423,5643
+348,Laura Castillo,Financial Analyst,15,Female,Black,OND,47627,31,Finance,Contract,47658,4925
+349,Monica Shaw,HR Manager,11,Male,White,High School,32805,2671,HR,Part-time,35476,3283
+350,Joann Scott,Marketing Specialist,5,Female,Asian,MSc.,76332,2032,Marketing,Full-time,78364,5077
+351,Heather Fowler,Sales Representative,14,Male,Black,OND,44287,212,Sales,Contract,44499,5809
+352,Cheryl Powers,Sales Representative,16,Female,Asian,BSc.,61012,4776,Sales,Full-time,65788,6447
+353,Makayla Rice,Data Analyst,1,Female,Hispanic,OND,45345,2257,Data,Contract,47602,4896
+354,Brandon Horn,Marketing Specialist,11,Male,Black,OND,45229,138,Marketing,Contract,45367,5042
+355,Parker Diaz,Sales Representative,4,Male,Other,BSc.,67670,2508,Sales,Full-time,70178,6847
+356,Kathryn Bryant,Software Engineer,19,Male,White,OND,48617,4972,Engineering,Contract,53589,5073
+357,William Cline,Marketing Specialist,10,Female,Black,OND,45199,1488,Marketing,Contract,46687,5817
+358,Spencer Blair,Financial Analyst,3,Male,Black,PhD,118003,1095,Finance,Full-time,119098,5411
+359,Matthew Johnson,Financial Analyst,15,Female,Hispanic,MSc.,81230,10,Finance,Full-time,81240,5481
+360,Ruth Stevens,Sales Representative,5,Male,Other,BSc.,61904,4160,Sales,Full-time,66064,5069
+361,Christopher Lyons,Sales Representative,1,Female,Black,OND,45166,4880,Sales,Contract,50046,5999
+362,Dylan Scott,Sales Representative,12,Female,Asian,High School,30367,1390,Sales,Part-time,31757,3406
+363,Diana Trujillo,Software Engineer,12,Male,Asian,OND,45507,706,Engineering,Contract,46213,5063
+364,Barbara Dominguez,Software Engineer,18,Female,Asian,PhD,102437,3345,Engineering,Full-time,105782,6596
+365,Jennifer Gutierrez,Financial Analyst,8,Male,Hispanic,High School,36467,661,Finance,Part-time,37128,3780
+366,Elizabeth Floyd,Sales Representative,1,Female,Black,BSc.,60183,1675,Sales,Full-time,61858,5211
+367,Mary Solomon,HR Manager,9,Male,Other,PhD,119896,2375,HR,Full-time,122271,6273
+368,Kathleen Howard DDS,Marketing Specialist,12,Male,Asian,MSc.,75168,2555,Marketing,Full-time,77723,6231
+369,Nicholas Rowe,Software Engineer,0,Male,Black,High School,30447,0,Engineering,Part-time,30447,4470
+370,John Duran,Software Engineer,16,Female,Asian,High School,36329,3312,Engineering,Part-time,39641,4110
+371,Lynn Smith,Financial Analyst,3,Female,Asian,High School,33548,4964,Finance,Part-time,38512,4751
+372,James Serrano,Financial Analyst,0,Female,White,High School,30864,3964,Finance,Part-time,34828,3953
+373,Stefanie Frey,HR Manager,3,Female,Black,OND,43274,1103,HR,Contract,44377,5217
+374,Javier Williams,Sales Representative,16,Female,White,OND,41778,3258,Sales,Contract,45036,5540
+375,Lisa Lee,Financial Analyst,1,Male,White,MSc.,90859,2722,Finance,Full-time,93581,5272
+376,Natasha Schultz,Software Engineer,13,Female,Other,BSc.,60380,3304,Engineering,Full-time,63684,5761
+377,Stephanie Galloway,Financial Analyst,0,Female,Asian,OND,48881,3464,Finance,Contract,52345,4257
+378,Stacy Carter,Marketing Specialist,3,Male,Other,BSc.,73718,1692,Marketing,Full-time,75410,6064
+379,Matthew Powell,Financial Analyst,7,Male,Black,OND,47089,1593,Finance,Contract,48682,5689
+380,Sherry Harrington,Sales Representative,15,Male,Black,High School,30917,3886,Sales,Part-time,34803,3306
+381,Linda Cohen,Sales Representative,3,Female,Hispanic,BSc.,62847,4946,Sales,Full-time,67793,6350
+382,Dr. Kevin Johnson,Marketing Specialist,5,Male,Black,OND,48207,1274,Marketing,Contract,49481,4592
+383,Phillip Roberts,Data Analyst,19,Female,Other,OND,41856,4011,Data,Contract,45867,5424
+384,Nathan Nguyen,Marketing Specialist,9,Male,Black,MSc.,84109,554,Marketing,Full-time,84663,6331
+385,John Martinez,Marketing Specialist,9,Female,Asian,High School,32732,21,Marketing,Part-time,32753,4554
+386,Connie Newman,Financial Analyst,16,Male,White,High School,33704,3290,Finance,Part-time,36994,3633
+387,Jay Dalton,Data Analyst,5,Male,Other,OND,47271,730,Data,Contract,48001,4574
+388,Cody Crawford,Software Engineer,20,Female,Other,MSc.,87057,1505,Engineering,Full-time,88562,5833
+389,William Williams,HR Manager,17,Female,Black,BSc.,66626,4965,HR,Full-time,71591,5954
+390,Theresa Trevino,HR Manager,4,Male,Black,BSc.,62276,422,HR,Full-time,62698,5665
+391,Derrick Anderson,Sales Representative,2,Male,White,OND,40166,1123,Sales,Contract,41289,5552
+392,Alexis Cole,Marketing Specialist,1,Female,Black,MSc.,89800,2210,Marketing,Full-time,92010,5684
+393,Isaac Melton,Software Engineer,1,Male,Asian,High School,33128,4131,Engineering,Part-time,37259,4064
+394,Dr. Seth Collins,Data Analyst,9,Female,Hispanic,High School,34553,924,Data,Part-time,35477,4053
+395,Eddie Carter,Financial Analyst,18,Female,White,BSc.,68842,613,Finance,Full-time,69455,6940
+396,Thomas Chambers,Sales Representative,1,Female,Hispanic,OND,41820,4752,Sales,Contract,46572,4283
+397,Jacqueline Mcintyre,Sales Representative,5,Female,Black,BSc.,66922,923,Sales,Full-time,67845,5036
+398,Richard Lucero,Software Engineer,18,Female,Other,BSc.,73714,1371,Engineering,Full-time,75085,6414
+399,Vickie David,Data Analyst,13,Male,Other,BSc.,69349,2512,Data,Full-time,71861,5416
+400,Michael Brown DDS,Sales Representative,3,Male,White,OND,40155,4338,Sales,Contract,44493,4984
+401,Mark Jennings,Software Engineer,5,Female,Asian,MSc.,83786,2075,Engineering,Full-time,85861,5346
+402,Michael Davis,Sales Representative,8,Female,Hispanic,High School,34633,778,Sales,Part-time,35411,4583
+403,Anthony Drake,Financial Analyst,9,Female,White,High School,37751,365,Finance,Part-time,38116,3601
+404,Jasmine Li,Data Analyst,1,Female,White,BSc.,75233,1274,Data,Full-time,76507,5115
+405,Jeanette Ortiz,Financial Analyst,6,Female,Asian,High School,31579,3236,Finance,Part-time,34815,4891
+406,Lisa Flores,HR Manager,14,Female,Black,OND,46705,4466,HR,Contract,51171,5282
+407,Kevin Norton,Financial Analyst,13,Female,Hispanic,OND,43530,848,Finance,Contract,44378,5596
+408,Lauren Anderson,Financial Analyst,13,Male,Asian,MSc.,75152,1202,Finance,Full-time,76354,5688
+409,Elizabeth Craig,Data Analyst,19,Male,White,High School,38595,1489,Data,Part-time,40084,4040
+410,Katelyn Garcia,Data Analyst,16,Male,Asian,High School,30144,4073,Data,Part-time,34217,3684
+411,William Daniels,Software Engineer,11,Male,Other,High School,33569,2031,Engineering,Part-time,35600,3429
+412,Victoria Morgan,Software Engineer,4,Male,Hispanic,High School,37526,1595,Engineering,Part-time,39121,3303
+413,Lisa Wagner,Marketing Specialist,3,Male,Black,OND,40935,705,Marketing,Contract,41640,5636
+414,Jonathan Calhoun,Marketing Specialist,5,Female,Hispanic,BSc.,60562,2958,Marketing,Full-time,63520,5685
+415,Craig Wilson,Marketing Specialist,10,Female,Other,MSc.,76574,1843,Marketing,Full-time,78417,6781
+416,Teresa Brown,Marketing Specialist,4,Male,Asian,MSc.,84477,4519,Marketing,Full-time,88996,6957
+417,Tommy Hicks,Sales Representative,14,Female,Other,BSc.,72815,1958,Sales,Full-time,74773,5770
+418,Gregory Ramsey,Sales Representative,0,Female,Black,BSc.,61334,524,Sales,Full-time,61858,6463
+419,Mark Gomez,Data Analyst,17,Female,White,High School,37523,2548,Data,Part-time,40071,4376
+420,Timothy Vaughn,Software Engineer,17,Female,Asian,BSc.,60138,3486,Engineering,Full-time,63624,5043
+421,Charles Lopez,Data Analyst,0,Female,Other,High School,35714,2401,Data,Part-time,38115,4892
+422,Ryan Evans,Marketing Specialist,16,Female,Asian,High School,36097,2339,Marketing,Part-time,38436,3952
+423,Timothy Hill,Data Analyst,17,Male,White,PhD,112489,2862,Data,Full-time,115351,6394
+424,Julia Cardenas,Marketing Specialist,4,Female,Other,BSc.,71968,1410,Marketing,Full-time,73378,5747
+425,Edward White,Marketing Specialist,14,Male,Hispanic,BSc.,70516,1515,Marketing,Full-time,72031,6359
+426,Jaime Spears,Software Engineer,5,Female,Hispanic,OND,45607,1152,Engineering,Contract,46759,5459
+427,Meredith White,Marketing Specialist,6,Male,Black,PhD,118374,624,Marketing,Full-time,118998,5481
+428,Maria Douglas,Marketing Specialist,9,Male,White,High School,32728,1649,Marketing,Part-time,34377,4415
+429,Elizabeth Cox,Financial Analyst,18,Male,Other,BSc.,62777,2052,Finance,Full-time,64829,5672
+430,Elizabeth Kelley,Financial Analyst,6,Female,Other,OND,46380,4873,Finance,Contract,51253,4502
+431,Molly Knight,HR Manager,5,Female,White,High School,33529,1991,HR,Part-time,35520,4796
+432,Denise Estes,Data Analyst,14,Male,Black,PhD,110105,3459,Data,Full-time,113564,5457
+433,Michael Brown,Software Engineer,7,Male,Black,High School,38490,3230,Engineering,Part-time,41720,3327
+434,Dillon Cox,Software Engineer,13,Male,White,MSc.,87708,2049,Engineering,Full-time,89757,6004
+435,Shari Hughes,Software Engineer,15,Male,White,BSc.,66623,4416,Engineering,Full-time,71039,6828
+436,Dominique Schmidt,HR Manager,15,Male,Asian,MSc.,77475,1023,HR,Full-time,78498,5884
+437,Vincent Jones,Data Analyst,2,Male,Other,High School,35608,3696,Data,Part-time,39304,4638
+438,Ryan Henry,Marketing Specialist,19,Male,Hispanic,High School,32400,2884,Marketing,Part-time,35284,3431
+439,Stacey Randall,Financial Analyst,4,Male,White,BSc.,73890,3498,Finance,Full-time,77388,5050
+440,Christopher Paul,HR Manager,15,Female,Hispanic,OND,41636,3685,HR,Contract,45321,5869
+441,Kenneth Ramirez,Financial Analyst,4,Female,Other,PhD,96494,3380,Finance,Full-time,99874,6711
+442,James Henry,Software Engineer,7,Male,Hispanic,High School,36114,922,Engineering,Part-time,37036,3541
+443,Lori Olson,Software Engineer,13,Female,Black,High School,34692,2536,Engineering,Part-time,37228,4619
+444,Mary Myers,Software Engineer,2,Male,Asian,High School,33978,569,Engineering,Part-time,34547,4932
+445,James Burke,Marketing Specialist,12,Male,Black,BSc.,64027,1750,Marketing,Full-time,65777,5267
+446,Marcus Kane,Data Analyst,12,Male,White,MSc.,78418,2454,Data,Full-time,80872,6671
+447,Michael Parrish,HR Manager,18,Male,Asian,MSc.,84854,4015,HR,Full-time,88869,5111
+448,Stephanie Smith,Financial Analyst,18,Female,Black,MSc.,80123,1415,Finance,Full-time,81538,5465
+449,Katrina Collier,Sales Representative,20,Female,Black,High School,32666,151,Sales,Part-time,32817,4725
+450,Bryan Mclaughlin,Marketing Specialist,9,Female,White,OND,46034,1888,Marketing,Contract,47922,4689
+451,Beverly Parker MD,HR Manager,1,Female,White,OND,42772,3598,HR,Contract,46370,4981
+452,Sarah Freeman,Software Engineer,13,Female,Black,High School,37741,4608,Engineering,Part-time,42349,4905
+453,Vanessa Pitts,Data Analyst,12,Male,Asian,BSc.,71764,3213,Data,Full-time,74977,6428
+454,Susan Woodard,Financial Analyst,9,Male,Hispanic,BSc.,63875,3898,Finance,Full-time,67773,5750
+455,Richard Miller,Marketing Specialist,8,Male,Asian,High School,32972,2006,Marketing,Part-time,34978,4133
+456,Jesse Johnson,HR Manager,1,Female,Black,High School,33949,3189,HR,Part-time,37138,3806
+457,Ann Livingston,Financial Analyst,10,Female,Asian,BSc.,62210,1488,Finance,Full-time,63698,6860
+458,Wendy Kirk,Data Analyst,11,Male,Hispanic,PhD,111447,2589,Data,Full-time,114036,6166
+459,Catherine Padilla,Software Engineer,17,Female,Asian,MSc.,77008,1717,Engineering,Full-time,78725,5871
+460,Jessica Lawrence,Financial Analyst,3,Male,Black,PhD,104224,1576,Finance,Full-time,105800,6003
+461,Frank Horton,HR Manager,3,Male,Hispanic,BSc.,71417,497,HR,Full-time,71914,6760
+462,Paul Reese,Marketing Specialist,0,Female,Other,OND,47253,3820,Marketing,Contract,51073,5527
+463,Lee Reynolds,Data Analyst,14,Female,White,PhD,98164,1004,Data,Full-time,99168,6706
+464,Carl Campos,Marketing Specialist,16,Female,White,BSc.,69703,1749,Marketing,Full-time,71452,5848
+465,Victoria Reed,Financial Analyst,15,Male,Hispanic,PhD,99507,2712,Finance,Full-time,102219,5442
+466,Michael Parker,Software Engineer,7,Male,Other,High School,33251,3051,Engineering,Part-time,36302,4730
+467,Alexander West,HR Manager,5,Male,White,High School,33895,3573,HR,Part-time,37468,3482
+468,Brian Hill,HR Manager,12,Female,Other,OND,43483,1963,HR,Contract,45446,4062
+469,Angel Morris,HR Manager,18,Male,White,High School,36604,744,HR,Part-time,37348,3121
+470,Andrea Dalton,Financial Analyst,6,Male,Black,MSc.,80948,2081,Finance,Full-time,83029,5463
+471,Christopher Vaughn,Sales Representative,0,Male,Asian,High School,31003,2432,Sales,Part-time,33435,3781
+472,Rachel King,Data Analyst,8,Male,Asian,OND,47862,760,Data,Contract,48622,4232
+473,Jasmine Baker,Sales Representative,10,Male,Black,OND,48778,2913,Sales,Contract,51691,4748
+474,Kara Brown,Data Analyst,7,Female,Other,MSc.,83889,3983,Data,Full-time,87872,5840
+475,Teresa Mckinney,Software Engineer,18,Female,Other,High School,34943,3431,Engineering,Part-time,38374,3176
+476,Eric Brown,Financial Analyst,14,Female,Asian,BSc.,66880,2970,Finance,Full-time,69850,5184
+477,Emily Hall,Marketing Specialist,12,Female,Other,OND,47535,1755,Marketing,Contract,49290,5573
+478,Scott Davis,Financial Analyst,10,Male,Hispanic,OND,46685,4886,Finance,Contract,51571,4175
+479,Ronald Mcguire,Marketing Specialist,9,Female,Other,MSc.,79830,3237,Marketing,Full-time,83067,5742
+480,Stephanie Chapman,Sales Representative,7,Male,Black,MSc.,89927,399,Sales,Full-time,90326,5558
+481,Kyle Juarez,Data Analyst,7,Female,Other,High School,30330,2374,Data,Part-time,32704,4448
+482,Jeffery Warren,Data Analyst,16,Male,Hispanic,OND,44444,2551,Data,Contract,46995,5296
+483,Cheryl Murphy,Marketing Specialist,13,Female,White,BSc.,72538,2939,Marketing,Full-time,75477,6197
+484,Megan Gonzales,Data Analyst,6,Female,Black,BSc.,73960,2897,Data,Full-time,76857,5224
+485,Bryan Bradley,Software Engineer,19,Female,Black,BSc.,75197,3294,Engineering,Full-time,78491,5442
+486,Kathy Stewart,HR Manager,18,Female,White,High School,36125,3386,HR,Part-time,39511,4555
+487,Christopher Ramirez,HR Manager,16,Female,Other,OND,47938,2987,HR,Contract,50925,4378
+488,Daniel Cox,Marketing Specialist,2,Female,Other,MSc.,77895,344,Marketing,Full-time,78239,6576
+489,Christopher Dunn MD,Sales Representative,17,Female,Hispanic,MSc.,76154,4452,Sales,Full-time,80606,5972
+490,Brian Wright,Financial Analyst,11,Male,White,MSc.,83794,2218,Finance,Full-time,86012,6964
+491,Emily Fox DDS,HR Manager,9,Female,Black,High School,30575,2860,HR,Part-time,33435,4553
+492,Timothy Hall,Sales Representative,16,Female,Hispanic,High School,34012,1979,Sales,Part-time,35991,4774
+493,Chelsea Brown,Software Engineer,1,Male,Asian,OND,43554,886,Engineering,Contract,44440,4571
+494,Kimberly Burke,HR Manager,12,Female,Hispanic,High School,33374,1669,HR,Part-time,35043,3688
+495,Jackie Hodges,Marketing Specialist,14,Male,Asian,BSc.,64667,91,Marketing,Full-time,64758,6060
+496,Olivia Barker,HR Manager,11,Male,Asian,BSc.,65892,2219,HR,Full-time,68111,5627
+497,Patrick Saunders,Sales Representative,1,Male,Hispanic,High School,38177,4911,Sales,Part-time,43088,3182
+498,Ryan Howard,Sales Representative,20,Male,Hispanic,High School,33140,3035,Sales,Part-time,36175,3031
+499,Dale Dillon,Sales Representative,16,Female,Asian,BSc.,72934,1262,Sales,Full-time,74196,6800
+500,Heather Rogers,Data Analyst,4,Male,Other,OND,40152,3227,Data,Contract,43379,4616
+501,Susan Burns,Sales Representative,14,Male,White,PhD,116097,2419,Sales,Full-time,118516,5751
+502,Heather Love,Software Engineer,20,Male,Black,BSc.,74726,2707,Engineering,Full-time,77433,5992
+503,Christina Shaw,Marketing Specialist,9,Male,Other,OND,42754,3007,Marketing,Contract,45761,5215
+504,Deborah Rich,Data Analyst,18,Male,Asian,BSc.,63451,2020,Data,Full-time,65471,5165
+505,Adrian Hill,Sales Representative,6,Male,White,High School,30847,469,Sales,Part-time,31316,4797
+506,Charles Barnes,Financial Analyst,17,Female,Other,BSc.,71169,1610,Finance,Full-time,72779,5812
+507,Jason Mendoza,Sales Representative,10,Female,Hispanic,MSc.,79470,1778,Sales,Full-time,81248,5820
+508,Todd Morgan,Sales Representative,4,Female,White,MSc.,88986,1727,Sales,Full-time,90713,6303
+509,Katherine Johnson,Data Analyst,12,Male,Asian,MSc.,83493,3975,Data,Full-time,87468,6464
+510,Alyssa Wilson,Data Analyst,3,Female,Black,High School,34177,3818,Data,Part-time,37995,4838
+511,Christina Johnson,Sales Representative,18,Male,Asian,BSc.,74387,1713,Sales,Full-time,76100,5406
+512,Mr. Jacob Sanders,Financial Analyst,17,Female,Hispanic,High School,33697,23,Finance,Part-time,33720,4789
+513,Juan Vazquez,Financial Analyst,2,Female,White,OND,43475,4072,Finance,Contract,47547,4148
+514,Katie Evans,Financial Analyst,14,Male,Black,OND,43518,840,Finance,Contract,44358,5636
+515,Anthony Harding,Financial Analyst,1,Male,Other,High School,30897,1965,Finance,Part-time,32862,4917
+516,Daryl Taylor,Financial Analyst,2,Male,Asian,OND,40264,2183,Finance,Contract,42447,4781
+517,Abigail Gentry,Software Engineer,6,Male,Asian,High School,35062,1875,Engineering,Part-time,36937,3803
+518,Alicia Sanford,HR Manager,16,Male,Other,PhD,113147,692,HR,Full-time,113839,5316
+519,Robert Vaughan,Marketing Specialist,7,Female,Other,BSc.,65161,2351,Marketing,Full-time,67512,6819
+520,Michael Meyer,HR Manager,13,Female,Black,High School,34137,2393,HR,Part-time,36530,4205
+521,Julia Morgan,Software Engineer,19,Female,Black,MSc.,75361,371,Engineering,Full-time,75732,5627
+522,Katherine Dixon,Data Analyst,10,Female,Hispanic,OND,47795,3852,Data,Contract,51647,5269
+523,Christopher Escobar,Software Engineer,10,Female,Hispanic,PhD,98907,3926,Engineering,Full-time,102833,6017
+524,Heidi Rivera,HR Manager,14,Male,Asian,OND,47014,2100,HR,Contract,49114,5364
+525,Yolanda Davis,Marketing Specialist,11,Female,Asian,OND,43423,4543,Marketing,Contract,47966,5459
+526,Olivia Moreno,Marketing Specialist,5,Male,Asian,MSc.,87120,1184,Marketing,Full-time,88304,5324
+527,Kaitlyn Cobb,Financial Analyst,0,Female,White,OND,45782,356,Finance,Contract,46138,5679
+528,Diane White,Sales Representative,11,Male,White,MSc.,76005,556,Sales,Full-time,76561,5736
+529,Curtis Gibson,Financial Analyst,16,Male,Black,OND,45712,2867,Finance,Contract,48579,5878
+530,Jacqueline Berger,Software Engineer,11,Female,Asian,High School,33115,4719,Engineering,Part-time,37834,4963
+531,Brian Santos,Data Analyst,16,Male,White,BSc.,75901,4856,Data,Full-time,80757,6799
+532,Drew Gross,HR Manager,15,Male,White,BSc.,71264,2667,HR,Full-time,73931,6975
+533,Jason Salinas,Financial Analyst,5,Male,Asian,High School,37277,3685,Finance,Part-time,40962,3033
+534,Christopher Allen,HR Manager,20,Male,Black,OND,44535,621,HR,Contract,45156,4020
+535,Michelle Austin,Marketing Specialist,1,Male,Black,OND,46789,3786,Marketing,Contract,50575,4644
+536,Jeremy Scott,Marketing Specialist,10,Female,Asian,OND,44703,3850,Marketing,Contract,48553,5761
+537,James Palmer,Marketing Specialist,15,Female,White,MSc.,88726,900,Marketing,Full-time,89626,5543
+538,Robert Cobb,Marketing Specialist,5,Male,Asian,High School,31740,2656,Marketing,Part-time,34396,3421
+539,Melinda Jones,Marketing Specialist,0,Female,White,High School,38973,2197,Marketing,Part-time,41170,3309
+540,Rachel Warren,Software Engineer,16,Female,Hispanic,OND,41600,810,Engineering,Contract,42410,5443
+541,Steven Ray,Financial Analyst,7,Female,White,BSc.,72040,1807,Finance,Full-time,73847,6027
+542,David Johnson,Marketing Specialist,14,Female,Black,MSc.,79082,3205,Marketing,Full-time,82287,5230
+543,Henry Vaughn,HR Manager,10,Male,Asian,OND,44385,4721,HR,Contract,49106,4244
+544,Ryan Parker,Data Analyst,8,Female,Black,BSc.,61617,4560,Data,Full-time,66177,6849
+545,Robert Martinez,HR Manager,0,Male,Other,OND,44383,137,HR,Contract,44520,5444
+546,Darren King,Data Analyst,17,Male,Black,BSc.,62972,2747,Data,Full-time,65719,5559
+547,Erica Olson,Sales Representative,15,Female,Other,High School,31682,4182,Sales,Part-time,35864,4480
+548,Dawn Brown,HR Manager,10,Male,Asian,High School,33760,1350,HR,Part-time,35110,4244
+549,Bruce Allen,Sales Representative,0,Male,Black,BSc.,64265,1470,Sales,Full-time,65735,6347
+550,Deborah Armstrong,Sales Representative,2,Female,Asian,OND,40370,1245,Sales,Contract,41615,5668
+551,Crystal Parsons,Data Analyst,4,Male,Other,MSc.,78591,3849,Data,Full-time,82440,5262
+552,Kevin Mckay,Software Engineer,5,Male,Other,PhD,99388,1313,Engineering,Full-time,100701,6859
+553,Gabrielle Trevino,Sales Representative,11,Female,Hispanic,BSc.,73004,3128,Sales,Full-time,76132,5677
+554,Karina Whitney,HR Manager,10,Male,White,High School,38027,878,HR,Part-time,38905,4652
+555,Jason Velez,HR Manager,6,Female,Other,MSc.,84516,1893,HR,Full-time,86409,6056
+556,James Miller,Software Engineer,7,Female,Black,OND,48263,3290,Engineering,Contract,51553,4124
+557,Pamela Rogers,Data Analyst,1,Male,Hispanic,BSc.,62603,4834,Data,Full-time,67437,5390
+558,Kenneth Zavala,Marketing Specialist,11,Male,White,MSc.,90309,1620,Marketing,Full-time,91929,5580
+559,Leah Baker,Software Engineer,17,Female,White,BSc.,62272,441,Engineering,Full-time,62713,5282
+560,Allison Howard,Financial Analyst,1,Female,Hispanic,PhD,96680,443,Finance,Full-time,97123,5714
+561,Carolyn Alvarado,Software Engineer,11,Female,Asian,OND,45559,683,Engineering,Contract,46242,5395
+562,Alexander Caldwell,Software Engineer,14,Male,White,BSc.,71717,1852,Engineering,Full-time,73569,5871
+563,Brooke Hogan,Marketing Specialist,4,Female,Hispanic,MSc.,89594,3237,Marketing,Full-time,92831,5556
+564,Michelle Jackson,Software Engineer,2,Male,Hispanic,BSc.,71487,3155,Engineering,Full-time,74642,6347
+565,Nicholas Wright,Data Analyst,6,Male,Asian,MSc.,87545,4119,Data,Full-time,91664,6853
+566,Kenneth Brown,Marketing Specialist,12,Male,Black,BSc.,64818,910,Marketing,Full-time,65728,5080
+567,James Williams,Financial Analyst,16,Female,Black,BSc.,68815,4337,Finance,Full-time,73152,5705
+568,Mrs. Kaitlyn Jackson,Software Engineer,20,Female,Asian,BSc.,63726,1331,Engineering,Full-time,65057,6926
+569,Sergio Taylor,HR Manager,7,Male,Asian,BSc.,62901,708,HR,Full-time,63609,6471
+570,Ryan West,Financial Analyst,6,Male,Asian,High School,31422,3483,Finance,Part-time,34905,3101
+571,Dr. Troy Rhodes,HR Manager,9,Male,Hispanic,PhD,94039,4183,HR,Full-time,98222,6865
+572,Bonnie Briggs,Marketing Specialist,2,Male,Hispanic,High School,30165,4441,Marketing,Part-time,34606,4018
+573,James Pham,Sales Representative,0,Female,Other,High School,32177,997,Sales,Part-time,33174,4025
+574,Andrea Greene,Software Engineer,17,Female,Black,PhD,116983,2089,Engineering,Full-time,119072,6588
+575,Katherine Bridges,Financial Analyst,6,Male,Black,BSc.,71922,4493,Finance,Full-time,76415,6711
+576,Kayla Smith,Financial Analyst,10,Female,White,PhD,108603,2353,Finance,Full-time,110956,6231
+577,Kristina Hall,Financial Analyst,19,Female,Other,BSc.,62571,2557,Finance,Full-time,65128,5376
+578,Brian Martinez MD,Marketing Specialist,13,Female,Black,MSc.,80224,1970,Marketing,Full-time,82194,5812
+579,Thomas Hayes,Financial Analyst,7,Female,White,OND,45535,4481,Finance,Contract,50016,5628
+580,Natalie Schneider,Software Engineer,5,Female,Other,High School,38407,599,Engineering,Part-time,39006,4486
+581,Jose Miller,Data Analyst,20,Male,Black,BSc.,66634,2306,Data,Full-time,68940,6592
+582,Michael Baker,Financial Analyst,11,Male,Other,High School,32039,2427,Finance,Part-time,34466,3721
+583,Deborah Brooks,Marketing Specialist,0,Male,Hispanic,OND,48372,2775,Marketing,Contract,51147,5360
+584,Laura Morgan,Sales Representative,8,Female,Hispanic,MSc.,83033,1330,Sales,Full-time,84363,5362
+585,Andrew Vincent,Software Engineer,19,Female,White,BSc.,75098,923,Engineering,Full-time,76021,6197
+586,Jennifer Hartman,Data Analyst,7,Male,Other,High School,36296,1159,Data,Part-time,37455,3799
+587,Susan Edwards,Marketing Specialist,9,Female,Asian,OND,43517,4199,Marketing,Contract,47716,4580
+588,Emma Miller,Marketing Specialist,4,Male,Hispanic,High School,30414,2387,Marketing,Part-time,32801,4187
+589,Erin Travis,Financial Analyst,12,Male,Hispanic,High School,35177,3460,Finance,Part-time,38637,4154
+590,Aaron Martin,Sales Representative,7,Female,Asian,MSc.,84389,1121,Sales,Full-time,85510,6516
+591,Tanya Becker,Software Engineer,9,Male,Other,OND,44428,3798,Engineering,Contract,48226,4990
+592,Heidi Martinez,Data Analyst,11,Male,Black,MSc.,75732,2405,Data,Full-time,78137,5934
+593,Kimberly Bush,Sales Representative,19,Male,Asian,BSc.,73417,3022,Sales,Full-time,76439,5336
+594,Thomas Nelson,Data Analyst,1,Male,White,BSc.,71234,3782,Data,Full-time,75016,6971
+595,Samantha Gray,HR Manager,9,Male,Black,BSc.,69777,2458,HR,Full-time,72235,6874
+596,Matthew Patel,Marketing Specialist,15,Female,Hispanic,OND,41719,1492,Marketing,Contract,43211,5617
+597,Martin Greene,Data Analyst,1,Male,White,High School,32674,644,Data,Part-time,33318,3628
+598,Heather Phillips,Data Analyst,9,Male,Black,BSc.,73519,705,Data,Full-time,74224,6271
+599,Mr. Jonathan Brooks,Sales Representative,4,Male,Other,BSc.,70362,1621,Sales,Full-time,71983,6543
+600,Claudia Powers,Financial Analyst,20,Male,Black,OND,43022,561,Finance,Contract,43583,4468
+601,Karen Rivera,HR Manager,2,Male,White,OND,47969,491,HR,Contract,48460,5807
+602,Monique Freeman,HR Manager,2,Male,Other,OND,42054,4532,HR,Contract,46586,4052
+603,Sandra Alexander,Sales Representative,18,Male,Asian,High School,34709,1067,Sales,Part-time,35776,3322
+604,Angela Singleton,Sales Representative,18,Male,Hispanic,BSc.,75882,2404,Sales,Full-time,78286,6382
+605,Jon Morris,HR Manager,18,Male,Asian,MSc.,77387,1607,HR,Full-time,78994,5268
+606,Sandra Banks,Marketing Specialist,5,Female,Asian,OND,48812,4558,Marketing,Contract,53370,4298
+607,Jacqueline Richards,Marketing Specialist,11,Male,Black,PhD,94230,95,Marketing,Full-time,94325,6075
+608,Dominic Williams,Software Engineer,16,Female,Black,OND,40755,1699,Engineering,Contract,42454,4723
+609,Ann Barker,Financial Analyst,9,Female,Asian,OND,43458,437,Finance,Contract,43895,4729
+610,David Bryant,Marketing Specialist,18,Male,Asian,BSc.,69467,3107,Marketing,Full-time,72574,6594
+611,Alexandra Taylor,Marketing Specialist,12,Male,Black,OND,48006,2471,Marketing,Contract,50477,5463
+612,Joseph Powers,Financial Analyst,8,Female,White,PhD,91225,4468,Finance,Full-time,95693,5930
+613,Aaron Mullins,Financial Analyst,18,Female,White,MSc.,81738,3414,Finance,Full-time,85152,6369
+614,Amy Lee,Software Engineer,16,Female,White,High School,36763,2765,Engineering,Part-time,39528,3445
+615,Beth Thomas,Software Engineer,8,Male,Black,BSc.,69219,2813,Engineering,Full-time,72032,5125
+616,Brett Wang,Marketing Specialist,20,Female,White,OND,41737,3723,Marketing,Contract,45460,5364
+617,Lisa Thompson,Data Analyst,20,Male,Other,BSc.,70028,2061,Data,Full-time,72089,6102
+618,Kyle Silva,Marketing Specialist,11,Male,Black,OND,48956,3267,Marketing,Contract,52223,5872
+619,Mark Kramer,Data Analyst,16,Male,Other,High School,34423,1116,Data,Part-time,35539,4147
+620,Amanda Stewart,Data Analyst,17,Female,White,MSc.,82446,3062,Data,Full-time,85508,6941
+621,Heather Cohen,HR Manager,8,Male,Other,PhD,107362,428,HR,Full-time,107790,6710
+622,Christopher Morris,Data Analyst,6,Male,Black,High School,33351,2602,Data,Part-time,35953,3579
+623,Richard Morton,Financial Analyst,4,Female,Hispanic,MSc.,85910,2838,Finance,Full-time,88748,5677
+624,John Pierce,Software Engineer,14,Male,Black,BSc.,69971,4903,Engineering,Full-time,74874,6965
+625,Isabel Schultz,HR Manager,15,Female,Other,BSc.,70176,1555,HR,Full-time,71731,5182
+626,Jamie Barr,Software Engineer,13,Female,Hispanic,MSc.,88046,4169,Engineering,Full-time,92215,6344
+627,Adam Washington,Financial Analyst,15,Male,Asian,OND,48511,142,Finance,Contract,48653,5082
+628,Christine Osborne,Data Analyst,13,Female,Asian,BSc.,65279,1600,Data,Full-time,66879,6024
+629,James Richards,Software Engineer,9,Male,Black,PhD,112998,4277,Engineering,Full-time,117275,5941
+630,Anthony Pierce,Software Engineer,5,Male,Other,OND,42885,726,Engineering,Contract,43611,5619
+631,Patricia Pope,Financial Analyst,16,Male,White,OND,40415,3492,Finance,Contract,43907,5512
+632,Mr. Adam Nelson,Financial Analyst,19,Female,Asian,MSc.,90401,1724,Finance,Full-time,92125,5230
+633,Diane Walker,Data Analyst,18,Male,Hispanic,MSc.,81660,3126,Data,Full-time,84786,6890
+634,Amber Ramsey,HR Manager,15,Female,Hispanic,MSc.,84464,4089,HR,Full-time,88553,5198
+635,Elizabeth Morgan,Financial Analyst,17,Male,White,BSc.,69504,3595,Finance,Full-time,73099,5916
+636,Calvin Esparza,Data Analyst,9,Male,Other,High School,35301,2547,Data,Part-time,37848,4901
+637,Charles Shaw,Marketing Specialist,1,Female,White,PhD,118323,144,Marketing,Full-time,118467,5588
+638,Matthew Welch,Software Engineer,17,Male,Asian,MSc.,80924,1923,Engineering,Full-time,82847,5840
+639,Dominique Mcmahon,HR Manager,9,Female,Other,MSc.,88140,3736,HR,Full-time,91876,6628
+640,Brianna Estes,Financial Analyst,14,Male,Asian,High School,30854,3735,Finance,Part-time,34589,4424
+641,Benjamin Carpenter,Software Engineer,7,Male,Black,MSc.,80531,1223,Engineering,Full-time,81754,6272
+642,Jennifer Mccullough,Data Analyst,3,Female,Other,BSc.,68025,676,Data,Full-time,68701,6561
+643,Melanie Wade,Software Engineer,1,Male,Black,BSc.,61331,2614,Engineering,Full-time,63945,5965
+644,Krista Waters,Financial Analyst,1,Male,Black,BSc.,68679,4113,Finance,Full-time,72792,6754
+645,Kimberly Levy,Software Engineer,17,Male,Other,OND,46678,1707,Engineering,Contract,48385,4780
+646,Lori Griffith,Sales Representative,8,Male,Hispanic,MSc.,76378,112,Sales,Full-time,76490,6079
+647,Rachael Rhodes,Sales Representative,9,Female,White,BSc.,69399,2931,Sales,Full-time,72330,6062
+648,Heidi Stewart,Data Analyst,10,Male,Hispanic,High School,31879,708,Data,Part-time,32587,3199
+649,Cathy Schroeder,Software Engineer,4,Male,Other,High School,31036,2117,Engineering,Part-time,33153,4110
+650,Deborah Payne,Financial Analyst,1,Female,Black,BSc.,62245,103,Finance,Full-time,62348,6703
+651,Barbara Parker,Financial Analyst,2,Female,Hispanic,BSc.,66029,4869,Finance,Full-time,70898,6536
+652,Daniel Morris,Marketing Specialist,8,Male,Black,OND,40551,1113,Marketing,Contract,41664,5444
+653,Brittney Miles,Data Analyst,7,Male,White,MSc.,80269,1346,Data,Full-time,81615,6786
+654,Bryan Jones,Software Engineer,7,Male,Other,MSc.,87522,2767,Engineering,Full-time,90289,6336
+655,Lisa Lee,Data Analyst,7,Female,Asian,OND,40382,2206,Data,Contract,42588,4101
+656,Jacob Maldonado,Marketing Specialist,10,Male,Other,High School,30778,4733,Marketing,Part-time,35511,3620
+657,Donald Montoya,Software Engineer,8,Male,Asian,PhD,103040,854,Engineering,Full-time,103894,6705
+658,Victoria Anderson,Marketing Specialist,18,Female,White,MSc.,80617,3705,Marketing,Full-time,84322,6381
+659,James Heath,HR Manager,19,Male,White,BSc.,66686,670,HR,Full-time,67356,6936
+660,George Bates,HR Manager,17,Female,Black,High School,35558,2168,HR,Part-time,37726,3534
+661,Daniel Walker,Software Engineer,8,Male,Other,BSc.,74373,2408,Engineering,Full-time,76781,5584
+662,Jon Rivers,Data Analyst,3,Female,White,OND,40974,3741,Data,Contract,44715,4217
+663,Brian Yates,HR Manager,8,Male,White,BSc.,71596,3558,HR,Full-time,75154,5323
+664,Morgan Kent,Software Engineer,7,Female,Hispanic,High School,30686,1308,Engineering,Part-time,31994,3937
+665,Kristen Harris,HR Manager,12,Male,Black,BSc.,64089,1638,HR,Full-time,65727,6237
+666,Stacey Bennett,Marketing Specialist,0,Female,White,OND,48568,1360,Marketing,Contract,49928,4526
+667,Tiffany Rodriguez,Sales Representative,7,Male,White,BSc.,67880,2180,Sales,Full-time,70060,6683
+668,Morgan Gonzales,Data Analyst,11,Female,White,MSc.,82250,4059,Data,Full-time,86309,5883
+669,Jennifer Sanchez,Software Engineer,16,Male,Black,PhD,91825,1458,Engineering,Full-time,93283,6270
+670,Nicole Garcia,Marketing Specialist,10,Male,White,BSc.,72093,4464,Marketing,Full-time,76557,6794
+671,Lauren Sanchez,HR Manager,3,Male,White,PhD,102276,4783,HR,Full-time,107059,6766
+672,Carolyn Roth,Marketing Specialist,18,Male,Asian,PhD,119712,4229,Marketing,Full-time,123941,6254
+673,Dr. Robert Pierce,Data Analyst,6,Male,Asian,MSc.,84678,4202,Data,Full-time,88880,5523
+674,Erica Walsh,Software Engineer,2,Male,Hispanic,BSc.,65598,579,Engineering,Full-time,66177,5098
+675,Deanna Johnston,Data Analyst,8,Female,Asian,BSc.,61919,2447,Data,Full-time,64366,6815
+676,Bradley Carlson,Sales Representative,3,Male,Black,PhD,113590,4357,Sales,Full-time,117947,6134
+677,Andrea Powell,Data Analyst,11,Female,Hispanic,BSc.,69167,3389,Data,Full-time,72556,5889
+678,Chelsea Ford,Marketing Specialist,6,Female,White,OND,44459,4533,Marketing,Contract,48992,5150
+679,Stephen Harmon,Marketing Specialist,17,Male,White,BSc.,70491,3155,Marketing,Full-time,73646,6505
+680,Sara Thomas,Financial Analyst,2,Male,Hispanic,MSc.,86017,4480,Finance,Full-time,90497,5578
+681,Robin Walker,Financial Analyst,13,Male,Hispanic,BSc.,72475,4887,Finance,Full-time,77362,6338
+682,Catherine Thomas,Marketing Specialist,10,Male,White,OND,48888,4766,Marketing,Contract,53654,4382
+683,Michael Johnson,Software Engineer,8,Female,White,High School,36542,1799,Engineering,Part-time,38341,4894
+684,Anthony Castaneda,Sales Representative,1,Female,Hispanic,MSc.,77105,2335,Sales,Full-time,79440,5226
+685,Randall Frey,Data Analyst,16,Female,White,BSc.,68360,3002,Data,Full-time,71362,5866
+686,Judy Thomas,Marketing Specialist,6,Female,Other,High School,35425,2624,Marketing,Part-time,38049,3331
+687,Brianna Long,Data Analyst,17,Female,Black,MSc.,76823,3503,Data,Full-time,80326,5133
+688,Jasmine Ellis,Financial Analyst,13,Male,Hispanic,BSc.,67284,2015,Finance,Full-time,69299,5149
+689,Rachael Alvarez,Sales Representative,0,Male,Black,BSc.,73326,1083,Sales,Full-time,74409,5953
+690,Kristen Jennings,Software Engineer,7,Female,Asian,OND,45125,2586,Engineering,Contract,47711,4527
+691,Alexander Greene,HR Manager,20,Male,Asian,High School,38485,337,HR,Part-time,38822,4409
+692,Dana Perkins,Sales Representative,1,Female,Asian,OND,45347,2535,Sales,Contract,47882,5029
+693,Bryan Jacobson,Software Engineer,14,Female,Hispanic,PhD,98704,4956,Engineering,Full-time,103660,5993
+694,Gail Morales,Sales Representative,6,Female,Asian,OND,44706,1159,Sales,Contract,45865,4998
+695,Anna Cross,Data Analyst,15,Male,Black,High School,33501,973,Data,Part-time,34474,3193
+696,John Gonzalez,Sales Representative,2,Female,Asian,MSc.,89517,870,Sales,Full-time,90387,5760
+697,Raymond Chan,Sales Representative,3,Female,Black,BSc.,68352,2003,Sales,Full-time,70355,5202
+698,Joe Barr,Software Engineer,17,Female,White,BSc.,63592,281,Engineering,Full-time,63873,5973
+699,Daniel Brown,Data Analyst,11,Female,Other,MSc.,89469,4359,Data,Full-time,93828,6937
+700,David Hudson,Marketing Specialist,19,Male,Other,BSc.,69977,3143,Marketing,Full-time,73120,5753
+701,Taylor Murray,Data Analyst,4,Male,Other,High School,30684,1884,Data,Part-time,32568,4937
+702,Kathleen Jones,Data Analyst,9,Female,Black,BSc.,60018,730,Data,Full-time,60748,6231
+703,James Melton,Data Analyst,3,Female,White,BSc.,68960,4758,Data,Full-time,73718,5638
+704,Michael Adams,Marketing Specialist,16,Male,Asian,BSc.,62294,3018,Marketing,Full-time,65312,5743
+705,Barbara Martinez,Data Analyst,4,Male,Hispanic,BSc.,65258,3451,Data,Full-time,68709,5541
+706,Chase Turner,Sales Representative,3,Female,Asian,High School,32138,2416,Sales,Part-time,34554,4588
+707,Kevin Henderson,Software Engineer,1,Female,Other,BSc.,67578,3466,Engineering,Full-time,71044,6914
+708,Bobby Scott,Sales Representative,15,Female,Black,BSc.,64402,1354,Sales,Full-time,65756,5183
+709,Mrs. Natalie Reeves DDS,HR Manager,0,Male,Black,High School,34967,3640,HR,Part-time,38607,4528
+710,Ashley Maynard,Financial Analyst,19,Female,White,PhD,110762,1564,Finance,Full-time,112326,5692
+711,Nicholas Moon,Data Analyst,7,Female,Hispanic,BSc.,65615,4626,Data,Full-time,70241,6322
+712,Victor Jones,Financial Analyst,9,Female,White,BSc.,69523,4684,Finance,Full-time,74207,6265
+713,Richard Wright,HR Manager,15,Male,Hispanic,OND,42825,1830,HR,Contract,44655,4995
+714,Brandon Allen,Sales Representative,0,Female,Other,BSc.,64643,4151,Sales,Full-time,68794,5596
+715,Alexander Mayer,Financial Analyst,2,Female,Black,BSc.,75804,748,Finance,Full-time,76552,5362
+716,Robert Davis,HR Manager,10,Male,Asian,MSc.,82858,1982,HR,Full-time,84840,5216
+717,Jamie Hickman,Software Engineer,17,Female,Asian,BSc.,68012,4963,Engineering,Full-time,72975,6875
+718,Julie Thompson,Financial Analyst,16,Male,Other,OND,45197,3309,Finance,Contract,48506,4620
+719,Dr. Alexis Coleman,Financial Analyst,16,Male,Asian,MSc.,82246,4673,Finance,Full-time,86919,6282
+720,Benjamin Ayala,Data Analyst,13,Female,Asian,High School,30696,4780,Data,Part-time,35476,3030
+721,Jenny Patterson,Marketing Specialist,2,Female,Other,OND,47657,2307,Marketing,Contract,49964,5086
+722,Margaret Hill,HR Manager,6,Male,Hispanic,BSc.,60590,4936,HR,Full-time,65526,5630
+723,Andrea Gillespie,Financial Analyst,16,Male,Other,OND,46753,1197,Finance,Contract,47950,5114
+724,Nathaniel Welch,HR Manager,16,Female,White,High School,38379,2044,HR,Part-time,40423,4975
+725,Jeffrey Clark,HR Manager,4,Male,Asian,High School,38134,2855,HR,Part-time,40989,3569
+726,Sharon Hobbs,Software Engineer,7,Male,Hispanic,MSc.,77515,4442,Engineering,Full-time,81957,6078
+727,Brian Lane,Data Analyst,13,Female,Black,BSc.,67153,1466,Data,Full-time,68619,6107
+728,Rebecca Smith,Financial Analyst,14,Female,Asian,PhD,106223,2868,Finance,Full-time,109091,5783
+729,Omar Fletcher,Financial Analyst,12,Female,White,High School,35887,4716,Finance,Part-time,40603,4825
+730,Tammy Guerrero,Financial Analyst,19,Male,White,High School,35113,3920,Finance,Part-time,39033,3222
+731,Lindsey Vargas,HR Manager,18,Female,Black,PhD,99803,3375,HR,Full-time,103178,5804
+732,Nicole White,Marketing Specialist,16,Female,Other,BSc.,65692,4136,Marketing,Full-time,69828,5709
+733,Bradley Parker,Software Engineer,2,Female,Asian,BSc.,63938,3445,Engineering,Full-time,67383,5992
+734,Jason Sexton,Marketing Specialist,11,Female,White,High School,34234,2562,Marketing,Part-time,36796,3533
+735,Jonathan Estrada,Marketing Specialist,18,Female,White,BSc.,60660,4401,Marketing,Full-time,65061,5229
+736,Mark Lee,Marketing Specialist,7,Female,Black,MSc.,90464,3667,Marketing,Full-time,94131,6272
+737,Michael Reid,Software Engineer,8,Female,Other,BSc.,68021,4137,Engineering,Full-time,72158,5730
+738,Patricia Ellis MD,HR Manager,3,Female,Other,BSc.,68210,2925,HR,Full-time,71135,5617
+739,Benjamin Hughes,Sales Representative,20,Male,Other,BSc.,75208,2639,Sales,Full-time,77847,6512
+740,Dr. Wendy Brock,Software Engineer,1,Female,Black,BSc.,70870,1924,Engineering,Full-time,72794,5407
+741,John Banks,HR Manager,3,Male,Hispanic,OND,40990,191,HR,Contract,41181,5353
+742,Andrew Jones,Financial Analyst,18,Male,Hispanic,BSc.,73131,4589,Finance,Full-time,77720,6862
+743,Larry Johnson,Financial Analyst,20,Male,Hispanic,BSc.,74149,82,Finance,Full-time,74231,6325
+744,Alexandria Johnson,Sales Representative,17,Male,Black,MSc.,84498,3177,Sales,Full-time,87675,6131
+745,April Thomas,Financial Analyst,8,Female,Black,High School,31973,3143,Finance,Part-time,35116,4198
+746,John Franklin,Data Analyst,11,Female,White,OND,47633,152,Data,Contract,47785,4111
+747,Martin Miller,Data Analyst,9,Female,Asian,BSc.,61213,2310,Data,Full-time,63523,6380
+748,Tyler Hunt,Financial Analyst,20,Female,Black,BSc.,68103,3530,Finance,Full-time,71633,5353
+749,Amy Walters,HR Manager,11,Male,Hispanic,OND,45410,4578,HR,Contract,49988,5960
+750,Mary Livingston,Software Engineer,20,Male,Hispanic,High School,33241,594,Engineering,Part-time,33835,3505
+751,Erica Reid,Data Analyst,7,Male,Other,BSc.,75716,3968,Data,Full-time,79684,6126
+752,Anthony Browning,Software Engineer,0,Male,Black,OND,44494,752,Engineering,Contract,45246,4470
+753,Terri Cortez,Financial Analyst,7,Female,Asian,OND,48331,4925,Finance,Contract,53256,4536
+754,Willie Wilson,Data Analyst,6,Male,White,BSc.,72427,283,Data,Full-time,72710,5028
+755,Stephanie Ochoa,Sales Representative,7,Male,Black,High School,36853,1930,Sales,Part-time,38783,3024
+756,Willie Moore,HR Manager,2,Male,Asian,MSc.,82892,174,HR,Full-time,83066,6028
+757,Erin Austin,Software Engineer,18,Male,Black,High School,38864,4305,Engineering,Part-time,43169,3929
+758,David Bowers,Marketing Specialist,0,Male,Hispanic,BSc.,68535,1872,Marketing,Full-time,70407,6992
+759,Steven Gilbert,Financial Analyst,8,Male,Asian,MSc.,76578,4657,Finance,Full-time,81235,5277
+760,Rebecca Sanders,Software Engineer,1,Female,Hispanic,MSc.,80035,3712,Engineering,Full-time,83747,5449
+761,Elizabeth Lewis,Software Engineer,1,Male,Asian,High School,38067,4473,Engineering,Part-time,42540,3823
+762,David Ponce,Data Analyst,10,Female,Other,OND,44160,3576,Data,Contract,47736,4937
+763,Laura Lewis,Marketing Specialist,9,Male,Black,BSc.,68127,3391,Marketing,Full-time,71518,6532
+764,Lucas Lopez,Marketing Specialist,19,Female,Other,BSc.,75209,454,Marketing,Full-time,75663,5234
+765,Alec Johnson,Financial Analyst,9,Female,Black,PhD,115024,4639,Finance,Full-time,119663,5937
+766,Teresa Simmons,Data Analyst,3,Male,Hispanic,OND,43863,2505,Data,Contract,46368,4118
+767,Danielle Williamson,Sales Representative,12,Female,Other,OND,40176,2418,Sales,Contract,42594,4983
+768,Carmen Thompson,Data Analyst,2,Female,Hispanic,OND,47077,4618,Data,Contract,51695,5256
+769,Krista Daniels,Software Engineer,10,Male,Black,BSc.,65506,4661,Engineering,Full-time,70167,6928
+770,Kyle Higgins,Financial Analyst,3,Male,Black,BSc.,71359,4769,Finance,Full-time,76128,6358
+771,Mark Pace,Data Analyst,4,Female,Black,BSc.,69201,2880,Data,Full-time,72081,5171
+772,Laura Rivera,Software Engineer,12,Male,Asian,MSc.,75615,1946,Engineering,Full-time,77561,5554
+773,Julie Sims,Financial Analyst,4,Female,Hispanic,PhD,107389,442,Finance,Full-time,107831,6865
+774,Debbie Jones,Data Analyst,15,Male,Other,OND,43664,4407,Data,Contract,48071,5361
+775,Michelle Williams,Marketing Specialist,13,Male,Hispanic,MSc.,88092,1759,Marketing,Full-time,89851,5321
+776,Danny Gonzalez,HR Manager,9,Male,Asian,High School,31611,266,HR,Part-time,31877,3436
+777,Matthew Gregory,Software Engineer,9,Male,Black,High School,36839,2805,Engineering,Part-time,39644,3481
+778,Natalie Terry,Marketing Specialist,1,Male,Hispanic,BSc.,71167,205,Marketing,Full-time,71372,6781
+779,Juan Ramirez,Marketing Specialist,2,Male,Other,MSc.,77614,593,Marketing,Full-time,78207,5819
+780,Daniel Jenkins,Data Analyst,2,Female,Black,OND,40248,4092,Data,Contract,44340,5984
+781,Robert Thomas,Software Engineer,5,Male,Hispanic,BSc.,75506,652,Engineering,Full-time,76158,5880
+782,Emma Jackson,Data Analyst,20,Male,Asian,High School,38409,1470,Data,Part-time,39879,4122
+783,Randall Reed,HR Manager,11,Male,White,MSc.,90180,591,HR,Full-time,90771,5135
+784,Brandon Whitehead,Software Engineer,17,Male,Asian,OND,47028,3597,Engineering,Contract,50625,5989
+785,Ryan Cole,HR Manager,5,Female,White,MSc.,76892,3331,HR,Full-time,80223,6776
+786,Christopher Morales,Software Engineer,19,Male,Asian,BSc.,69838,4275,Engineering,Full-time,74113,6581
+787,Amanda Figueroa,Marketing Specialist,1,Male,Asian,High School,38389,2751,Marketing,Part-time,41140,4867
+788,Teresa Jones,HR Manager,3,Female,Asian,MSc.,88592,3694,HR,Full-time,92286,6386
+789,Gregory Todd,Data Analyst,15,Male,Hispanic,MSc.,86613,2365,Data,Full-time,88978,5294
+790,Molly Fleming,Marketing Specialist,11,Female,Black,BSc.,73448,4989,Marketing,Full-time,78437,5956
+791,Mrs. Heather Woods,Financial Analyst,6,Female,Hispanic,High School,32194,2547,Finance,Part-time,34741,3510
+792,Abigail Reed,Marketing Specialist,7,Female,Black,High School,38777,4352,Marketing,Part-time,43129,3293
+793,Regina Benson,Marketing Specialist,16,Male,Asian,OND,40989,3718,Marketing,Contract,44707,5815
+794,James Marquez,Financial Analyst,11,Male,White,BSc.,70387,3396,Finance,Full-time,73783,6961
+795,Nicole Owens,Sales Representative,19,Female,Asian,High School,38478,929,Sales,Part-time,39407,4215
+796,Patrick Kelly,HR Manager,19,Male,Asian,PhD,100031,415,HR,Full-time,100446,5910
+797,Crystal Guerra,Marketing Specialist,0,Female,Black,OND,48865,1559,Marketing,Contract,50424,5096
+798,Susan Alexander,Data Analyst,12,Male,White,OND,41845,915,Data,Contract,42760,4725
+799,Jessica Boone,Data Analyst,1,Male,Asian,High School,34659,509,Data,Part-time,35168,4492
+800,Melissa Oliver,Data Analyst,3,Male,Hispanic,High School,33462,130,Data,Part-time,33592,3264
+801,Hannah Morales,HR Manager,5,Female,Black,BSc.,71542,2860,HR,Full-time,74402,5287
+802,Steve Black,Data Analyst,2,Male,Asian,BSc.,68668,785,Data,Full-time,69453,6135
+803,James Porter,Software Engineer,18,Male,Asian,BSc.,67488,2445,Engineering,Full-time,69933,6302
+804,Jorge Vincent,Software Engineer,14,Female,Other,High School,32321,237,Engineering,Part-time,32558,3048
+805,James Obrien,HR Manager,3,Male,Black,OND,47234,2503,HR,Contract,49737,5614
+806,Susan White,Sales Representative,11,Female,Hispanic,MSc.,77271,1587,Sales,Full-time,78858,6989
+807,James Lang,Financial Analyst,18,Female,Other,High School,38060,1627,Finance,Part-time,39687,3602
+808,Danielle Cunningham,Financial Analyst,1,Male,Hispanic,OND,43259,84,Finance,Contract,43343,5210
+809,Tonya Bryan,HR Manager,13,Female,White,OND,45666,842,HR,Contract,46508,5003
+810,Sydney Morales,HR Manager,2,Male,Other,BSc.,61772,2520,HR,Full-time,64292,5412
+811,Laura Ross,Marketing Specialist,1,Female,Asian,OND,45113,269,Marketing,Contract,45382,4307
+812,Amanda Rodgers,Financial Analyst,7,Female,Asian,MSc.,80240,4865,Finance,Full-time,85105,5835
+813,David Martinez,Software Engineer,5,Male,Black,High School,32328,4087,Engineering,Part-time,36415,4199
+814,Christina Browning,Data Analyst,6,Female,White,BSc.,60339,611,Data,Full-time,60950,6819
+815,Robert Chavez,HR Manager,6,Male,White,PhD,98316,715,HR,Full-time,99031,5527
+816,Melissa Owens,Marketing Specialist,19,Male,White,OND,47422,2293,Marketing,Contract,49715,4231
+817,Jacob Edwards,Software Engineer,6,Female,Other,BSc.,66391,2545,Engineering,Full-time,68936,5674
+818,Stacey Gilbert DVM,HR Manager,16,Male,Black,MSc.,88871,509,HR,Full-time,89380,5468
+819,Daniel White,HR Manager,12,Female,White,BSc.,73695,2812,HR,Full-time,76507,6328
+820,Nancy Green,Financial Analyst,19,Female,Other,PhD,99473,778,Finance,Full-time,100251,6589
+821,Timothy Wallace,Software Engineer,11,Female,Asian,PhD,109678,1185,Engineering,Full-time,110863,6490
+822,Linda Sherman,HR Manager,8,Female,Hispanic,High School,37784,1677,HR,Part-time,39461,4946
+823,Larry Simmons,Data Analyst,11,Male,White,MSc.,75953,583,Data,Full-time,76536,6586
+824,Emily Swanson,HR Manager,12,Male,Asian,MSc.,88560,1430,HR,Full-time,89990,6791
+825,George Kerr,Marketing Specialist,2,Female,White,MSc.,77344,3746,Marketing,Full-time,81090,5977
+826,Mr. Jared Franco,HR Manager,18,Male,Other,BSc.,67982,4458,HR,Full-time,72440,6829
+827,Brandi Burke,Software Engineer,20,Male,Hispanic,BSc.,66809,3609,Engineering,Full-time,70418,5444
+828,Brianna Mack,Software Engineer,3,Female,Hispanic,PhD,116244,1539,Engineering,Full-time,117783,5843
+829,Jonathan Gill,HR Manager,19,Male,Hispanic,MSc.,76257,602,HR,Full-time,76859,6910
+830,Kathleen Smith,Software Engineer,20,Female,Asian,PhD,117964,3270,Engineering,Full-time,121234,5648
+831,Jerry Ramirez,Marketing Specialist,19,Male,Black,High School,31172,4649,Marketing,Part-time,35821,3095
+832,Karen Rodriguez DVM,Sales Representative,6,Female,Hispanic,BSc.,75718,1090,Sales,Full-time,76808,5372
+833,Danielle Kennedy DVM,Financial Analyst,9,Female,Hispanic,OND,48416,675,Finance,Contract,49091,4129
+834,Nicole Berger,Data Analyst,1,Male,Black,BSc.,69535,1101,Data,Full-time,70636,6146
+835,Tyler Malone,Software Engineer,13,Male,White,High School,37441,2620,Engineering,Part-time,40061,4919
+836,Melanie Williams,Data Analyst,1,Female,Hispanic,MSc.,79961,2609,Data,Full-time,82570,6093
+837,Matthew Lopez,Financial Analyst,4,Male,Other,BSc.,62430,1997,Finance,Full-time,64427,5295
+838,James Rodriguez,Software Engineer,16,Male,Other,MSc.,75882,1029,Engineering,Full-time,76911,6551
+839,Ronnie Sharp PhD,Software Engineer,2,Male,Asian,OND,44138,3375,Engineering,Contract,47513,5602
+840,Jeanette Pennington,Sales Representative,6,Female,Hispanic,BSc.,61320,3013,Sales,Full-time,64333,5903
+841,Reginald Franklin,Marketing Specialist,11,Male,Hispanic,BSc.,66774,2738,Marketing,Full-time,69512,5692
+842,Edward Perez,Marketing Specialist,11,Female,Asian,MSc.,80830,4609,Marketing,Full-time,85439,5835
+843,Gail Clark,Software Engineer,0,Male,White,BSc.,67098,1901,Engineering,Full-time,68999,6316
+844,Jacqueline Beard,Sales Representative,18,Female,Other,PhD,97585,2164,Sales,Full-time,99749,6973
+845,Amy Green,Marketing Specialist,1,Female,Other,OND,43552,2268,Marketing,Contract,45820,4152
+846,George King,Financial Analyst,17,Female,Black,OND,46698,79,Finance,Contract,46777,4656
+847,Frederick Potts,Financial Analyst,19,Female,Black,BSc.,67025,344,Finance,Full-time,67369,5023
+848,Hailey Berg,Financial Analyst,3,Male,Black,PhD,98584,2225,Finance,Full-time,100809,6775
+849,Steven Guzman,Marketing Specialist,3,Male,White,BSc.,62882,4944,Marketing,Full-time,67826,6038
+850,David Dixon,Software Engineer,12,Male,Black,OND,45933,2356,Engineering,Contract,48289,5217
+851,Joe Cardenas,Marketing Specialist,13,Female,Hispanic,OND,46425,769,Marketing,Contract,47194,4833
+852,Monica Rivera,HR Manager,3,Male,Hispanic,OND,42012,4914,HR,Contract,46926,5683
+853,Seth Ferguson,Marketing Specialist,12,Female,Hispanic,MSc.,82222,2329,Marketing,Full-time,84551,6359
+854,Samantha Phillips,Sales Representative,11,Female,White,PhD,111556,3161,Sales,Full-time,114717,6379
+855,Emily Chang,Financial Analyst,6,Male,White,BSc.,70755,3282,Finance,Full-time,74037,6295
+856,Monica Wolf,Software Engineer,14,Female,Other,High School,38441,2703,Engineering,Part-time,41144,3860
+857,Tami Lindsey,Sales Representative,19,Male,Hispanic,High School,33527,2918,Sales,Part-time,36445,4931
+858,Natalie Cortez,Financial Analyst,10,Female,Black,PhD,108783,3093,Finance,Full-time,111876,6737
+859,Stephanie Nunez,Financial Analyst,20,Male,Other,OND,44729,4600,Finance,Contract,49329,5480
+860,Martha Rose,Software Engineer,18,Male,White,PhD,106905,4844,Engineering,Full-time,111749,6236
+861,Wendy Middleton,Data Analyst,16,Female,White,OND,41577,2304,Data,Contract,43881,5955
+862,Wendy Pearson,Sales Representative,12,Male,White,MSc.,82527,1298,Sales,Full-time,83825,6403
+863,Fred Johnson,Data Analyst,13,Male,White,High School,36108,4012,Data,Part-time,40120,4119
+864,Teresa Rivera,Data Analyst,19,Female,Black,BSc.,69127,4053,Data,Full-time,73180,5113
+865,Roger Young,Financial Analyst,6,Male,Black,BSc.,60978,1283,Finance,Full-time,62261,5312
+866,Christopher Ramirez,Data Analyst,16,Female,Black,High School,33996,1292,Data,Part-time,35288,3847
+867,Victor Paul,Data Analyst,7,Male,Hispanic,MSc.,78556,4886,Data,Full-time,83442,5152
+868,Heather Alexander,Financial Analyst,18,Female,White,OND,45371,2176,Finance,Contract,47547,4672
+869,Michelle Smith,Data Analyst,15,Male,Hispanic,PhD,112159,492,Data,Full-time,112651,5904
+870,Jacqueline Chaney,Data Analyst,17,Female,White,OND,45073,1444,Data,Contract,46517,4675
+871,Tyler Norris,HR Manager,9,Female,Hispanic,BSc.,71541,190,HR,Full-time,71731,6626
+872,Russell Moore,HR Manager,18,Male,Other,MSc.,75921,2120,HR,Full-time,78041,5522
+873,David Jones,Software Engineer,14,Female,Black,MSc.,80978,601,Engineering,Full-time,81579,5808
+874,Ashley Freeman,Financial Analyst,18,Male,Asian,MSc.,75451,4557,Finance,Full-time,80008,5056
+875,Barbara Cooper,Software Engineer,13,Female,Asian,MSc.,79626,4914,Engineering,Full-time,84540,6289
+876,Keith Bridges,Marketing Specialist,0,Female,Hispanic,PhD,99742,1612,Marketing,Full-time,101354,5842
+877,Briana Marsh,Sales Representative,15,Male,Other,High School,30794,3627,Sales,Part-time,34421,3267
+878,Charlotte Gibbs,Software Engineer,16,Female,Other,High School,33796,1094,Engineering,Part-time,34890,3061
+879,Robert Smith,Marketing Specialist,15,Female,Asian,MSc.,84091,2524,Marketing,Full-time,86615,6390
+880,Sean Hicks,HR Manager,1,Male,White,BSc.,65894,692,HR,Full-time,66586,5881
+881,Joshua Miller,Software Engineer,6,Female,Asian,BSc.,66179,2171,Engineering,Full-time,68350,5985
+882,Eric Rowe,Sales Representative,0,Male,Hispanic,BSc.,62857,4974,Sales,Full-time,67831,5425
+883,Amy Daniels,Sales Representative,16,Female,White,BSc.,67599,3129,Sales,Full-time,70728,6403
+884,Wendy Vazquez DDS,Sales Representative,20,Male,Black,BSc.,60632,2205,Sales,Full-time,62837,5633
+885,Todd Smith,Software Engineer,7,Male,Black,BSc.,70827,4535,Engineering,Full-time,75362,6288
+886,Suzanne Johnston,Data Analyst,2,Male,Other,OND,48610,743,Data,Contract,49353,4736
+887,Kirk Brooks,Financial Analyst,5,Male,Black,MSc.,76337,3928,Finance,Full-time,80265,6034
+888,Katherine Sanchez,HR Manager,14,Female,White,BSc.,67573,1155,HR,Full-time,68728,5991
+889,Amber Eaton,Software Engineer,14,Female,Black,MSc.,79728,1760,Engineering,Full-time,81488,5544
+890,Colton Hale,Marketing Specialist,15,Female,Asian,PhD,119178,3787,Marketing,Full-time,122965,6533
+891,Ricky Holloway,HR Manager,13,Male,Hispanic,OND,46410,1268,HR,Contract,47678,4654
+892,William Bauer,Financial Analyst,4,Male,Asian,High School,32740,4686,Finance,Part-time,37426,3490
+893,Alan Nelson,Software Engineer,17,Female,Other,OND,41205,173,Engineering,Contract,41378,5956
+894,Michael Beck,HR Manager,14,Male,White,High School,31424,4353,HR,Part-time,35777,3069
+895,Timothy Ryan,Marketing Specialist,9,Female,White,OND,47579,3477,Marketing,Contract,51056,5553
+896,Lisa Nelson,Data Analyst,12,Male,Hispanic,High School,37992,2510,Data,Part-time,40502,3688
+897,Randy Strickland,Financial Analyst,7,Male,Black,High School,34567,488,Finance,Part-time,35055,4644
+898,Robin Evans,Data Analyst,13,Female,Asian,BSc.,68013,3112,Data,Full-time,71125,6962
+899,Laura Barnes,Software Engineer,19,Male,Hispanic,High School,33069,190,Engineering,Part-time,33259,4929
+900,Christopher Smith,Sales Representative,19,Male,Asian,BSc.,75351,3691,Sales,Full-time,79042,5817
+901,Brenda Cannon,Financial Analyst,16,Female,Hispanic,MSc.,88815,182,Finance,Full-time,88997,5993
+902,Joseph Vance,Software Engineer,9,Male,Asian,PhD,90356,825,Engineering,Full-time,91181,5818
+903,Edwin Dean,Software Engineer,6,Male,Other,OND,40235,1092,Engineering,Contract,41327,4814
+904,Alicia Shields,HR Manager,9,Female,Hispanic,High School,35991,2644,HR,Part-time,38635,3961
+905,Kim Young,Data Analyst,15,Male,Black,BSc.,64979,1004,Data,Full-time,65983,6918
+906,Walter Wilson,HR Manager,17,Female,Hispanic,OND,43060,4031,HR,Contract,47091,5432
+907,Angela Frank,Marketing Specialist,2,Male,Other,BSc.,70333,562,Marketing,Full-time,70895,5892
+908,Calvin Livingston MD,Sales Representative,9,Female,Asian,MSc.,85885,4889,Sales,Full-time,90774,6818
+909,Melissa Hawkins,Data Analyst,10,Female,Hispanic,MSc.,78520,3981,Data,Full-time,82501,6472
+910,Patrick Barnes,Software Engineer,6,Male,Black,BSc.,61906,2620,Engineering,Full-time,64526,5336
+911,Sara Diaz,Software Engineer,12,Male,Asian,High School,36244,1642,Engineering,Part-time,37886,4267
+912,Tina Roberts,Software Engineer,14,Female,Hispanic,High School,31046,2115,Engineering,Part-time,33161,3361
+913,Travis Gregory,Sales Representative,12,Female,Other,MSc.,86395,4690,Sales,Full-time,91085,6424
+914,Justin Holland,Software Engineer,5,Female,Black,BSc.,75178,669,Engineering,Full-time,75847,6442
+915,Amanda Gordon,Software Engineer,11,Female,Asian,OND,46765,2970,Engineering,Contract,49735,5281
+916,Margaret Parker,Sales Representative,10,Female,Other,PhD,118989,824,Sales,Full-time,119813,5214
+917,James Brown,Software Engineer,17,Male,Other,BSc.,68639,2555,Engineering,Full-time,71194,5953
+918,Christopher Richardson,Data Analyst,14,Male,Black,BSc.,72099,3820,Data,Full-time,75919,6660
+919,Monica Bentley,HR Manager,18,Male,Other,High School,31866,1806,HR,Part-time,33672,4303
+920,Samantha Sims,Software Engineer,20,Female,Black,PhD,98660,3402,Engineering,Full-time,102062,6137
+921,Gregory Taylor,Software Engineer,12,Male,Other,OND,41586,20,Engineering,Contract,41606,4563
+922,Olivia Washington,Software Engineer,19,Male,Black,OND,48090,4347,Engineering,Contract,52437,4714
+923,Jared Weber,Sales Representative,20,Female,Other,High School,37873,3345,Sales,Part-time,41218,4330
+924,Alex Fletcher,Data Analyst,12,Male,White,BSc.,62855,4450,Data,Full-time,67305,6913
+925,Jacqueline Carpenter,Marketing Specialist,2,Female,Other,BSc.,66918,904,Marketing,Full-time,67822,5801
+926,Tony Fernandez,Software Engineer,5,Male,White,OND,48923,2641,Engineering,Contract,51564,5243
+927,Donna Davis,Financial Analyst,13,Male,Asian,OND,44885,1800,Finance,Contract,46685,4747
+928,Jacob Coleman,Sales Representative,8,Female,Black,BSc.,74174,2882,Sales,Full-time,77056,5921
+929,Michelle Phillips,Marketing Specialist,19,Female,Other,MSc.,75722,1677,Marketing,Full-time,77399,6464
+930,Nicholas Trujillo,Marketing Specialist,3,Male,White,BSc.,73510,4922,Marketing,Full-time,78432,6110
+931,James King,Financial Analyst,15,Male,White,High School,34509,1694,Finance,Part-time,36203,3144
+932,Michael Stewart,Sales Representative,3,Male,Hispanic,OND,41192,4319,Sales,Contract,45511,5142
+933,Christopher Fox,Software Engineer,0,Male,White,BSc.,66092,2162,Engineering,Full-time,68254,5181
+934,James Wright,Sales Representative,0,Male,Black,PhD,118244,4289,Sales,Full-time,122533,5122
+935,Valerie Brown,Data Analyst,13,Male,Other,BSc.,69788,4974,Data,Full-time,74762,6883
+936,Todd Hines,Data Analyst,13,Female,Black,BSc.,75858,2768,Data,Full-time,78626,5418
+937,Angela Hodges,HR Manager,12,Female,Hispanic,BSc.,72689,1971,HR,Full-time,74660,5380
+938,Lisa Ford,Software Engineer,9,Male,Other,MSc.,83790,2663,Engineering,Full-time,86453,5967
+939,David Huffman,HR Manager,17,Female,Black,BSc.,60454,4749,HR,Full-time,65203,6590
+940,April Munoz,Software Engineer,6,Male,Other,MSc.,89295,3380,Engineering,Full-time,92675,6660
+941,Daryl Lopez Jr.,Sales Representative,3,Female,Black,MSc.,78595,4779,Sales,Full-time,83374,5990
+942,Christopher Gould DVM,Marketing Specialist,19,Female,Asian,BSc.,67532,4890,Marketing,Full-time,72422,6696
+943,Thomas Daniels,Software Engineer,9,Female,Hispanic,High School,31894,1356,Engineering,Part-time,33250,3103
+944,Jill Williams,HR Manager,2,Female,White,OND,48215,2920,HR,Contract,51135,4735
+945,Ricky Burns,Marketing Specialist,0,Female,Asian,BSc.,69368,822,Marketing,Full-time,70190,6673
+946,Jacob Andrade,HR Manager,19,Female,Other,BSc.,75795,1714,HR,Full-time,77509,6735
+947,Jason Haynes,HR Manager,10,Female,Black,PhD,96351,3790,HR,Full-time,100141,6854
+948,Oscar Roberts,Financial Analyst,16,Male,Black,OND,41933,1424,Finance,Contract,43357,5977
+949,Luke Martin,Software Engineer,12,Female,Other,BSc.,60349,1762,Engineering,Full-time,62111,5201
+950,Austin Moore,Data Analyst,15,Male,Asian,High School,37346,3515,Data,Part-time,40861,3177
+951,Kevin Harris,Software Engineer,14,Male,Asian,High School,30233,2070,Engineering,Part-time,32303,4023
+952,Bianca Smith,Data Analyst,2,Male,Asian,MSc.,81531,2054,Data,Full-time,83585,6440
+953,Holly Carter,Sales Representative,16,Male,White,MSc.,85314,6,Sales,Full-time,85320,5039
+954,Mrs. Jamie Burke,Software Engineer,10,Male,Other,BSc.,73207,1345,Engineering,Full-time,74552,5853
+955,Cynthia Smith,Data Analyst,8,Female,Black,OND,40977,1628,Data,Contract,42605,5596
+956,Mark Rangel,Financial Analyst,17,Male,Hispanic,High School,38792,3376,Finance,Part-time,42168,4502
+957,Destiny Palmer,Marketing Specialist,4,Male,Other,BSc.,65015,3309,Marketing,Full-time,68324,5121
+958,Thomas Bradley,Financial Analyst,18,Male,Asian,BSc.,72023,180,Finance,Full-time,72203,5620
+959,Amy Villa,HR Manager,0,Male,Hispanic,BSc.,67614,1354,HR,Full-time,68968,6468
+960,Stacie Aguirre,Sales Representative,1,Male,Black,BSc.,75875,1545,Sales,Full-time,77420,6300
+961,Gregory Howard,Sales Representative,8,Female,White,BSc.,72823,1694,Sales,Full-time,74517,5846
+962,Laura Rodriguez,HR Manager,19,Male,Hispanic,High School,36593,868,HR,Part-time,37461,4624
+963,Tracy Lewis,Software Engineer,8,Female,Hispanic,PhD,100043,3898,Engineering,Full-time,103941,5488
+964,Sydney Morrison,Data Analyst,12,Female,Asian,OND,43338,154,Data,Contract,43492,4140
+965,Paul Thomas,Sales Representative,14,Male,Black,High School,35501,1761,Sales,Part-time,37262,4133
+966,Christina Mata,Data Analyst,18,Male,Asian,BSc.,63189,331,Data,Full-time,63520,5232
+967,Jennifer Ward,Sales Representative,3,Male,Hispanic,OND,45022,2518,Sales,Contract,47540,5754
+968,Nicole Daniel,Software Engineer,2,Male,White,PhD,106176,1474,Engineering,Full-time,107650,5620
+969,Diana Vaughan,Data Analyst,9,Male,White,OND,41564,3428,Data,Contract,44992,4877
+970,Robert Gibson,HR Manager,8,Female,Other,High School,33957,1443,HR,Part-time,35400,3023
+971,Robert Fleming,Financial Analyst,1,Female,Other,MSc.,80907,4693,Finance,Full-time,85600,5828
+972,Robert Moreno,Financial Analyst,15,Female,Other,PhD,105751,4185,Finance,Full-time,109936,6521
+973,Robert Colon,Data Analyst,19,Male,White,High School,35389,71,Data,Part-time,35460,3242
+974,Jacqueline Snyder,HR Manager,12,Male,Other,High School,30865,4646,HR,Part-time,35511,3511
+975,Janice Jones,Marketing Specialist,16,Female,Hispanic,MSc.,83799,4575,Marketing,Full-time,88374,6256
+976,Michael Thornton,Financial Analyst,17,Male,White,High School,36672,4737,Finance,Part-time,41409,4250
+977,Rebecca Williams,Sales Representative,10,Male,Hispanic,MSc.,86957,1417,Sales,Full-time,88374,5074
+978,Justin Clark,Data Analyst,7,Male,White,High School,37320,1506,Data,Part-time,38826,4022
+979,Mitchell Mcguire,Data Analyst,1,Male,Other,OND,45672,2606,Data,Contract,48278,5683
+980,Jeffery Jones,Marketing Specialist,10,Female,Asian,BSc.,64202,2452,Marketing,Full-time,66654,6683
+981,Noah Clark,HR Manager,5,Male,Other,OND,48042,2516,HR,Contract,50558,5233
+982,Alan Romero,HR Manager,4,Female,Other,OND,46584,2488,HR,Contract,49072,4860
+983,Kelly Kim,HR Manager,0,Female,Other,OND,41431,1845,HR,Contract,43276,4427
+984,Kimberly Burke,HR Manager,1,Female,Asian,BSc.,67183,858,HR,Full-time,68041,5442
+985,Steven Johnson,Data Analyst,2,Female,Other,High School,36455,4737,Data,Part-time,41192,3896
+986,Martha Williams,Software Engineer,11,Female,Black,MSc.,81806,2420,Engineering,Full-time,84226,6480
+987,Anthony Moran,Sales Representative,14,Male,White,MSc.,81346,2546,Sales,Full-time,83892,6498
+988,Angela Thomas,Marketing Specialist,16,Female,Black,High School,34621,3798,Marketing,Part-time,38419,3477
+989,Ashley Smith,Data Analyst,2,Male,Asian,BSc.,65818,3219,Data,Full-time,69037,5618
+990,Samantha Flores,Marketing Specialist,1,Male,Black,OND,42460,844,Marketing,Contract,43304,4266
+991,Joshua Sharp,Data Analyst,18,Female,Asian,OND,45410,4400,Data,Contract,49810,4318
+992,Kaylee Duncan DDS,Marketing Specialist,19,Female,Other,OND,41964,4437,Marketing,Contract,46401,4758
+993,Michael Richards,Sales Representative,1,Female,Hispanic,BSc.,69412,2346,Sales,Full-time,71758,6365
+994,Jonathan King,Financial Analyst,20,Female,White,OND,41073,2870,Finance,Contract,43943,4780
+995,Kendra Frank,Data Analyst,15,Male,White,MSc.,79329,0,Data,Full-time,79329,6275
+996,Andrew Price,Data Analyst,8,Female,Hispanic,High School,34811,4652,Data,Part-time,39463,3380
+997,Kyle Banks,Marketing Specialist,4,Male,Hispanic,BSc.,60741,1422,Marketing,Full-time,62163,5159
+998,Donna Parrish,Data Analyst,9,Female,Other,MSc.,85970,349,Data,Full-time,86319,5945
+999,Kelly Brown,Data Analyst,19,Male,Other,PhD,106769,1155,Data,Full-time,107924,5977
+1000,Ralph Melendez,Marketing Specialist,11,Male,Black,BSc.,75502,3402,Marketing,Full-time,78904,5435
