@@ -1,8 +1,8 @@
 <h1 align="center">StyleScape Fashion Mall Dashboard </h1>
 
   <p align="center">
-  <img src="https://www.singlegrain.com/wp-content/uploads/2019/02/SG-How-to-Perform-Marketing-Competitor-Research-6-Best-Tools-Comparison-.jpg"
-       alt="Competitor Analysis" width="65%" />
+  <img src="https://www.worldfashionexchange.com/blog/wp-content/uploads/2023/06/data-fashion.webp"
+       alt="Fashion Analytics" width="65%" />
 </p>
 
 
@@ -78,18 +78,10 @@ Sales Order:
 <br>
 <h1 align="left">Tech Stack</h1>
 <p>
+
     A. SQL: For querying the database to extract data.
   
     B. Power BI: Used to create an interactive dashboard providing day-by-day insights, pulling real-time data from SQL databases.
 </p>
-
-
-
-
-
-
-
-
-
 
 
