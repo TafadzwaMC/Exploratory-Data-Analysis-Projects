@@ -79,6 +79,7 @@ Sales Order:
 <h1 align="left">Tech Stack</h1>
 <p>
     A. SQL: For querying the database to extract data.
+  
     B. Power BI: Used to create an interactive dashboard providing day-by-day insights, pulling real-time data from SQL databases.
 </p>
 
